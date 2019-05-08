@@ -2,23 +2,21 @@ import fs from 'fs';
 import game from './game';
 
 let arrtags = [];
-let arrname = [];
-let arrlink = [];
-let arrtitle = [];
+let newData = [];
+//const date = [new Date().toLocaleString()];
 
 for (let i = 0; i < game.length; i += 1) {
   arrtags = arrtags.concat(game[i].tags);
-  arrname = arrname.concat(game[i].name);
-  arrlink = arrlink.concat(game[i].link);
-  arrtitle = arrtitle.concat(game[i].title);
 }
-const newArr = [...new Set(arrtags)];
+const newArrtags = [...new Set(arrtags)];
 
-console.log(newArr);
+newArrtags.forEach((element) => {
+  newData = game.filter(user => user.tags.includes(element));
 
-for (let a = 0; a < newArr.length; a += 1) {
-  const data = JSON.stringify(newArr, null, 2);
-  fs.writeFile(`gametag/${newArr[a]}.json`, data, (err) => {
+  const time = JSON.stringify(date, null, 2);
+ // const testData = { ...newData, date : time };
+  const data = JSON.stringify(newData, null, 2);
+
+  fs.writeFile(`gametag/${element}.json`, data, (err) => {
     if (err) throw err;
   });
-}
