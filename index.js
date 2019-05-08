@@ -10,7 +10,7 @@ const newArrtags = [...new Set(arrtags)];
 
 newArrtags.forEach((element) => {
   const filter = game.filter(user => user.tags.includes(element));
-  const time = JSON.stringify(new Date().toLocaleString());
+  const time = new Date().toLocaleString();
   const result = { ...filter, Date: time };
   const data = JSON.stringify(result, null, 2);
 
