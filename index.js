@@ -2,6 +2,7 @@ import fs from 'fs';
 import game from './game';
 
 const tags = [];
+let gamelistobj;
 
 const getid = (element) => {
   const idsplit = (game.link);
@@ -26,9 +27,9 @@ const getupdatetime = (element) => {
   return time;
 };
 
-const geturl = (element) => game.link;
-const getname = (element) => game[1].name;
-const getimage = (element) => game.image;
+const geturl = element => game.link;
+const getname = element => game[1].name;
+const getimage = element => game.image;
 
 
 const creatobj = (element) => {
@@ -47,21 +48,16 @@ const creatobj = (element) => {
 console.log(creatobj());
 
 
-const appendjson (gamelistobj) => {
-  const data = JSON.stringify(gamelistobj, null, 2);
-  fs.writeFile(`gametag/${tags}.json`, data, (err) => {
-   if (err) throw err;
- });
-});
-
-
 
 game.forEach((element) => {
-  const gamelistobj = creatobj(element);
-element.tags.forEach(tags) => {
-  appendjson (gamelistobj,tags);
+  const gamelist = creatobj(element);
+
+element.tags.forEach((tags) => {
+  const data = JSON.stringify(gamelist, null, 2);
+  fs.writeFile(`gametag/${tags}.json`, data, (err) => { if (err) throw err; 
   });
 });
+
 
 // for (let i = 0; i < game.length; i += 1) {
 //   tags = tags.concat(game[i].tags);
@@ -72,4 +68,3 @@ element.tags.forEach(tags) => {
 //   const filter = game.filter(user => user.tags.includes(element));
 //   const result = { ID: id, Date: time, ...filter };
 //   const data = JSON.stringify(result, null, 2);
-
