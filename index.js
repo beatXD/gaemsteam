@@ -2,20 +2,18 @@ import fs from 'fs';
 import gameJSON from './game';
 
 const getid = (game) => {
-  const idsplit = game.link;
-  const id = `${idsplit.split('/')[4]}`;
+  const id = `${game.link.split('/')[4]}`;
   return id;
 };
 
 const gethost = (game) => {
-  const hostsplit = game.image;
-  const host = `${hostsplit.split('/')[3]}`;
+  const hostsearch = game.link.search('steam');
+  const host = game.link.substr(hostsearch, 5);
   return host;
 };
 
 const getdiscount = (game) => {
-  const discountslit = game.title;
-  const discount = `${discountslit.slice(5, 7)}`;
+  const discount = `${game.title.slice(5, 7)}`;
   return discount;
 };
 
@@ -41,7 +39,7 @@ const creatobj = (game) => {
   };
   return gameobj;
 };
-// console.log(creatobj());
+
 
 gameJSON.forEach((game) => {
   const gamelist = creatobj(game);
