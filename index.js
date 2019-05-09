@@ -1,7 +1,8 @@
 import fs from 'fs';
+// import SteamAPI from 'steamapi';
 import game from './game';
 
-let arrtags = [];
+const arrtags = [];
 
 for (let i = 0; i < game.length; i += 1) {
   arrtags = arrtags.concat(game[i].tags);
