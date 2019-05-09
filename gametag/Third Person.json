@@ -1,9 +1,398 @@
-{
-  "id": "1058500",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1058500/Muscle_Car_Robot/?snr=1_7_7_2300_150_88",
-  "name": "Muscle Car Robot",
-  "discount_percent": "40",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1058500/header.jpg?t=1556736449",
-  "update_at": "2019-05-09T07:44:38.250Z"
-}
+[
+  {
+    "id": "580200",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/580200/Yonder_The_Cloud_Catcher_Chronicles/?snr=1_7_7_2300_150_1",
+    "name": "Yonder: The Cloud Catcher Chronicles",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/580200/header.jpg?t=1524883651",
+    "update_at": "2019-05-09T10:58:53.415Z"
+  },
+  {
+    "id": "597170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/597170/Clone_Drone_in_the_Danger_Zone/?snr=1_7_7_2300_150_1",
+    "name": "Clone Drone in the Danger Zone",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597170/header.jpg?t=1556907763",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "253230",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/253230/A_Hat_in_Time/?snr=1_7_7_2300_150_1",
+    "name": "A Hat in Time",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/253230/header.jpg?t=1547355265",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "225080",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/?snr=1_7_7_2300_150_1",
+    "name": "Brothers - A Tale of Two Sons",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/225080/header.jpg?t=1461248665",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "32430",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32430/STAR_WARS__The_Force_Unleashed_Ultimate_Sith_Edition/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32430/header.jpg?t=1545238540",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "6060",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6060/Star_Wars_Battlefront_2_Classic_2005/?snr=1_7_7_2300_150_2",
+    "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6060/header.jpg?t=1542751113",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "208580",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/208580/header.jpg?t=1545238520",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "6030",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6030/STAR_WARS_Jedi_Knight_II__Jedi_Outcast/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6030/header.jpg?t=1545238437",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "32370",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - Knights of the Old Republic™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32370/header.jpg?t=1545238521",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "32500",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32500/STAR_WARS_The_Force_Unleashed_II/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™: The Force Unleashed™ II",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32500/header.jpg?t=1542758452",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "32510",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/?snr=1_7_7_2300_150_2",
+    "name": "LEGO® Star Wars™ III - The Clone Wars™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32510/header.jpg?t=1542758524",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "6020",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Jedi Knight - Jedi Academy™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6020/header.jpg?t=1545238466",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "218640",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/218640/Lucius/?snr=1_7_7_2300_150_3",
+    "name": "Lucius",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218640/header.jpg?t=1535010582",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "504050",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/504050/Planet_Nomads/?snr=1_7_7_2300_150_3",
+    "name": "Planet Nomads",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/504050/header.jpg?t=1556887965",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "32380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/32380/STAR_WARS_Jedi_Knight_Dark_Forces_II/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ Jedi Knight: Dark Forces II",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32380/header.jpg?t=1542757564",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "32390",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/32390/STAR_WARS_Jedi_Knight__Mysteries_of_the_Sith/?snr=1_7_7_2300_150_4",
+    "name": "STAR WARS™ Jedi Knight - Mysteries of the Sith™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32390/header.jpg?t=1542757616",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "1070580",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_4",
+    "name": "Drift86",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1070580/header.jpg?t=1556923750",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "1067560",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/1067560/AIR_Battlefront/?snr=1_7_7_2300_150_5",
+    "name": "AIR Battlefront",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1067560/header.jpg?t=1557157339",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "344910",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/344910/Sun_Blast_Star_Fighter/?snr=1_7_7_2300_150_6",
+    "name": "Sun Blast: Star Fighter",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/344910/header.jpg?t=1492978798",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "46500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/46500/Syberia/?snr=1_7_7_2300_150_9",
+    "name": "Syberia",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46500/header.jpg?t=1554900806",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "380020",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/380020/Three_Heroes/?snr=1_7_7_2300_150_11",
+    "name": "Three Heroes",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/380020/header.jpg?t=1492979176",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "384490",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/384490/NECROPOLIS_BRUTAL_EDITION/?snr=1_7_7_2300_150_22",
+    "name": "NECROPOLIS: BRUTAL EDITION",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384490/header.jpg?t=1536069036",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "464340",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/464340/Syberia_3/?snr=1_7_7_2300_150_25",
+    "name": "Syberia 3",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/464340/header.jpg?t=1554900634",
+    "update_at": "2019-05-09T10:58:53.416Z"
+  },
+  {
+    "id": "742460",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/742460/Marble_Skies/?snr=1_7_7_2300_150_29",
+    "name": "Marble Skies",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/742460/header.jpg?t=1556283419",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "281920",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/281920/Splatter__Zombie_Apocalypse/?snr=1_7_7_2300_150_29",
+    "name": "Splatter - Zombie Apocalypse",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/281920/header.jpg?t=1492978054",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "1037560",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/1037560/Fat_Prisoner_Simulator/?snr=1_7_7_2300_150_36",
+    "name": "Fat Prisoner Simulator",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1037560/header.jpg?t=1552822409",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "1037560",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/1037560/Fat_Prisoner_Simulator/?snr=1_7_7_2300_150_37",
+    "name": "Fat Prisoner Simulator",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1037560/header.jpg?t=1552822409",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "577740",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_42",
+    "name": "Winexy",
+    "discount_percent": "51",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/577740/header.jpg?t=1549420363",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "509000",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/509000/QUBIC/?snr=1_7_7_2300_150_43",
+    "name": "QUBIC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/509000/header.jpg?t=1551686819",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "701730",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/701730/Yi_and_the_Thousand_Moons/?snr=1_7_7_2300_150_51",
+    "name": "Yi and the Thousand Moons",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/701730/header.jpg?t=1545474444",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "799510",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/799510/Squidlit/?snr=1_7_7_2300_150_55",
+    "name": "Squidlit",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/799510/header.jpg?t=1554878955",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "677450",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/677450/Medieval_Shopkeeper_Simulator/?snr=1_7_7_2300_150_61",
+    "name": "Medieval Shopkeeper Simulator",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/677450/header.jpg?t=1556383416",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "996980",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/996980/Dis_Pontibus/?snr=1_7_7_2300_150_61",
+    "name": "Dis Pontibus",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/996980/header.jpg?t=1547744406",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "996980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/996980/Dis_Pontibus/?snr=1_7_7_2300_150_62",
+    "name": "Dis Pontibus",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/996980/header.jpg?t=1547744406",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "937950",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/937950/Not_in_Heaven/?snr=1_7_7_2300_150_64",
+    "name": "Not in Heaven",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937950/header.jpg?t=1548951462",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "667130",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/667130/Clumsy_Fred/?snr=1_7_7_2300_150_67",
+    "name": "Clumsy Fred",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/667130/header.jpg?t=1520484117",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "1013410",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/1013410/REDVIIL/?snr=1_7_7_2300_150_70",
+    "name": "REDVIIL",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1013410/header.jpg?t=1554539176",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "372750",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/372750/Girl_Amazon_Survival/?snr=1_7_7_2300_150_74",
+    "name": "Girl Amazon Survival",
+    "discount_percent": "74",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/372750/header.jpg?t=1534645720",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "204760",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/204760/Deep_Black_Reloaded/?snr=1_7_7_2300_150_74",
+    "name": "Deep Black: Reloaded",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/204760/header.jpg?t=1447355177",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "698140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/698140/SnakEscape_Plus/?snr=1_7_7_2300_150_81",
+    "name": "SnakEscape: Plus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/698140/header.jpg?t=1542281412",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "917990",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/917990/Starboost_EX/?snr=1_7_7_2300_150_84",
+    "name": "Starboost EX",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/917990/header.jpg?t=1547883428",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "952140",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/952140/Surrogate/?snr=1_7_7_2300_150_85",
+    "name": "Surrogate",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/952140/header.jpg?t=1540295339",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "1058500",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/1058500/Muscle_Car_Robot/?snr=1_7_7_2300_150_87",
+    "name": "Muscle Car Robot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1058500/header.jpg?t=1556736449",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  },
+  {
+    "id": "1058500",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1058500/Muscle_Car_Robot/?snr=1_7_7_2300_150_88",
+    "name": "Muscle Car Robot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1058500/header.jpg?t=1556736449",
+    "update_at": "2019-05-09T10:58:53.417Z"
+  }
+]

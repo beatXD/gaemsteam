@@ -1,9 +1,29 @@
-{
-  "id": "966660",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/966660/Invisible_Fist/?snr=1_7_7_2300_150_68",
-  "name": "Invisible Fist",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/966660/header.jpg?t=1557152499",
-  "update_at": "2019-05-09T07:44:37.699Z"
-}
+[
+  {
+    "id": "214340",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/214340/Deponia/?snr=1_7_7_2300_150_3",
+    "name": "Deponia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/214340/header.jpg?t=1550763265",
+    "update_at": "2019-05-09T10:57:53.960Z"
+  },
+  {
+    "id": "496890",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/496890/Replica/?snr=1_7_7_2300_150_30",
+    "name": "Replica",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/496890/header.jpg?t=1531879390",
+    "update_at": "2019-05-09T10:57:53.960Z"
+  },
+  {
+    "id": "966660",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/966660/Invisible_Fist/?snr=1_7_7_2300_150_68",
+    "name": "Invisible Fist",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/966660/header.jpg?t=1557152499",
+    "update_at": "2019-05-09T10:57:53.960Z"
+  }
+]

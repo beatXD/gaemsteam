@@ -1,9 +1,83 @@
-{
-  "id": "696400",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/696400/NeoBoom/?snr=1_7_7_2300_150_90",
-  "name": "NeoBoom",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/696400/header.jpg?t=1509441181",
-  "update_at": "2019-05-09T07:44:38.313Z"
-}
+[
+  {
+    "id": "879740",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_26",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "879740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_27",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "833890",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/833890/NeoSticks/?snr=1_7_7_2300_150_65",
+    "name": "NeoSticks",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833890/header.jpg?t=1524208713",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "989560",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/989560/NeoGeometry/?snr=1_7_7_2300_150_67",
+    "name": "NeoGeometry",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/989560/header.jpg?t=1549276662",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "718220",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/718220/NeoBoom2/?snr=1_7_7_2300_150_70",
+    "name": "NeoBoom2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/718220/header.jpg?t=1509470204",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "771610",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/771610/NeoBalls/?snr=1_7_7_2300_150_70",
+    "name": "NeoBalls",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/771610/header.jpg?t=1514985370",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "786560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/786560/NeoBalls2/?snr=1_7_7_2300_150_88",
+    "name": "NeoBalls2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/786560/header.jpg?t=1518679600",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "876910",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/876910/Aquarium_Simulator/?snr=1_7_7_2300_150_90",
+    "name": "Aquarium Simulator",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876910/header.jpg?t=1529645112",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  },
+  {
+    "id": "696400",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/696400/NeoBoom/?snr=1_7_7_2300_150_90",
+    "name": "NeoBoom",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/696400/header.jpg?t=1509441181",
+    "update_at": "2019-05-09T10:57:42.509Z"
+  }
+]

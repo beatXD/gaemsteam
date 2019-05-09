@@ -1,9 +1,182 @@
-{
-  "id": "958320",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/958320/A_Front_Too_Far_Normandy/?snr=1_7_7_2300_150_66",
-  "name": "A Front Too Far: Normandy",
-  "discount_percent": "22",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/958320/header.jpg?t=1556458982",
-  "update_at": "2019-05-09T07:44:37.663Z"
-}
+[
+  {
+    "id": "494840",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/494840/UBOAT/?snr=1_7_7_2300_150_1",
+    "name": "UBOAT",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/494840/header.jpg?t=1556636661",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "235380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/235380/Blitzkrieg_3/?snr=1_7_7_2300_150_3",
+    "name": "Blitzkrieg 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235380/header.jpg?t=1547539591",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "603850",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/603850/Age_of_Civilizations_II/?snr=1_7_7_2300_150_5",
+    "name": "Age of Civilizations II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603850/header.jpg?t=1551222352",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "1067560",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/1067560/AIR_Battlefront/?snr=1_7_7_2300_150_5",
+    "name": "AIR Battlefront",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1067560/header.jpg?t=1557157339",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "258420",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/258420/Unity_of_Command__Black_Turn_DLC/?snr=1_7_7_2300_150_9",
+    "name": "Unity of Command - Black Turn DLC",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/258420/header.jpg?t=1447359025",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "218100",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/218100/Unity_of_Command__Red_Turn_DLC/?snr=1_7_7_2300_150_9",
+    "name": "Unity of Command - Red Turn DLC",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218100/header.jpg?t=1447357130",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "218090",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/218090/Unity_of_Command_Stalingrad_Campaign/?snr=1_7_7_2300_150_12",
+    "name": "Unity of Command: Stalingrad Campaign",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218090/header.jpg?t=1555512908",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "22130",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/22130/Hearts_of_Iron_2_Complete/?snr=1_7_7_2300_150_13",
+    "name": "Hearts of Iron 2 Complete",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/22130/header.jpg?t=1447351672",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "283000",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/283000/Strategic_War_in_Europe/?snr=1_7_7_2300_150_14",
+    "name": "Strategic War in Europe",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/283000/header.jpg?t=1540989143",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "549080",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/549080/Tank_Warfare_Tunisia_1943/?snr=1_7_7_2300_150_15",
+    "name": "Tank Warfare: Tunisia 1943",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/549080/header.jpg?t=1554888629",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "597030",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/597030/Aircraft_Evolution/?snr=1_7_7_2300_150_16",
+    "name": "Aircraft Evolution",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597030/header.jpg?t=1553767827",
+    "update_at": "2019-05-09T10:58:50.207Z"
+  },
+  {
+    "id": "313480",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/313480/Blitzkrieg_Anthology/?snr=1_7_7_2300_150_16",
+    "name": "Blitzkrieg Anthology",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/313480/header.jpg?t=1545220634",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "313500",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/313500/Blitzkrieg_2_Anthology/?snr=1_7_7_2300_150_16",
+    "name": "Blitzkrieg 2 Anthology",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/313500/header.jpg?t=1545223960",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "302320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/302320/Storm_over_the_Pacific/?snr=1_7_7_2300_150_18",
+    "name": "Storm over the Pacific",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/302320/header.jpg?t=1540989015",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "310400",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/310400/World_of_GunsWorld_War_II_Pack/?snr=1_7_7_2300_150_26",
+    "name": "World of Guns:World War II Pack",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/310400/header.jpg?t=1447362432",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "823390",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/823390/The_Big_Three/?snr=1_7_7_2300_150_35",
+    "name": "The Big Three",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823390/header.jpg?t=1550912728",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "870260",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/870260/Forward_Line/?snr=1_7_7_2300_150_36",
+    "name": "Forward Line",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/870260/header.jpg?t=1556938055",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "870260",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/870260/Forward_Line/?snr=1_7_7_2300_150_37",
+    "name": "Forward Line",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/870260/header.jpg?t=1556938055",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "366650",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/366650/Blitzkrieg_3__Digital_Deluxe_Edition_Upgrade/?snr=1_7_7_2300_150_45",
+    "name": "Blitzkrieg 3 - Digital Deluxe Edition Upgrade",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366650/header.jpg?t=1545218695",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  },
+  {
+    "id": "958320",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/958320/A_Front_Too_Far_Normandy/?snr=1_7_7_2300_150_66",
+    "name": "A Front Too Far: Normandy",
+    "discount_percent": "22",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/958320/header.jpg?t=1556458982",
+    "update_at": "2019-05-09T10:58:50.208Z"
+  }
+]

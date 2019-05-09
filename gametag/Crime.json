@@ -1,9 +1,92 @@
-{
-  "id": "606971",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/606971/911_Operator__Search__Rescue/?snr=1_7_7_2300_150_35",
-  "name": "911 Operator - Search & Rescue",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/606971/header.jpg?t=1532622241",
-  "update_at": "2019-05-09T07:44:36.566Z"
-}
+[
+  {
+    "id": "368370",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/368370/Her_Story/?snr=1_7_7_2300_150_3",
+    "name": "Her Story",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/368370/header.jpg?t=1479954872",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "503560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/503560/911_Operator/?snr=1_7_7_2300_150_3",
+    "name": "911 Operator",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/503560/header.jpg?t=1550078854",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "481870",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/481870/Mini_Thief/?snr=1_7_7_2300_150_5",
+    "name": "Mini Thief",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/481870/header.jpg?t=1549559204",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "581310",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/581310/Riskers/?snr=1_7_7_2300_150_11",
+    "name": "Riskers",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/581310/header.jpg?t=1544369375",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "561770",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/561770/Just_Ignore_Them/?snr=1_7_7_2300_150_19",
+    "name": "Just Ignore Them",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/561770/header.jpg?t=1549558400",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "319970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/319970/The_Detail/?snr=1_7_7_2300_150_19",
+    "name": "The Detail",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/319970/header.jpg?t=1529997401",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "460960",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/460960/The_Deed_Dynasty/?snr=1_7_7_2300_150_24",
+    "name": "The Deed: Dynasty",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/460960/header.jpg?t=1554742862",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "431710",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/431710/Space_Pilgrim_Episode_II_Epsilon_Indi/?snr=1_7_7_2300_150_24",
+    "name": "Space Pilgrim Episode II: Epsilon Indi",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/431710/header.jpg?t=1554170489",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "881690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/881690/The_Slater/?snr=1_7_7_2300_150_28",
+    "name": "The Slater",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/881690/header.jpg?t=1552924298",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  },
+  {
+    "id": "606971",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/606971/911_Operator__Search__Rescue/?snr=1_7_7_2300_150_35",
+    "name": "911 Operator - Search & Rescue",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/606971/header.jpg?t=1532622241",
+    "update_at": "2019-05-09T10:58:04.708Z"
+  }
+]

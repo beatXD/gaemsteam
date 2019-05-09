@@ -1,9 +1,92 @@
-{
-  "id": "988760",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/988760/Druid__Wallpapers/?snr=1_7_7_2300_150_92",
-  "name": "Druid - Wallpapers",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/988760/header.jpg?t=1543421739",
-  "update_at": "2019-05-09T07:44:38.369Z"
-}
+[
+  {
+    "id": "552390",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/552390/Druid/?snr=1_7_7_2300_150_26",
+    "name": "Druid",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/552390/header.jpg?t=1550262992",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "596870",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/596870/Drop_Hunt__Adventure_Puzzle/?snr=1_7_7_2300_150_28",
+    "name": "Drop Hunt - Adventure Puzzle",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/596870/header.jpg?t=1550169075",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "971120",
+    "host": "1120/",
+    "url": "https://store.steampowered.com/app/971120/Forgiveness__Escape_Room/?snr=1_7_7_2300_150_36",
+    "name": "Forgiveness : Escape Room",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/971120/header.jpg?t=1557101396",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "971120",
+    "host": "1120/",
+    "url": "https://store.steampowered.com/app/971120/Forgiveness__Escape_Room/?snr=1_7_7_2300_150_37",
+    "name": "Forgiveness : Escape Room",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/971120/header.jpg?t=1557101396",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "877040",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/877040/Samurai_Wish/?snr=1_7_7_2300_150_44",
+    "name": "Samurai Wish",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877040/header.jpg?t=1551256648",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "877040",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/877040/Samurai_Wish/?snr=1_7_7_2300_150_45",
+    "name": "Samurai Wish",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877040/header.jpg?t=1551256648",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "592200",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/592200/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2/?snr=1_7_7_2300_150_46",
+    "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/592200/header.jpg?t=1553634294",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "956430",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
+    "name": "Steampunk Graveyard",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "946130",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/946130/Druid__Soundtrack/?snr=1_7_7_2300_150_92",
+    "name": "Druid - Soundtrack",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/946130/header.jpg?t=1542988402",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  },
+  {
+    "id": "988760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/988760/Druid__Wallpapers/?snr=1_7_7_2300_150_92",
+    "name": "Druid - Wallpapers",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/988760/header.jpg?t=1543421739",
+    "update_at": "2019-05-09T10:57:44.455Z"
+  }
+]

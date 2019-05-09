@@ -1,9 +1,119 @@
-{
-  "id": "1031410",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
-  "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
-  "update_at": "2019-05-09T07:44:38.347Z"
-}
+[
+  {
+    "id": "289070",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+    "name": "Sid Meier’s Civilization® VI",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/289070/header.jpg?t=1553635190",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "4920",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/4920/Natural_Selection_2/?snr=1_7_7_2300_150_2",
+    "name": "Natural Selection 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/4920/header.jpg?t=1556995331",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "238370",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/238370/Magicka_2/?snr=1_7_7_2300_150_19",
+    "name": "Magicka 2",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/238370/header.jpg?t=1552039729",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "344760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/344760/Reign_Of_Kings/?snr=1_7_7_2300_150_22",
+    "name": "Reign Of Kings",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/344760/header.jpg?t=1478208824",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "742900",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/742900/Sleeping_Dawn/?snr=1_7_7_2300_150_23",
+    "name": "Sleeping Dawn",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/742900/header.jpg?t=1548235089",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "526160",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/526160/The_Wild_Eight/?snr=1_7_7_2300_150_50",
+    "name": "The Wild Eight",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/526160/header.jpg?t=1556010090",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "225280",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/225280/Full_Mojo_Rampage/?snr=1_7_7_2300_150_55",
+    "name": "Full Mojo Rampage",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/225280/header.jpg?t=1478540673",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "806530",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/806530/Unending_Dusk/?snr=1_7_7_2300_150_61",
+    "name": "Unending Dusk",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806530/header.jpg?t=1555130345",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "415570",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/415570/Fantasy_Grounds__DD_Sword_Coast_Adventurers_Guide/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - D&D Sword Coast Adventurer's Guide",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415570/header.jpg?t=1505076273",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "299140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/299140/Fantasy_Grounds__PFRPG_Basic_Paths_Fangs_from_the_Past/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - PFRPG Basic Paths: Fangs from the Past",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/299140/header.jpg?t=1447361719",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "504490",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/504490/The_Gods_Chain/?snr=1_7_7_2300_150_79",
+    "name": "The God's Chain",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/504490/header.jpg?t=1500130635",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "1061240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1061240/Quiet_Sleep/?snr=1_7_7_2300_150_88",
+    "name": "Quiet Sleep",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1061240/header.jpg?t=1556913401",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  },
+  {
+    "id": "1031410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
+    "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
+    "update_at": "2019-05-09T10:58:48.196Z"
+  }
+]

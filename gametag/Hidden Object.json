@@ -1,9 +1,227 @@
-{
-  "id": "1074700",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1074700/Witches_Legacy_The_Charleston_Curse_Collectors_Edition/?snr=1_7_7_2300_150_93",
-  "name": "Witches' Legacy: The Charleston Curse Collector's Edition",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1074700/header.jpg?t=1556900729",
-  "update_at": "2019-05-09T07:44:38.407Z"
-}
+[
+  {
+    "id": "214340",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/214340/Deponia/?snr=1_7_7_2300_150_3",
+    "name": "Deponia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/214340/header.jpg?t=1550763265",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "846690",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/846690/Lost_Lands_Ice_Spell/?snr=1_7_7_2300_150_6",
+    "name": "Lost Lands: Ice Spell",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/846690/header.jpg?t=1545052502",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "299160",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/299160/Empress_Of_The_Deep_2_Song_Of_The_Blue_Whale/?snr=1_7_7_2300_150_15",
+    "name": "Empress Of The Deep 2: Song Of The Blue Whale",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/299160/header.jpg?t=1447361722",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "363330",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/363330/Mind_Snares_Alices_Journey/?snr=1_7_7_2300_150_16",
+    "name": "Mind Snares: Alice's Journey",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/363330/header.jpg?t=1530538923",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "414660",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/414660/Vampire_Legends_The_True_Story_of_Kisilova/?snr=1_7_7_2300_150_16",
+    "name": "Vampire Legends: The True Story of Kisilova",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414660/header.jpg?t=1530539039",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "586280",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/586280/Dima_Rescues_Ira/?snr=1_7_7_2300_150_17",
+    "name": "Dima Rescues Ira",
+    "discount_percent": "81",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/586280/header.jpg?t=1550920010",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "392970",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/392970/New_York_Mysteries_High_Voltage/?snr=1_7_7_2300_150_20",
+    "name": "New York Mysteries: High Voltage",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/392970/header.jpg?t=1495541031",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "706490",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/706490/Little_hidden_city/?snr=1_7_7_2300_150_23",
+    "name": "Little hidden city",
+    "discount_percent": "74",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/706490/header.jpg?t=1530509166",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "376490",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/376490/The_Great_Gatsby_Secret_Treasure/?snr=1_7_7_2300_150_24",
+    "name": "The Great Gatsby: Secret Treasure",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/376490/header.jpg?t=1505441666",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "458470",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/458470/Grim_Legends_3_The_Dark_City/?snr=1_7_7_2300_150_24",
+    "name": "Grim Legends 3: The Dark City",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/458470/header.jpg?t=1530538889",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "350010",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/350010/Time_Mysteries_Inheritance__Remastered/?snr=1_7_7_2300_150_25",
+    "name": "Time Mysteries: Inheritance - Remastered",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/350010/header.jpg?t=1530539033",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "464340",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/464340/Syberia_3/?snr=1_7_7_2300_150_25",
+    "name": "Syberia 3",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/464340/header.jpg?t=1554900634",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "574260",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/574260/The_Secret_Order_5_The_Buried_Kingdom/?snr=1_7_7_2300_150_28",
+    "name": "The Secret Order 5: The Buried Kingdom",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/574260/header.jpg?t=1530539019",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "898780",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/898780/Escape_Game/?snr=1_7_7_2300_150_29",
+    "name": "Escape Game",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/898780/header.jpg?t=1551109128",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "677020",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/677020/Eventide_3_Legacy_of_Legends/?snr=1_7_7_2300_150_30",
+    "name": "Eventide 3: Legacy of Legends",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/677020/header.jpg?t=1511418501",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "354240",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/?snr=1_7_7_2300_150_30",
+    "name": "Please, Don’t Touch Anything",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/354240/header.jpg?t=1498065674",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "991960",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/991960/Greed_The_Mad_Scientist/?snr=1_7_7_2300_150_35",
+    "name": "Greed: The Mad Scientist",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/991960/header.jpg?t=1548099212",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "768290",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/768290/Snow_White_Solitaire_Charmed_Kingdom/?snr=1_7_7_2300_150_37",
+    "name": "Snow White Solitaire. Charmed Kingdom",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/768290/header.jpg?t=1552569749",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "746840",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/746840/Chronicles_of_Magic_Divided_Kingdoms/?snr=1_7_7_2300_150_39",
+    "name": "Chronicles of Magic: Divided Kingdoms",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/746840/header.jpg?t=1548311936",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "922700",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/922700/Hidden_Animals__Photo_Hunt_Seek_and_Find_Game/?snr=1_7_7_2300_150_54",
+    "name": "Hidden Animals : Photo Hunt. Seek and Find Game",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/922700/header.jpg?t=1539923605",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "816490",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/816490/Hidden_Paws/?snr=1_7_7_2300_150_58",
+    "name": "Hidden Paws",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/816490/header.jpg?t=1549637285",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "937850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/937850/Hidden_Paws_Mystery/?snr=1_7_7_2300_150_68",
+    "name": "Hidden Paws Mystery",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937850/header.jpg?t=1551969165",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "856260",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/856260/100_Chests/?snr=1_7_7_2300_150_74",
+    "name": "100 Chests",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/856260/header.jpg?t=1531861955",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "573650",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/573650/3_days_Zoo_Mystery/?snr=1_7_7_2300_150_80",
+    "name": "3 days: Zoo Mystery",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/573650/header.jpg?t=1542717526",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  },
+  {
+    "id": "1074700",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1074700/Witches_Legacy_The_Charleston_Curse_Collectors_Edition/?snr=1_7_7_2300_150_93",
+    "name": "Witches' Legacy: The Charleston Curse Collector's Edition",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1074700/header.jpg?t=1556900729",
+    "update_at": "2019-05-09T10:58:09.526Z"
+  }
+]

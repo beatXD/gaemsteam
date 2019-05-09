@@ -1,9 +1,128 @@
-{
-  "id": "795910",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/795910/Montero/?snr=1_7_7_2300_150_63",
-  "name": "Montero",
-  "discount_percent": "27",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/795910/header.jpg?t=1531308498",
-  "update_at": "2019-05-09T07:44:37.590Z"
-}
+[
+  {
+    "id": "368370",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/368370/Her_Story/?snr=1_7_7_2300_150_3",
+    "name": "Her Story",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/368370/header.jpg?t=1479954872",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "792040",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/792040/Detective_Di_The_Silk_Rose_Murders/?snr=1_7_7_2300_150_5",
+    "name": "Detective Di: The Silk Rose Murders | 狄仁杰之锦蔷薇",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/792040/header.jpg?t=1556774073",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "972850",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/972850/The_Blame/?snr=1_7_7_2300_150_17",
+    "name": "The Blame",
+    "discount_percent": "74",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/972850/header.jpg?t=1545367924",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "319970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/319970/The_Detail/?snr=1_7_7_2300_150_19",
+    "name": "The Detail",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/319970/header.jpg?t=1529997401",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "460960",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/460960/The_Deed_Dynasty/?snr=1_7_7_2300_150_24",
+    "name": "The Deed: Dynasty",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/460960/header.jpg?t=1554742862",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "971120",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/971120/Forgiveness__Escape_Room/?snr=1_7_7_2300_150_36",
+    "name": "Forgiveness : Escape Room",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/971120/header.jpg?t=1557101396",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "971120",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/971120/Forgiveness__Escape_Room/?snr=1_7_7_2300_150_37",
+    "name": "Forgiveness : Escape Room",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/971120/header.jpg?t=1557101396",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "593200",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/593200/The_Adventures_of_Fei_Duanmu/?snr=1_7_7_2300_150_41",
+    "name": "The Adventures of Fei Duanmu 端木斐异闻录",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/593200/header.jpg?t=1541166802",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "682480",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/682480/__The_untold_story_of_hengshui_school/?snr=1_7_7_2300_150_41",
+    "name": "恒水中学连环虐杀 / The untold story of hengshui school",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/682480/header.jpg?t=1550111979",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "503820",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/503820/A_Detectives_Novel/?snr=1_7_7_2300_150_44",
+    "name": "A Detective's Novel",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/503820/header.jpg?t=1469735483",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "712980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/712980/Rainyday/?snr=1_7_7_2300_150_52",
+    "name": "Rainyday",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/712980/header.jpg?t=1546781962",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "772290",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_61",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "772290",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_62",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  },
+  {
+    "id": "795910",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/795910/Montero/?snr=1_7_7_2300_150_63",
+    "name": "Montero",
+    "discount_percent": "27",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/795910/header.jpg?t=1531308498",
+    "update_at": "2019-05-09T10:57:57.231Z"
+  }
+]

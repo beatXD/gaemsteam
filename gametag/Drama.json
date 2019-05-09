@@ -1,9 +1,119 @@
-{
-  "id": "1029890",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
-  "name": "Layers of Fear 2",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
-  "update_at": "2019-05-09T07:44:38.396Z"
-}
+[
+  {
+    "id": "503560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/503560/911_Operator/?snr=1_7_7_2300_150_3",
+    "name": "911 Operator",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/503560/header.jpg?t=1550078854",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "789930",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/789930/Blind_Boris/?snr=1_7_7_2300_150_22",
+    "name": "Blind Boris",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/789930/header.jpg?t=1553600368",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "430960",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/430960/Lucy_The_Eternity_She_Wished_For/?snr=1_7_7_2300_150_24",
+    "name": "Lucy -The Eternity She Wished For-",
+    "discount_percent": "55",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/430960/header.jpg?t=1539564278",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "870110",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/870110/The_Monsters_History_Book/?snr=1_7_7_2300_150_36",
+    "name": "The Monsters' History Book",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/870110/header.jpg?t=1549893078",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "870110",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/870110/The_Monsters_History_Book/?snr=1_7_7_2300_150_37",
+    "name": "The Monsters' History Book",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/870110/header.jpg?t=1549893078",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "785640",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/785640/Luminescence/?snr=1_7_7_2300_150_43",
+    "name": "Luminescence",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/785640/header.jpg?t=1536814465",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "642240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/642240/Lucy_The_Eternity_She_Wished_For_Ending_Theme_OST/?snr=1_7_7_2300_150_58",
+    "name": "Lucy -The Eternity She Wished For- Ending Theme OST",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/642240/header.jpg?t=1539564808",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "772290",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_61",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "772290",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_62",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "823330",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/823330/Marginal_act/?snr=1_7_7_2300_150_78",
+    "name": "Marginal act",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823330/header.jpg?t=1550014615",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "823330",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/823330/Marginal_act/?snr=1_7_7_2300_150_79",
+    "name": "Marginal act",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823330/header.jpg?t=1550014615",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "888750",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/888750/Seed_of_Amaranth/?snr=1_7_7_2300_150_85",
+    "name": "Seed of Amaranth",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/888750/header.jpg?t=1540922391",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  },
+  {
+    "id": "1029890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
+    "name": "Layers of Fear 2",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
+    "update_at": "2019-05-09T10:57:54.364Z"
+  }
+]

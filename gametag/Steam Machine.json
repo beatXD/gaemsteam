@@ -1,9 +1,11 @@
-{
-  "id": "485670",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/485670/Mini_Golf_Arena/?snr=1_7_7_2300_150_4",
-  "name": "Mini Golf Arena",
-  "discount_percent": "90",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/485670/header.jpg?t=1551470172",
-  "update_at": "2019-05-09T07:44:34.707Z"
-}
+[
+  {
+    "id": "485670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/485670/Mini_Golf_Arena/?snr=1_7_7_2300_150_4",
+    "name": "Mini Golf Arena",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/485670/header.jpg?t=1551470172",
+    "update_at": "2019-05-09T10:57:55.772Z"
+  }
+]

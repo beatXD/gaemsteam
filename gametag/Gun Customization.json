@@ -1,9 +1,20 @@
-{
-  "id": "560600",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/560600/PlanTechtor/?snr=1_7_7_2300_150_61",
-  "name": "PlanTechtor",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/560600/header.jpg?t=1551289303",
-  "update_at": "2019-05-09T07:44:37.528Z"
-}
+[
+  {
+    "id": "645730",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/645730/RESONANCE_OF_FATEEND_OF_ETERNITY_4KHD_EDITION/?snr=1_7_7_2300_150_2",
+    "name": "RESONANCE OF FATE™/END OF ETERNITY™ 4K/HD EDITION",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645730/header.jpg?t=1542081188",
+    "update_at": "2019-05-09T10:57:52.770Z"
+  },
+  {
+    "id": "560600",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/560600/PlanTechtor/?snr=1_7_7_2300_150_61",
+    "name": "PlanTechtor",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/560600/header.jpg?t=1551289303",
+    "update_at": "2019-05-09T10:57:52.770Z"
+  }
+]

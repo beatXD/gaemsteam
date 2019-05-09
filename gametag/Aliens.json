@@ -1,9 +1,47 @@
-{
-  "id": "463130",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/463130/Bug_N_Out/?snr=1_7_7_2300_150_89",
-  "name": "Bug N Out",
-  "discount_percent": "33",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/463130/header.jpg?t=1510309361",
-  "update_at": "2019-05-09T07:44:38.270Z"
-}
+[
+  {
+    "id": "4920",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/4920/Natural_Selection_2/?snr=1_7_7_2300_150_2",
+    "name": "Natural Selection 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/4920/header.jpg?t=1556995331",
+    "update_at": "2019-05-09T10:57:51.734Z"
+  },
+  {
+    "id": "972050",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/972050/Super_Captain_3D/?snr=1_7_7_2300_150_17",
+    "name": "Super Captain 3D",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/972050/header.jpg?t=1547061291",
+    "update_at": "2019-05-09T10:57:51.734Z"
+  },
+  {
+    "id": "65980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/?snr=1_7_7_2300_150_22",
+    "name": "Sid Meier's Civilization®: Beyond Earth™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/65980/header.jpg?t=1545237799",
+    "update_at": "2019-05-09T10:57:51.734Z"
+  },
+  {
+    "id": "504490",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/504490/The_Gods_Chain/?snr=1_7_7_2300_150_79",
+    "name": "The God's Chain",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/504490/header.jpg?t=1500130635",
+    "update_at": "2019-05-09T10:57:51.734Z"
+  },
+  {
+    "id": "463130",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/463130/Bug_N_Out/?snr=1_7_7_2300_150_89",
+    "name": "Bug N Out",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/463130/header.jpg?t=1510309361",
+    "update_at": "2019-05-09T10:57:51.734Z"
+  }
+]

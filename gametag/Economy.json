@@ -1,9 +1,101 @@
-{
-  "id": "664120",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/664120/Wildlife_Park_Gold_Reloaded/?snr=1_7_7_2300_150_88",
-  "name": "Wildlife Park Gold Reloaded",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/664120/header.jpg?t=1549969679",
-  "update_at": "2019-05-09T07:44:38.245Z"
-}
+[
+  {
+    "id": "613100",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/613100/House_Flipper/?snr=1_7_7_2300_150_1",
+    "name": "House Flipper",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/613100/header.jpg?t=1556269061",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "591370",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/591370/Production_Line__Car_factory_simulation/?snr=1_7_7_2300_150_3",
+    "name": "Production Line : Car factory simulation",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/591370/header.jpg?t=1557149071",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "950990",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/950990/Business_Magnate/?snr=1_7_7_2300_150_5",
+    "name": "Business Magnate",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/950990/header.jpg?t=1556883581",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "858810",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/858810/Dawn_of_Man/?snr=1_7_7_2300_150_6",
+    "name": "Dawn of Man",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "3900",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/3900/Sid_Meiers_Civilization_IV/?snr=1_7_7_2300_150_13",
+    "name": "Sid Meier's Civilization® IV",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/3900/header.jpg?t=1545236003",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "711010",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/711010/Corrupt__Political_Simulator/?snr=1_7_7_2300_150_28",
+    "name": "Corrupt - Political Simulator",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/711010/header.jpg?t=1557142513",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "391280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/391280/Epic_Manager__Create_Your_Own_Adventuring_Agency/?snr=1_7_7_2300_150_44",
+    "name": "Epic Manager - Create Your Own Adventuring Agency!",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/391280/header.jpg?t=1503499518",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "391280",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/391280/Epic_Manager__Create_Your_Own_Adventuring_Agency/?snr=1_7_7_2300_150_45",
+    "name": "Epic Manager - Create Your Own Adventuring Agency!",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/391280/header.jpg?t=1503499518",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "773580",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/773580/Game_Dev_Studio/?snr=1_7_7_2300_150_50",
+    "name": "Game Dev Studio",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/773580/header.jpg?t=1554880715",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "781480",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/781480/Tech_Support_Error_Unknown/?snr=1_7_7_2300_150_64",
+    "name": "Tech Support: Error Unknown",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/781480/header.jpg?t=1551717285",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  },
+  {
+    "id": "664120",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/664120/Wildlife_Park_Gold_Reloaded/?snr=1_7_7_2300_150_88",
+    "name": "Wildlife Park Gold Reloaded",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/664120/header.jpg?t=1549969679",
+    "update_at": "2019-05-09T10:58:53.884Z"
+  }
+]

@@ -1,9 +1,128 @@
-{
-  "id": "1031410",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
-  "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
-  "update_at": "2019-05-09T07:44:38.347Z"
-}
+[
+  {
+    "id": "251810",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/251810/Leadwerks_Game_Engine/?snr=1_7_7_2300_150_15",
+    "name": "Leadwerks Game Engine",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/251810/header.jpg?t=1552944805",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "430060",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/430060/Leadwerks_Game_Engine__Nature_Model_Pack/?snr=1_7_7_2300_150_21",
+    "name": "Leadwerks Game Engine - Nature Model Pack",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/430060/header.jpg?t=1462402185",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "410530",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/410530/AppGameKit__Giant_Asset_Pack_1/?snr=1_7_7_2300_150_32",
+    "name": "AppGameKit - Giant Asset Pack 1",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/410530/header.jpg?t=1556632034",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "822010",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/822010/GameGuru__Melee_Weapons_Pack/?snr=1_7_7_2300_150_33",
+    "name": "GameGuru - Melee Weapons Pack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822010/header.jpg?t=1535479810",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "822010",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/822010/GameGuru__Melee_Weapons_Pack/?snr=1_7_7_2300_150_34",
+    "name": "GameGuru - Melee Weapons Pack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822010/header.jpg?t=1535479810",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "266310",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/266310/GameGuru/?snr=1_7_7_2300_150_40",
+    "name": "GameGuru",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/266310/header.jpg?t=1556926808",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "780100",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/780100/ClearMem__Free_Up_Your_RAM/?snr=1_7_7_2300_150_42",
+    "name": "ClearMem :: Free Up Your RAM",
+    "discount_percent": "51",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/780100/header.jpg?t=1544810027",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "365440",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/365440/Platfinity/?snr=1_7_7_2300_150_43",
+    "name": "Platfinity™",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/365440/header.jpg?t=1535571179",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "345720",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/345720/The_Official_AppGameKit_Tutorial_Guide_Vol_1/?snr=1_7_7_2300_150_46",
+    "name": "The Official AppGameKit Tutorial Guide Vol 1",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/345720/header.jpg?t=1556632209",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "536690",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_57",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "536690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_58",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "415570",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/415570/Fantasy_Grounds__DD_Sword_Coast_Adventurers_Guide/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - D&D Sword Coast Adventurer's Guide",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415570/header.jpg?t=1505076273",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "677150",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/677150/RPG_World__Forgotten_Lands/?snr=1_7_7_2300_150_61",
+    "name": "RPG World - Forgotten Lands",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/677150/header.jpg?t=1533328018",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  },
+  {
+    "id": "1031410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
+    "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
+    "update_at": "2019-05-09T10:57:34.860Z"
+  }
+]

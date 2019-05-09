@@ -1,9 +1,101 @@
-{
-  "id": "917990",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/917990/Starboost_EX/?snr=1_7_7_2300_150_84",
-  "name": "Starboost EX",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/917990/header.jpg?t=1547883428",
-  "update_at": "2019-05-09T07:44:38.079Z"
-}
+[
+  {
+    "id": "879610",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879610/Girl_Mod__GIRLS_VR_create__pose_in_VR/?snr=1_7_7_2300_150_6",
+    "name": "Girl Mod | GIRLS VR (create + pose in VR)",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879610/header.jpg?t=1539976216",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "898450",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/898450/UBERMOSHSANTICIDE/?snr=1_7_7_2300_150_7",
+    "name": "UBERMOSH:SANTICIDE",
+    "discount_percent": "88",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/898450/header.jpg?t=1550577503",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "310740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/310740/NEON_STRUCT/?snr=1_7_7_2300_150_7",
+    "name": "NEON STRUCT",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/310740/header.jpg?t=1555631497",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "542400",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/542400/Pixel_Gladiator/?snr=1_7_7_2300_150_15",
+    "name": "Pixel Gladiator",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/542400/header.jpg?t=1541314932",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "444940",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/444940/UBERMOSHBLACK/?snr=1_7_7_2300_150_30",
+    "name": "UBERMOSH:BLACK",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/444940/header.jpg?t=1496617387",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "516590",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/516590/CyberThreat/?snr=1_7_7_2300_150_39",
+    "name": "CyberThreat",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/516590/header.jpg?t=1510938643",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "861670",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/861670/Street_Level_Windows_Edition/?snr=1_7_7_2300_150_40",
+    "name": "Street Level: Windows Edition",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/861670/header.jpg?t=1528285306",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "976830",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/976830/Diaper_Quest_2055/?snr=1_7_7_2300_150_46",
+    "name": "Diaper Quest 2055",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/976830/header.jpg?t=1543268235",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "491040",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/491040/Bot_Vice/?snr=1_7_7_2300_150_58",
+    "name": "Bot Vice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/491040/header.jpg?t=1556873052",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "806530",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/806530/Unending_Dusk/?snr=1_7_7_2300_150_61",
+    "name": "Unending Dusk",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806530/header.jpg?t=1555130345",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  },
+  {
+    "id": "917990",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/917990/Starboost_EX/?snr=1_7_7_2300_150_84",
+    "name": "Starboost EX",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/917990/header.jpg?t=1547883428",
+    "update_at": "2019-05-09T10:57:59.314Z"
+  }
+]

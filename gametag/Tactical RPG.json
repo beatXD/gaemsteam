@@ -1,9 +1,47 @@
-{
-  "id": "691690",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/?snr=1_7_7_2300_150_28",
-  "name": "Ash of Gods: Redemption",
-  "discount_percent": "60",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/691690/header.jpg?t=1553772874",
-  "update_at": "2019-05-09T07:44:36.243Z"
-}
+[
+  {
+    "id": "699170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/?snr=1_7_7_2300_150_1",
+    "name": "Fell Seal: Arbiter's Mark",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/699170/header.jpg?t=1556896846",
+    "update_at": "2019-05-09T10:58:54.219Z"
+  },
+  {
+    "id": "249650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/249650/Blackguards/?snr=1_7_7_2300_150_11",
+    "name": "Blackguards",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/249650/header.jpg?t=1524646862",
+    "update_at": "2019-05-09T10:58:54.219Z"
+  },
+  {
+    "id": "708950",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/708950/Steam_Tactics/?snr=1_7_7_2300_150_12",
+    "name": "Steam Tactics",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/708950/header.jpg?t=1510687773",
+    "update_at": "2019-05-09T10:58:54.219Z"
+  },
+  {
+    "id": "403970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/403970/The_Dwarves/?snr=1_7_7_2300_150_19",
+    "name": "The Dwarves",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/403970/header.jpg?t=1489400983",
+    "update_at": "2019-05-09T10:58:54.219Z"
+  },
+  {
+    "id": "691690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/?snr=1_7_7_2300_150_28",
+    "name": "Ash of Gods: Redemption",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/691690/header.jpg?t=1553772874",
+    "update_at": "2019-05-09T10:58:54.219Z"
+  }
+]

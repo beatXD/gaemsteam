@@ -1,9 +1,47 @@
-{
-  "id": "998570",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/998570/DeVine_Card_Battles/?snr=1_7_7_2300_150_45",
-  "name": "De'Vine: Card Battles",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/998570/header.jpg?t=1556029652",
-  "update_at": "2019-05-09T07:44:37.005Z"
-}
+[
+  {
+    "id": "699170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/?snr=1_7_7_2300_150_1",
+    "name": "Fell Seal: Arbiter's Mark",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/699170/header.jpg?t=1556896846",
+    "update_at": "2019-05-09T10:58:54.218Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:58:54.218Z"
+  },
+  {
+    "id": "46570",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46570/Grotesque_Tactics_2__Dungeons_and_Donuts/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics 2 – Dungeons and Donuts",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46570/header.jpg?t=1542379662",
+    "update_at": "2019-05-09T10:58:54.218Z"
+  },
+  {
+    "id": "761030",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/761030/EARTHLOCK/?snr=1_7_7_2300_150_31",
+    "name": "EARTHLOCK",
+    "discount_percent": "56",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/761030/header.jpg?t=1549638899",
+    "update_at": "2019-05-09T10:58:54.218Z"
+  },
+  {
+    "id": "998570",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/998570/DeVine_Card_Battles/?snr=1_7_7_2300_150_45",
+    "name": "De'Vine: Card Battles",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/998570/header.jpg?t=1556029652",
+    "update_at": "2019-05-09T10:58:54.218Z"
+  }
+]

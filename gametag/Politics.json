@@ -1,9 +1,74 @@
-{
-  "id": "966660",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/966660/Invisible_Fist/?snr=1_7_7_2300_150_68",
-  "name": "Invisible Fist",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/966660/header.jpg?t=1557152499",
-  "update_at": "2019-05-09T07:44:37.699Z"
-}
+[
+  {
+    "id": "603850",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/603850/Age_of_Civilizations_II/?snr=1_7_7_2300_150_5",
+    "name": "Age of Civilizations II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603850/header.jpg?t=1551222352",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "858810",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/858810/Dawn_of_Man/?snr=1_7_7_2300_150_6",
+    "name": "Dawn of Man",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "752330",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/752330/Shape_of_America_Episode_One/?snr=1_7_7_2300_150_26",
+    "name": "Shape of America: Episode One",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/752330/header.jpg?t=1530611236",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "427470",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/427470/Democracy_3_Africa/?snr=1_7_7_2300_150_33",
+    "name": "Democracy 3 Africa",
+    "discount_percent": "55",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/427470/header.jpg?t=1478025016",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "951670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_64",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "781480",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/781480/Tech_Support_Error_Unknown/?snr=1_7_7_2300_150_64",
+    "name": "Tech Support: Error Unknown",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/781480/header.jpg?t=1551717285",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "951670",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_65",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  },
+  {
+    "id": "966660",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/966660/Invisible_Fist/?snr=1_7_7_2300_150_68",
+    "name": "Invisible Fist",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/966660/header.jpg?t=1557152499",
+    "update_at": "2019-05-09T10:57:57.636Z"
+  }
+]

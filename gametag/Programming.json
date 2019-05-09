@@ -1,9 +1,11 @@
-{
-  "id": "943190",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/943190/OCTOPTICOM/?snr=1_7_7_2300_150_57",
-  "name": "OCTOPTICOM",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/943190/header.jpg?t=1547821716",
-  "update_at": "2019-05-09T07:44:37.400Z"
-}
+[
+  {
+    "id": "943190",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/943190/OCTOPTICOM/?snr=1_7_7_2300_150_57",
+    "name": "OCTOPTICOM",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/943190/header.jpg?t=1547821716",
+    "update_at": "2019-05-09T10:53:42.211Z"
+  }
+]

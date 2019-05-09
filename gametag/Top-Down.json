@@ -1,9 +1,353 @@
-{
-  "id": "696400",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/696400/NeoBoom/?snr=1_7_7_2300_150_90",
-  "name": "NeoBoom",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/696400/header.jpg?t=1509441181",
-  "update_at": "2019-05-09T07:44:38.313Z"
-}
+[
+  {
+    "id": "619780",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/619780/The_Swords_of_Ditto_Mormos_Curse/?snr=1_7_7_2300_150_1",
+    "name": "The Swords of Ditto: Mormo's Curse",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/619780/header.jpg?t=1556849891",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "539700",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/539700/SWEATER_OK/?snr=1_7_7_2300_150_3",
+    "name": "SWEATER? OK!",
+    "discount_percent": "86",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/539700/header.jpg?t=1551157731",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "296490",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/296490/GemCraft__Chasing_Shadows/?snr=1_7_7_2300_150_4",
+    "name": "GemCraft - Chasing Shadows",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/296490/header.jpg?t=1511185831",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "740410",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/740410/Puzzle_Chambers/?snr=1_7_7_2300_150_4",
+    "name": "Puzzle Chambers",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/740410/header.jpg?t=1549476802",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "603100",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/603100/ATOMINE/?snr=1_7_7_2300_150_9",
+    "name": "ATOMINE",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603100/header.jpg?t=1551978434",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "581310",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/581310/Riskers/?snr=1_7_7_2300_150_11",
+    "name": "Riskers",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/581310/header.jpg?t=1544369375",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "219200",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/219200/Droid_Assault/?snr=1_7_7_2300_150_17",
+    "name": "Droid Assault",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/219200/header.jpg?t=1525215589",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "269690",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/269690/RymdResa/?snr=1_7_7_2300_150_19",
+    "name": "RymdResa",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/269690/header.jpg?t=1503490707",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "355010",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/355010/Race_Arcade/?snr=1_7_7_2300_150_22",
+    "name": "Race Arcade",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/355010/header.jpg?t=1510910256",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "542930",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/542930/Painted_Memories/?snr=1_7_7_2300_150_26",
+    "name": "Painted Memories",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/542930/header.jpg?t=1551658880",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "281920",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/281920/Splatter__Zombie_Apocalypse/?snr=1_7_7_2300_150_29",
+    "name": "Splatter - Zombie Apocalypse",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/281920/header.jpg?t=1492978054",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "643960",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/643960/Cursed_Treasure_2/?snr=1_7_7_2300_150_29",
+    "name": "Cursed Treasure 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/643960/header.jpg?t=1511185920",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "969480",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/969480/Warp_Glider/?snr=1_7_7_2300_150_35",
+    "name": "Warp Glider",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/969480/header.jpg?t=1549651598",
+    "update_at": "2019-05-09T10:58:48.626Z"
+  },
+  {
+    "id": "640970",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/640970/In_Game_Adventure_Legend_of_Monsters/?snr=1_7_7_2300_150_38",
+    "name": "In Game Adventure: Legend of Monsters",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640970/header.jpg?t=1540004034",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "640970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/640970/In_Game_Adventure_Legend_of_Monsters/?snr=1_7_7_2300_150_39",
+    "name": "In Game Adventure: Legend of Monsters",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640970/header.jpg?t=1540004034",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "406130",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/406130/DarkMaus/?snr=1_7_7_2300_150_40",
+    "name": "DarkMaus",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/406130/header.jpg?t=1455644929",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "808080",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/808080/Ultimate_Racing_2D/?snr=1_7_7_2300_150_41",
+    "name": "Ultimate Racing 2D",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/808080/header.jpg?t=1555252310",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "754120",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/754120/Ninja_Stealth_3/?snr=1_7_7_2300_150_43",
+    "name": "Ninja Stealth 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/754120/header.jpg?t=1552380483",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "509000",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/509000/QUBIC/?snr=1_7_7_2300_150_43",
+    "name": "QUBIC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/509000/header.jpg?t=1551686819",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "877040",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/877040/Samurai_Wish/?snr=1_7_7_2300_150_44",
+    "name": "Samurai Wish",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877040/header.jpg?t=1551256648",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "877040",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/877040/Samurai_Wish/?snr=1_7_7_2300_150_45",
+    "name": "Samurai Wish",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877040/header.jpg?t=1551256648",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "225280",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/225280/Full_Mojo_Rampage/?snr=1_7_7_2300_150_55",
+    "name": "Full Mojo Rampage",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/225280/header.jpg?t=1478540673",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "491040",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/491040/Bot_Vice/?snr=1_7_7_2300_150_58",
+    "name": "Bot Vice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/491040/header.jpg?t=1556873052",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "364510",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/364510/Transcendence/?snr=1_7_7_2300_150_65",
+    "name": "Transcendence",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/364510/header.jpg?t=1548216637",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "833890",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/833890/NeoSticks/?snr=1_7_7_2300_150_65",
+    "name": "NeoSticks",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833890/header.jpg?t=1524208713",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "364510",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/364510/Transcendence/?snr=1_7_7_2300_150_66",
+    "name": "Transcendence",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/364510/header.jpg?t=1548216637",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "989560",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/989560/NeoGeometry/?snr=1_7_7_2300_150_67",
+    "name": "NeoGeometry",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/989560/header.jpg?t=1549276662",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "1064690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1064690/Danger_Crew/?snr=1_7_7_2300_150_68",
+    "name": "Danger Crew",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1064690/header.jpg?t=1557154941",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "718220",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/718220/NeoBoom2/?snr=1_7_7_2300_150_70",
+    "name": "NeoBoom2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/718220/header.jpg?t=1509470204",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "771610",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/771610/NeoBalls/?snr=1_7_7_2300_150_70",
+    "name": "NeoBalls",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/771610/header.jpg?t=1514985370",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "611810",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/611810/THE_LAST_HUNT/?snr=1_7_7_2300_150_74",
+    "name": "THE LAST HUNT",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/611810/header.jpg?t=1519319370",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "711310",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/711310/SPIIIDERS/?snr=1_7_7_2300_150_77",
+    "name": "SPIIIDERS",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/711310/header.jpg?t=1515976279",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "987490",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/987490/DOKA_2_GUTS_OUT_NINJA/?snr=1_7_7_2300_150_79",
+    "name": "DOKA 2 GUTS OUT NINJA",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/987490/header.jpg?t=1546019522",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "698140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/698140/SnakEscape_Plus/?snr=1_7_7_2300_150_81",
+    "name": "SnakEscape: Plus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/698140/header.jpg?t=1542281412",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "773080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/773080/MORE_SWEATER_OK_DLC/?snr=1_7_7_2300_150_84",
+    "name": "MORE SWEATER? OK! (DLC)",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/773080/header.jpg?t=1542282347",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "912980",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/912980/AstroViking__Soundtrack/?snr=1_7_7_2300_150_86",
+    "name": "AstroViking - Soundtrack",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/912980/header.jpg?t=1533913279",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "620130",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/620130/Chaos_Town/?snr=1_7_7_2300_150_90",
+    "name": "Chaos Town",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/620130/header.jpg?t=1551658877",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "876910",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/876910/Aquarium_Simulator/?snr=1_7_7_2300_150_90",
+    "name": "Aquarium Simulator",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876910/header.jpg?t=1529645112",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  },
+  {
+    "id": "696400",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/696400/NeoBoom/?snr=1_7_7_2300_150_90",
+    "name": "NeoBoom",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/696400/header.jpg?t=1509441181",
+    "update_at": "2019-05-09T10:58:48.627Z"
+  }
+]

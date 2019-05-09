@@ -1,9 +1,641 @@
-{
-  "id": "1049560",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1049560/Run_For_Cover/?snr=1_7_7_2300_150_93",
-  "name": "Run For Cover",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1049560/header.jpg?t=1556882703",
-  "update_at": "2019-05-09T07:44:38.404Z"
-}
+[
+  {
+    "id": "435150",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/?snr=1_7_7_2300_150_1",
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/435150/header.jpg?t=1550672369",
+    "update_at": "2019-05-09T10:58:54.480Z"
+  },
+  {
+    "id": "289070",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+    "name": "Sid Meier’s Civilization® VI",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/289070/header.jpg?t=1553635190",
+    "update_at": "2019-05-09T10:58:54.480Z"
+  },
+  {
+    "id": "213670",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/?snr=1_7_7_2300_150_1",
+    "name": "South Park™: The Stick of Truth™",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/213670/header.jpg?t=1515609037",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "373420",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/?snr=1_7_7_2300_150_1",
+    "name": "Divinity: Original Sin - Enhanced Edition",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/373420/header.jpg?t=1512992769",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "699170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/?snr=1_7_7_2300_150_1",
+    "name": "Fell Seal: Arbiter's Mark",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/699170/header.jpg?t=1556896846",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "488790",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/488790/South_Park_The_Fractured_But_Whole/?snr=1_7_7_2300_150_1",
+    "name": "South Park™: The Fractured But Whole™",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/488790/header.jpg?t=1533052252",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "573120",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/573120/Dead_In_Vinland/?snr=1_7_7_2300_150_2",
+    "name": "Dead In Vinland",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/573120/header.jpg?t=1556810072",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "231740",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/?snr=1_7_7_2300_150_2",
+    "name": "Knights of Pen and Paper +1 Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/231740/header.jpg?t=1545356131",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "577230",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/577230/Three_Kingdoms_The_Last_Warlord/?snr=1_7_7_2300_150_2",
+    "name": "Three Kingdoms: The Last Warlord | 三国志:汉末霸业",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/577230/header.jpg?t=1555408124",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "32370",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - Knights of the Old Republic™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32370/header.jpg?t=1545238521",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "248860",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/248860/NEO_Scavenger/?snr=1_7_7_2300_150_3",
+    "name": "NEO Scavenger",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/248860/header.jpg?t=1530033658",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "833170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/833170/Burned_Land/?snr=1_7_7_2300_150_3",
+    "name": "Burned Land",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833170/header.jpg?t=1557149904",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "16810",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/16810/Sid_Meiers_Civilization_IV_Colonization/?snr=1_7_7_2300_150_3",
+    "name": "Sid Meier's Civilization IV: Colonization",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/16810/header.jpg?t=1534546779",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "243950",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/?snr=1_7_7_2300_150_3",
+    "name": "Divinity: Dragon Commander",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/243950/header.jpg?t=1447357292",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "603850",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/603850/Age_of_Civilizations_II/?snr=1_7_7_2300_150_5",
+    "name": "Age of Civilizations II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603850/header.jpg?t=1551222352",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "750770",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/750770/Labyronia_Elements/?snr=1_7_7_2300_150_8",
+    "name": "Labyronia Elements",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/750770/header.jpg?t=1537708050",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "409440",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/?snr=1_7_7_2300_150_9",
+    "name": "SnakEscape [REMASTERED]",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/409440/header.jpg?t=1556543735",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "370700",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/370700/Black_Home/?snr=1_7_7_2300_150_9",
+    "name": "Black Home",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/370700/header.jpg?t=1535991601",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "8800",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/8800/Civilization_IV_Beyond_the_Sword/?snr=1_7_7_2300_150_10",
+    "name": "Civilization IV: Beyond the Sword",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/8800/header.jpg?t=1534463279",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "235580",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/235580/Sid_Meiers_Civilization_V_Brave_New_World/?snr=1_7_7_2300_150_10",
+    "name": "Sid Meier's Civilization V: Brave New World",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235580/header.jpg?t=1545237044",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "249650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/249650/Blackguards/?snr=1_7_7_2300_150_11",
+    "name": "Blackguards",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/249650/header.jpg?t=1524646862",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "431810",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/431810/Rencounter/?snr=1_7_7_2300_150_11",
+    "name": "Rencounter",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/431810/header.jpg?t=1502288877",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "277470",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/277470/The_Book_of_Legends/?snr=1_7_7_2300_150_11",
+    "name": "The Book of Legends",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/277470/header.jpg?t=1487172294",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "246760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/246760/Legends_of_Eisenwald/?snr=1_7_7_2300_150_12",
+    "name": "Legends of Eisenwald",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/246760/header.jpg?t=1470845147",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "218090",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/218090/Unity_of_Command_Stalingrad_Campaign/?snr=1_7_7_2300_150_12",
+    "name": "Unity of Command: Stalingrad Campaign",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218090/header.jpg?t=1555512908",
+    "update_at": "2019-05-09T10:58:54.481Z"
+  },
+  {
+    "id": "708950",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/708950/Steam_Tactics/?snr=1_7_7_2300_150_12",
+    "name": "Steam Tactics",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/708950/header.jpg?t=1510687773",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "42890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/42890/Sword_of_the_Stars_Complete_Collection/?snr=1_7_7_2300_150_13",
+    "name": "Sword of the Stars: Complete Collection",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/42890/header.jpg?t=1493285878",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "16870",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/16870/Sid_Meiers_Civilization_V_Gods_and_Kings/?snr=1_7_7_2300_150_13",
+    "name": "Sid Meier's Civilization V: Gods and Kings",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/16870/header.jpg?t=1545236911",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "3900",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/3900/Sid_Meiers_Civilization_IV/?snr=1_7_7_2300_150_13",
+    "name": "Sid Meier's Civilization® IV",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/3900/header.jpg?t=1545236003",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "283000",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/283000/Strategic_War_in_Europe/?snr=1_7_7_2300_150_14",
+    "name": "Strategic War in Europe",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/283000/header.jpg?t=1540989143",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "218020",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/218020/Nethergate_Resurrection/?snr=1_7_7_2300_150_16",
+    "name": "Nethergate: Resurrection",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218020/header.jpg?t=1447356384",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "665640",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/665640/SpaceWorms/?snr=1_7_7_2300_150_17",
+    "name": "SpaceWorms",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/665640/header.jpg?t=1550562489",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "463350",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/463350/Storm_Of_Spears_RPG/?snr=1_7_7_2300_150_17",
+    "name": "Storm Of Spears RPG",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/463350/header.jpg?t=1519556247",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "265970",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/265970/Worlds_of_Magic/?snr=1_7_7_2300_150_18",
+    "name": "Worlds of Magic",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/265970/header.jpg?t=1540988768",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "46570",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46570/Grotesque_Tactics_2__Dungeons_and_Donuts/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics 2 – Dungeons and Donuts",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46570/header.jpg?t=1542379662",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "279440",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/279440/Joe_Devers_Lone_Wolf_HD_Remastered/?snr=1_7_7_2300_150_19",
+    "name": "Joe Dever's Lone Wolf HD Remastered",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/279440/header.jpg?t=1486406889",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "353830",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/353830/Sid_Meiers_Civilization_Beyond_Earth__Rising_Tide/?snr=1_7_7_2300_150_19",
+    "name": "Sid Meier's Civilization: Beyond Earth - Rising Tide",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/353830/header.jpg?t=1545237823",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "206060",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/206060/Avernum_6/?snr=1_7_7_2300_150_20",
+    "name": "Avernum 6",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/206060/header.jpg?t=1447355313",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "206020",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/206020/Avernum_4/?snr=1_7_7_2300_150_20",
+    "name": "Avernum 4",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/206020/header.jpg?t=1447355311",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "407230",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/?snr=1_7_7_2300_150_21",
+    "name": "Legend of Mysteria RPG",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/407230/header.jpg?t=1492976179",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "42990",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/42990/Sword_of_the_Stars_II_Enhanced_Edition/?snr=1_7_7_2300_150_22",
+    "name": "Sword of the Stars II: Enhanced Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/42990/header.jpg?t=1447354905",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "65980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/?snr=1_7_7_2300_150_22",
+    "name": "Sid Meier's Civilization®: Beyond Earth™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/65980/header.jpg?t=1545237799",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "206040",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/206040/Avernum_5/?snr=1_7_7_2300_150_23",
+    "name": "Avernum 5",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/206040/header.jpg?t=1447355312",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "371430",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/371430/Space_Grunts/?snr=1_7_7_2300_150_28",
+    "name": "Space Grunts",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/371430/header.jpg?t=1547146587",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "691690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/?snr=1_7_7_2300_150_28",
+    "name": "Ash of Gods: Redemption",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/691690/header.jpg?t=1553772874",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "761030",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/761030/EARTHLOCK/?snr=1_7_7_2300_150_31",
+    "name": "EARTHLOCK",
+    "discount_percent": "56",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/761030/header.jpg?t=1549638899",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "341780",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/341780/Chronicles_of_a_Dark_Lord_Episode_II_War_of_The_Abyss/?snr=1_7_7_2300_150_34",
+    "name": "Chronicles of a Dark Lord: Episode II War of The Abyss",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/341780/header.jpg?t=1499955251",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "955470",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/955470/The_Royal_Game_of_Ur/?snr=1_7_7_2300_150_35",
+    "name": "The Royal Game of Ur",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/955470/header.jpg?t=1543598668",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "492500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/492500/Heroes_of_the_Monkey_Tavern/?snr=1_7_7_2300_150_39",
+    "name": "Heroes of the Monkey Tavern",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/492500/header.jpg?t=1530525121",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "640850",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/640850/Azorian_Kings/?snr=1_7_7_2300_150_39",
+    "name": "Azorian Kings",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640850/header.jpg?t=1542114775",
+    "update_at": "2019-05-09T10:58:54.482Z"
+  },
+  {
+    "id": "603080",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/603080/Chronicles_of_a_Dark_Lord_Tides_of_Fate_Remastered/?snr=1_7_7_2300_150_43",
+    "name": "Chronicles of a Dark Lord: Tides of Fate Remastered",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603080/header.jpg?t=1536779713",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "509000",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/509000/QUBIC/?snr=1_7_7_2300_150_43",
+    "name": "QUBIC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/509000/header.jpg?t=1551686819",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "391280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/391280/Epic_Manager__Create_Your_Own_Adventuring_Agency/?snr=1_7_7_2300_150_44",
+    "name": "Epic Manager - Create Your Own Adventuring Agency!",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/391280/header.jpg?t=1503499518",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "603080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/603080/Chronicles_of_a_Dark_Lord_Tides_of_Fate_Remastered/?snr=1_7_7_2300_150_44",
+    "name": "Chronicles of a Dark Lord: Tides of Fate Remastered",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603080/header.jpg?t=1536779713",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "998570",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/998570/DeVine_Card_Battles/?snr=1_7_7_2300_150_45",
+    "name": "De'Vine: Card Battles",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/998570/header.jpg?t=1556029652",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "586750",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/586750/Sonny/?snr=1_7_7_2300_150_45",
+    "name": "Sonny",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/586750/header.jpg?t=1511185985",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "389900",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/389900/Hogs_of_War/?snr=1_7_7_2300_150_45",
+    "name": "Hogs of War",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/389900/header.jpg?t=1510309683",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "391280",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/391280/Epic_Manager__Create_Your_Own_Adventuring_Agency/?snr=1_7_7_2300_150_45",
+    "name": "Epic Manager - Create Your Own Adventuring Agency!",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/391280/header.jpg?t=1503499518",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "806580",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/806580/7th_Deep/?snr=1_7_7_2300_150_46",
+    "name": "7th Deep",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806580/header.jpg?t=1520569020",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "516030",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/516030/Insane_Robots/?snr=1_7_7_2300_150_53",
+    "name": "Insane Robots",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/516030/header.jpg?t=1545433350",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "645402",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/645402/Sid_Meiers_Civilization_VI_Rise_and_Fall/?snr=1_7_7_2300_150_56",
+    "name": "Sid Meier’s Civilization® VI: Rise and Fall",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645402/header.jpg?t=1555974831",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "336280",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/336280/Chronicles_of_a_Dark_Lord_Episode_1_Tides_of_Fate_Complete/?snr=1_7_7_2300_150_60",
+    "name": "Chronicles of a Dark Lord: Episode 1 Tides of Fate Complete",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/336280/header.jpg?t=1447365653",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "415570",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/415570/Fantasy_Grounds__DD_Sword_Coast_Adventurers_Guide/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - D&D Sword Coast Adventurer's Guide",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415570/header.jpg?t=1505076273",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "299140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/299140/Fantasy_Grounds__PFRPG_Basic_Paths_Fangs_from_the_Past/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - PFRPG Basic Paths: Fangs from the Past",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/299140/header.jpg?t=1447361719",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "698140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/698140/SnakEscape_Plus/?snr=1_7_7_2300_150_81",
+    "name": "SnakEscape: Plus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/698140/header.jpg?t=1542281412",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "981900",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/981900/Kings_Cross/?snr=1_7_7_2300_150_85",
+    "name": "Kings' Cross",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981900/header.jpg?t=1553701897",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "868180",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/868180/Salty_Seabird_Bay/?snr=1_7_7_2300_150_85",
+    "name": "Salty Seabird Bay",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/868180/header.jpg?t=1539274953",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "878240",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/878240/Advalines/?snr=1_7_7_2300_150_86",
+    "name": "Adva-lines",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/878240/header.jpg?t=1547618545",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "1031410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
+    "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  },
+  {
+    "id": "1049560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1049560/Run_For_Cover/?snr=1_7_7_2300_150_93",
+    "name": "Run For Cover",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1049560/header.jpg?t=1556882703",
+    "update_at": "2019-05-09T10:58:54.483Z"
+  }
+]

@@ -1,9 +1,146 @@
-{
-  "id": "1049930",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1049930/Frank_and_10_roots/?snr=1_7_7_2300_150_83",
-  "name": "Frank and 10 roots",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1049930/header.jpg?t=1553932212",
-  "update_at": "2019-05-09T07:44:38.070Z"
-}
+[
+  {
+    "id": "253230",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/253230/A_Hat_in_Time/?snr=1_7_7_2300_150_1",
+    "name": "A Hat in Time",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/253230/header.jpg?t=1547355265",
+    "update_at": "2019-05-09T10:58:51.425Z"
+  },
+  {
+    "id": "32420",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/32420/STAR_WARS_The_Clone_Wars__Republic_Heroes/?snr=1_7_7_2300_150_6",
+    "name": "STAR WARS™: The Clone Wars - Republic Heroes™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32420/header.jpg?t=1542757853",
+    "update_at": "2019-05-09T10:58:51.425Z"
+  },
+  {
+    "id": "734920",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/734920/MEANDERS/?snr=1_7_7_2300_150_16",
+    "name": "MEANDERS",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/734920/header.jpg?t=1556006435",
+    "update_at": "2019-05-09T10:58:51.425Z"
+  },
+  {
+    "id": "879740",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_26",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:58:51.425Z"
+  },
+  {
+    "id": "879740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_27",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "742460",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/742460/Marble_Skies/?snr=1_7_7_2300_150_29",
+    "name": "Marble Skies",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/742460/header.jpg?t=1556283419",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "887060",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/887060/Asterix__Obelix_XXL_2/?snr=1_7_7_2300_150_30",
+    "name": "Asterix & Obelix XXL 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/887060/header.jpg?t=1543508894",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "337270",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/337270/Ostrich_Island/?snr=1_7_7_2300_150_30",
+    "name": "Ostrich Island",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/337270/header.jpg?t=1481470300",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "1009150",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/1009150/Choconoa/?snr=1_7_7_2300_150_35",
+    "name": "Choconoa",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1009150/header.jpg?t=1550309023",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "414060",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/414060/isoSphere/?snr=1_7_7_2300_150_43",
+    "name": "iso-Sphere",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "509000",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/509000/QUBIC/?snr=1_7_7_2300_150_43",
+    "name": "QUBIC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/509000/header.jpg?t=1551686819",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "414060",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/414060/isoSphere/?snr=1_7_7_2300_150_44",
+    "name": "iso-Sphere",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "842130",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/842130/Sunny_Smiles/?snr=1_7_7_2300_150_47",
+    "name": "Sunny Smiles",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/842130/header.jpg?t=1524692628",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "839280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/839280/Cartonfall/?snr=1_7_7_2300_150_54",
+    "name": "Cartonfall",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/839280/header.jpg?t=1553940275",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "698140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/698140/SnakEscape_Plus/?snr=1_7_7_2300_150_81",
+    "name": "SnakEscape: Plus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/698140/header.jpg?t=1542281412",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  },
+  {
+    "id": "1049930",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1049930/Frank_and_10_roots/?snr=1_7_7_2300_150_83",
+    "name": "Frank and 10 roots",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1049930/header.jpg?t=1553932212",
+    "update_at": "2019-05-09T10:58:51.427Z"
+  }
+]

@@ -1,9 +1,56 @@
-{
-  "id": "773080",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/773080/MORE_SWEATER_OK_DLC/?snr=1_7_7_2300_150_84",
-  "name": "MORE SWEATER? OK! (DLC)",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/773080/header.jpg?t=1542282347",
-  "update_at": "2019-05-09T07:44:38.103Z"
-}
+[
+  {
+    "id": "539700",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/539700/SWEATER_OK/?snr=1_7_7_2300_150_3",
+    "name": "SWEATER? OK!",
+    "discount_percent": "86",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/539700/header.jpg?t=1551157731",
+    "update_at": "2019-05-09T10:58:01.569Z"
+  },
+  {
+    "id": "409440",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/?snr=1_7_7_2300_150_9",
+    "name": "SnakEscape [REMASTERED]",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/409440/header.jpg?t=1556543735",
+    "update_at": "2019-05-09T10:58:01.569Z"
+  },
+  {
+    "id": "492500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/492500/Heroes_of_the_Monkey_Tavern/?snr=1_7_7_2300_150_39",
+    "name": "Heroes of the Monkey Tavern",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/492500/header.jpg?t=1530525121",
+    "update_at": "2019-05-09T10:58:01.569Z"
+  },
+  {
+    "id": "371220",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/371220/VERLIES_II/?snr=1_7_7_2300_150_45",
+    "name": "VERLIES II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/371220/header.jpg?t=1480844496",
+    "update_at": "2019-05-09T10:58:01.569Z"
+  },
+  {
+    "id": "907820",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/907820/Aeon_of_Sands__The_Trail/?snr=1_7_7_2300_150_51",
+    "name": "Aeon of Sands - The Trail",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907820/header.jpg?t=1556292972",
+    "update_at": "2019-05-09T10:58:01.569Z"
+  },
+  {
+    "id": "773080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/773080/MORE_SWEATER_OK_DLC/?snr=1_7_7_2300_150_84",
+    "name": "MORE SWEATER? OK! (DLC)",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/773080/header.jpg?t=1542282347",
+    "update_at": "2019-05-09T10:58:01.569Z"
+  }
+]

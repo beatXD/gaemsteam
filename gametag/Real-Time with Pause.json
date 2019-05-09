@@ -1,9 +1,146 @@
-{
-  "id": "876910",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/876910/Aquarium_Simulator/?snr=1_7_7_2300_150_90",
-  "name": "Aquarium Simulator",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/876910/header.jpg?t=1529645112",
-  "update_at": "2019-05-09T07:44:38.301Z"
-}
+[
+  {
+    "id": "208580",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/208580/header.jpg?t=1545238520",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "32370",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - Knights of the Old Republic™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32370/header.jpg?t=1545238521",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "235380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/235380/Blitzkrieg_3/?snr=1_7_7_2300_150_3",
+    "name": "Blitzkrieg 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235380/header.jpg?t=1547539591",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "243950",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/?snr=1_7_7_2300_150_3",
+    "name": "Divinity: Dragon Commander",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/243950/header.jpg?t=1447357292",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "214170",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/214170/Divine_Divinity/?snr=1_7_7_2300_150_4",
+    "name": "Divine Divinity",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/214170/header.jpg?t=1447355993",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "950990",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/950990/Business_Magnate/?snr=1_7_7_2300_150_5",
+    "name": "Business Magnate",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/950990/header.jpg?t=1556883581",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "227760",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/227760/March_of_the_Eagles/?snr=1_7_7_2300_150_18",
+    "name": "March of the Eagles",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/227760/header.jpg?t=1530640646",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "403970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/403970/The_Dwarves/?snr=1_7_7_2300_150_19",
+    "name": "The Dwarves",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/403970/header.jpg?t=1489400983",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "643960",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/643960/Cursed_Treasure_2/?snr=1_7_7_2300_150_29",
+    "name": "Cursed Treasure 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/643960/header.jpg?t=1511185920",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "291650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/291650/Pillars_of_Eternity/?snr=1_7_7_2300_150_41",
+    "name": "Pillars of Eternity",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/291650/header.jpg?t=1552039638",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "833890",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/833890/NeoSticks/?snr=1_7_7_2300_150_65",
+    "name": "NeoSticks",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833890/header.jpg?t=1524208713",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "989560",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/989560/NeoGeometry/?snr=1_7_7_2300_150_67",
+    "name": "NeoGeometry",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/989560/header.jpg?t=1549276662",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "718220",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/718220/NeoBoom2/?snr=1_7_7_2300_150_70",
+    "name": "NeoBoom2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/718220/header.jpg?t=1509470204",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "771610",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/771610/NeoBalls/?snr=1_7_7_2300_150_70",
+    "name": "NeoBalls",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/771610/header.jpg?t=1514985370",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "786560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/786560/NeoBalls2/?snr=1_7_7_2300_150_88",
+    "name": "NeoBalls2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/786560/header.jpg?t=1518679600",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  },
+  {
+    "id": "876910",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/876910/Aquarium_Simulator/?snr=1_7_7_2300_150_90",
+    "name": "Aquarium Simulator",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876910/header.jpg?t=1529645112",
+    "update_at": "2019-05-09T10:57:57.098Z"
+  }
+]

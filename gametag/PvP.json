@@ -1,9 +1,83 @@
-{
-  "id": "413030",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/413030/Mytheon/?snr=1_7_7_2300_150_48",
-  "name": "Mytheon",
-  "discount_percent": "45",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/413030/header.jpg?t=1478033453",
-  "update_at": "2019-05-09T07:44:37.130Z"
-}
+[
+  {
+    "id": "235380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/235380/Blitzkrieg_3/?snr=1_7_7_2300_150_3",
+    "name": "Blitzkrieg 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235380/header.jpg?t=1547539591",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "351290",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/351290/SURVIVAL/?snr=1_7_7_2300_150_5",
+    "name": "SURVIVAL",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/351290/header.jpg?t=1556612165",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "805940",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/805940/RUSSIA_BATTLEGROUNDS/?snr=1_7_7_2300_150_6",
+    "name": "RUSSIA BATTLEGROUNDS",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/805940/header.jpg?t=1556342141",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "238370",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/238370/Magicka_2/?snr=1_7_7_2300_150_19",
+    "name": "Magicka 2",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/238370/header.jpg?t=1552039729",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "712530",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/712530/Chamber_of_Darkness/?snr=1_7_7_2300_150_21",
+    "name": "Chamber of Darkness",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/712530/header.jpg?t=1549556308",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "344760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/344760/Reign_Of_Kings/?snr=1_7_7_2300_150_22",
+    "name": "Reign Of Kings",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/344760/header.jpg?t=1478208824",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "640850",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/640850/Azorian_Kings/?snr=1_7_7_2300_150_39",
+    "name": "Azorian Kings",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640850/header.jpg?t=1542114775",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "366650",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/366650/Blitzkrieg_3__Digital_Deluxe_Edition_Upgrade/?snr=1_7_7_2300_150_45",
+    "name": "Blitzkrieg 3 - Digital Deluxe Edition Upgrade",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366650/header.jpg?t=1545218695",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  },
+  {
+    "id": "413030",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/413030/Mytheon/?snr=1_7_7_2300_150_48",
+    "name": "Mytheon",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/413030/header.jpg?t=1478033453",
+    "update_at": "2019-05-09T10:57:57.922Z"
+  }
+]

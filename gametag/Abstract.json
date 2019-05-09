@@ -1,9 +1,236 @@
-{
-  "id": "1031570",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1031570/Hookshot/?snr=1_7_7_2300_150_82",
-  "name": "Hookshot",
-  "discount_percent": "40",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031570/header.jpg?t=1551084200",
-  "update_at": "2019-05-09T07:44:38.052Z"
-}
+[
+  {
+    "id": "788320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/788320/Balls_and_Magnets/?snr=1_7_7_2300_150_18",
+    "name": "Balls and Magnets",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/788320/header.jpg?t=1556882787",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "788320",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/788320/Balls_and_Magnets/?snr=1_7_7_2300_150_19",
+    "name": "Balls and Magnets",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/788320/header.jpg?t=1556882787",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "731940",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/731940/Bars_and_Balance/?snr=1_7_7_2300_150_19",
+    "name": "Bars and Balance",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/731940/header.jpg?t=1538894235",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "757860",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/757860/Elbub/?snr=1_7_7_2300_150_21",
+    "name": "Elbub",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/757860/header.jpg?t=1556882852",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "628750",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/628750/aMAZE_2/?snr=1_7_7_2300_150_23",
+    "name": "aMAZE 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/628750/header.jpg?t=1552383587",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "679660",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/679660/aMAZE_ZER0/?snr=1_7_7_2300_150_23",
+    "name": "aMAZE ZER0",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/679660/header.jpg?t=1552372531",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "813540",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/813540/Scheming_Through_The_Zombie_Apocalypse_The_Beginning/?snr=1_7_7_2300_150_29",
+    "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/813540/header.jpg?t=1549555601",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "749340",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/749340/Chocolate_makes_you_happy/?snr=1_7_7_2300_150_34",
+    "name": "Chocolate makes you happy",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/749340/header.jpg?t=1553271134",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "986990",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/986990/aMAZE_Christmas/?snr=1_7_7_2300_150_34",
+    "name": "aMAZE Christmas",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/986990/header.jpg?t=1547372838",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "995160",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/995160/Impulsow/?snr=1_7_7_2300_150_35",
+    "name": "Impulsow",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/995160/header.jpg?t=1545511123",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "853860",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/853860/aMAZE_Classic/?snr=1_7_7_2300_150_36",
+    "name": "aMAZE Classic",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/853860/header.jpg?t=1552382068",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "806850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/806850/aMAZE_Gears/?snr=1_7_7_2300_150_38",
+    "name": "aMAZE Gears",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806850/header.jpg?t=1552382549",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "833910",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/833910/Overchunked/?snr=1_7_7_2300_150_41",
+    "name": "Overchunked",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833910/header.jpg?t=1556006858",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "577740",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_42",
+    "name": "Winexy",
+    "discount_percent": "51",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/577740/header.jpg?t=1549420363",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "764560",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/764560/Chocolate_makes_you_happy_2/?snr=1_7_7_2300_150_42",
+    "name": "Chocolate makes you happy 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/764560/header.jpg?t=1553271234",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "978450",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/978450/Data_mining_3/?snr=1_7_7_2300_150_42",
+    "name": "Data mining 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/978450/header.jpg?t=1547376085",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "414060",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/414060/isoSphere/?snr=1_7_7_2300_150_43",
+    "name": "iso-Sphere",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "764560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/764560/Chocolate_makes_you_happy_2/?snr=1_7_7_2300_150_43",
+    "name": "Chocolate makes you happy 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/764560/header.jpg?t=1553271234",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "414060",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/414060/isoSphere/?snr=1_7_7_2300_150_44",
+    "name": "iso-Sphere",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "976830",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/976830/Diaper_Quest_2055/?snr=1_7_7_2300_150_46",
+    "name": "Diaper Quest 2055",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/976830/header.jpg?t=1543268235",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "558450",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/558450/Fibrillation_HD/?snr=1_7_7_2300_150_50",
+    "name": "Fibrillation HD",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/558450/header.jpg?t=1543962482",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "943190",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/943190/OCTOPTICOM/?snr=1_7_7_2300_150_57",
+    "name": "OCTOPTICOM",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/943190/header.jpg?t=1547821716",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "334710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/334710/Ilamentia/?snr=1_7_7_2300_150_67",
+    "name": "Ilamentia",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/334710/header.jpg?t=1547113692",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "823330",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/823330/Marginal_act/?snr=1_7_7_2300_150_78",
+    "name": "Marginal act",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823330/header.jpg?t=1550014615",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "823330",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/823330/Marginal_act/?snr=1_7_7_2300_150_79",
+    "name": "Marginal act",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823330/header.jpg?t=1550014615",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  },
+  {
+    "id": "1031570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031570/Hookshot/?snr=1_7_7_2300_150_82",
+    "name": "Hookshot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031570/header.jpg?t=1551084200",
+    "update_at": "2019-05-09T10:57:37.929Z"
+  }
+]

@@ -1,9 +1,101 @@
-{
-  "id": "1029890",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
-  "name": "Layers of Fear 2",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
-  "update_at": "2019-05-09T07:44:38.396Z"
-}
+[
+  {
+    "id": "501220",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/501220/Space_Ribbon/?snr=1_7_7_2300_150_11",
+    "name": "Space Ribbon",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/501220/header.jpg?t=1549320412",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "515650",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/515650/Straimium_Immortaly/?snr=1_7_7_2300_150_37",
+    "name": "Straimium Immortaly",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/515650/header.jpg?t=1550767663",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "961220",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/961220/Sanatorium_Purgatorium/?snr=1_7_7_2300_150_41",
+    "name": "Sanatorium Purgatorium",
+    "discount_percent": "44",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/961220/header.jpg?t=1541036146",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "558450",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/558450/Fibrillation_HD/?snr=1_7_7_2300_150_50",
+    "name": "Fibrillation HD",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/558450/header.jpg?t=1543962482",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "399140",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/399140/Straima/?snr=1_7_7_2300_150_50",
+    "name": "Straima",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/399140/header.jpg?t=1547113569",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "536690",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_57",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "536690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_58",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "334710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/334710/Ilamentia/?snr=1_7_7_2300_150_67",
+    "name": "Ilamentia",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/334710/header.jpg?t=1547113692",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "662240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/662240/Epitasis/?snr=1_7_7_2300_150_68",
+    "name": "Epitasis",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/662240/header.jpg?t=1557101065",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "1037620",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1037620/Epitasis_Original_Soundtrack/?snr=1_7_7_2300_150_92",
+    "name": "Epitasis Original Soundtrack",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1037620/header.jpg?t=1556719265",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  },
+  {
+    "id": "1029890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
+    "name": "Layers of Fear 2",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
+    "update_at": "2019-05-09T10:58:04.185Z"
+  }
+]

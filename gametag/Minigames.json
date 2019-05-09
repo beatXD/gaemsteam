@@ -1,9 +1,29 @@
-{
-  "id": "981270",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/981270/Runas_School_Story/?snr=1_7_7_2300_150_92",
-  "name": "Runa's School Story",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/981270/header.jpg?t=1557104412",
-  "update_at": "2019-05-09T07:44:38.380Z"
-}
+[
+  {
+    "id": "415890",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/415890/Crystal_Picnic/?snr=1_7_7_2300_150_58",
+    "name": "Crystal Picnic",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415890/header.jpg?t=1551120516",
+    "update_at": "2019-05-09T10:54:14.083Z"
+  },
+  {
+    "id": "868180",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/868180/Salty_Seabird_Bay/?snr=1_7_7_2300_150_85",
+    "name": "Salty Seabird Bay",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/868180/header.jpg?t=1539274953",
+    "update_at": "2019-05-09T10:54:14.083Z"
+  },
+  {
+    "id": "981270",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/981270/Runas_School_Story/?snr=1_7_7_2300_150_92",
+    "name": "Runa's School Story",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981270/header.jpg?t=1557104412",
+    "update_at": "2019-05-09T10:54:14.083Z"
+  }
+]

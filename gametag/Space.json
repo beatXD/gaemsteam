@@ -1,9 +1,488 @@
-{
-  "id": "661970",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/661970/SPACE_BATTLE_Humanity__casual_strategy_scifi/?snr=1_7_7_2300_150_86",
-  "name": "SPACE BATTLE: Humanity - casual strategy sci-fi",
-  "discount_percent": "30",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/661970/header.jpg?t=1536507862",
-  "update_at": "2019-05-09T07:44:38.148Z"
-}
+[
+  {
+    "id": "6060",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6060/Star_Wars_Battlefront_2_Classic_2005/?snr=1_7_7_2300_150_2",
+    "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6060/header.jpg?t=1542751113",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "32440",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/?snr=1_7_7_2300_150_2",
+    "name": "LEGO® Star Wars™ - The Complete Saga",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32440/header.jpg?t=1542757968",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "4920",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/4920/Natural_Selection_2/?snr=1_7_7_2300_150_2",
+    "name": "Natural Selection 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/4920/header.jpg?t=1556995331",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "208580",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/208580/header.jpg?t=1545238520",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "6030",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6030/STAR_WARS_Jedi_Knight_II__Jedi_Outcast/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6030/header.jpg?t=1545238437",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "32370",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - Knights of the Old Republic™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32370/header.jpg?t=1545238521",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "32470",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Empire at War - Gold Pack",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32470/header.jpg?t=1542751040",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "6000",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/6000/STAR_WARS_Republic_Commando/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ Republic Commando™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6000/header.jpg?t=1542753029",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "504050",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/504050/Planet_Nomads/?snr=1_7_7_2300_150_3",
+    "name": "Planet Nomads",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/504050/header.jpg?t=1556887965",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "32380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/32380/STAR_WARS_Jedi_Knight_Dark_Forces_II/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ Jedi Knight: Dark Forces II",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32380/header.jpg?t=1542757564",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "361670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/361670/STAR_WARS__XWing_Alliance/?snr=1_7_7_2300_150_4",
+    "name": "STAR WARS™ - X-Wing Alliance™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/361670/header.jpg?t=1542763794",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "354430",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/?snr=1_7_7_2300_150_4",
+    "name": "STAR WARS™ - X-Wing Special Edition",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/354430/header.jpg?t=1542763510",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "361690",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/361690/STAR_WARS_XWing_vs_TIE_Fighter__Balance_of_Power_Campaigns/?snr=1_7_7_2300_150_4",
+    "name": "STAR WARS™ X-Wing vs TIE Fighter - Balance of Power Campaigns™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/361690/header.jpg?t=1542763874",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "355250",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/?snr=1_7_7_2300_150_4",
+    "name": "STAR WARS™: TIE Fighter Special Edition",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/355250/header.jpg?t=1542763589",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "32350",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/32350/STAR_WARS_Starfighter/?snr=1_7_7_2300_150_5",
+    "name": "STAR WARS™ Starfighter™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32350/header.jpg?t=1542757300",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "560170",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/560170/STAR_WARS_SHADOWS_OF_THE_EMPIRE/?snr=1_7_7_2300_150_5",
+    "name": "STAR WARS™ SHADOWS OF THE EMPIRE™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/560170/header.jpg?t=1542764857",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "32420",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/32420/STAR_WARS_The_Clone_Wars__Republic_Heroes/?snr=1_7_7_2300_150_6",
+    "name": "STAR WARS™: The Clone Wars - Republic Heroes™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32420/header.jpg?t=1542757853",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "344910",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/344910/Sun_Blast_Star_Fighter/?snr=1_7_7_2300_150_6",
+    "name": "Sun Blast: Star Fighter",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/344910/header.jpg?t=1492978798",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "763770",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/763770/Space_Stories_Darth_Star/?snr=1_7_7_2300_150_9",
+    "name": "Space Stories: Darth Star",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/763770/header.jpg?t=1518865796",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "501220",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/501220/Space_Ribbon/?snr=1_7_7_2300_150_11",
+    "name": "Space Ribbon",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/501220/header.jpg?t=1549320412",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "42890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/42890/Sword_of_the_Stars_Complete_Collection/?snr=1_7_7_2300_150_13",
+    "name": "Sword of the Stars: Complete Collection",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/42890/header.jpg?t=1493285878",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "551630",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/551630/Navalia/?snr=1_7_7_2300_150_14",
+    "name": "Navalia",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/551630/header.jpg?t=1510532891",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "391260",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/391260/Labyronia_RPG/?snr=1_7_7_2300_150_17",
+    "name": "Labyronia RPG",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/391260/header.jpg?t=1492975016",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "295730",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/295730/Sweezy_Gunner/?snr=1_7_7_2300_150_19",
+    "name": "Sweezy Gunner",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/295730/header.jpg?t=1447361504",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "457760",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/457760/The_Signal_From_Tlva/?snr=1_7_7_2300_150_19",
+    "name": "The Signal From Tölva",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/457760/header.jpg?t=1522430832",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "353830",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/353830/Sid_Meiers_Civilization_Beyond_Earth__Rising_Tide/?snr=1_7_7_2300_150_19",
+    "name": "Sid Meier's Civilization: Beyond Earth - Rising Tide",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/353830/header.jpg?t=1545237823",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "269690",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/269690/RymdResa/?snr=1_7_7_2300_150_19",
+    "name": "RymdResa",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/269690/header.jpg?t=1503490707",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "461200",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/461200/Microcosmum_survival_of_cells__Campaign__New_life/?snr=1_7_7_2300_150_20",
+    "name": "Microcosmum: survival of cells - Campaign  \"New life\"",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461200/header.jpg?t=1551366118",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "434310",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/434310/imprintX/?snr=1_7_7_2300_150_21",
+    "name": "imprint-X",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/434310/header.jpg?t=1503585385",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "42990",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/42990/Sword_of_the_Stars_II_Enhanced_Edition/?snr=1_7_7_2300_150_22",
+    "name": "Sword of the Stars II: Enhanced Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/42990/header.jpg?t=1447354905",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "65980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/?snr=1_7_7_2300_150_22",
+    "name": "Sid Meier's Civilization®: Beyond Earth™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/65980/header.jpg?t=1545237799",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "446640",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/446640/Space_Pilgrim_Episode_IV_Sol/?snr=1_7_7_2300_150_24",
+    "name": "Space Pilgrim Episode IV: Sol",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/446640/header.jpg?t=1554170550",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "431710",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/431710/Space_Pilgrim_Episode_II_Epsilon_Indi/?snr=1_7_7_2300_150_24",
+    "name": "Space Pilgrim Episode II: Epsilon Indi",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/431710/header.jpg?t=1554170489",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "364300",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/364300/Space_Rogue/?snr=1_7_7_2300_150_25",
+    "name": "Space Rogue",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/364300/header.jpg?t=1522772821",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "747050",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/747050/Portal_Journey_Portarius/?snr=1_7_7_2300_150_27",
+    "name": "Portal Journey: Portarius",
+    "discount_percent": "59",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/747050/header.jpg?t=1529599061",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "647590",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/647590/Space_Junkies/?snr=1_7_7_2300_150_27",
+    "name": "Space Junkies™",
+    "discount_percent": "63",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/647590/header.jpg?t=1554303465",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "366910",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/366910/The_Long_Journey_Home/?snr=1_7_7_2300_150_27",
+    "name": "The Long Journey Home",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366910/header.jpg?t=1535973242",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "468820",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/468820/Titans_of_Space_PLUS/?snr=1_7_7_2300_150_29",
+    "name": "Titans of Space PLUS",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/468820/header.jpg?t=1556327877",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "383100",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/383100/Fragile_Allegiance/?snr=1_7_7_2300_150_34",
+    "name": "Fragile Allegiance",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383100/header.jpg?t=1510309642",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "969480",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/969480/Warp_Glider/?snr=1_7_7_2300_150_35",
+    "name": "Warp Glider",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/969480/header.jpg?t=1549651598",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "502780",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/502780/Avalon_The_Journey_Begins/?snr=1_7_7_2300_150_38",
+    "name": "Avalon: The Journey Begins",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/502780/header.jpg?t=1539672870",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "502780",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/502780/Avalon_The_Journey_Begins/?snr=1_7_7_2300_150_39",
+    "name": "Avalon: The Journey Begins",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/502780/header.jpg?t=1539672870",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "663100",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/663100/Thrust__Shoot__Flight_School/?snr=1_7_7_2300_150_40",
+    "name": "Thrust & Shoot : Flight School",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/663100/header.jpg?t=1556874247",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "444580",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/444580/ALONE_IN_SPACE/?snr=1_7_7_2300_150_44",
+    "name": "ALONE IN SPACE",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/444580/header.jpg?t=1503302565",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "761480",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/761480/Snail_Trek__Chapter_3_Lettuce_Be/?snr=1_7_7_2300_150_46",
+    "name": "Snail Trek - Chapter 3: Lettuce Be",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/761480/header.jpg?t=1547349810",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "591000",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/591000/Deep_Sixed/?snr=1_7_7_2300_150_50",
+    "name": "Deep Sixed",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/591000/header.jpg?t=1553818115",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "348490",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/348490/Beyond_Sol/?snr=1_7_7_2300_150_60",
+    "name": "Beyond Sol",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/348490/header.jpg?t=1447368698",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "364510",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/364510/Transcendence/?snr=1_7_7_2300_150_65",
+    "name": "Transcendence",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/364510/header.jpg?t=1548216637",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "364510",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/364510/Transcendence/?snr=1_7_7_2300_150_66",
+    "name": "Transcendence",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/364510/header.jpg?t=1548216637",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "662240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/662240/Epitasis/?snr=1_7_7_2300_150_68",
+    "name": "Epitasis",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/662240/header.jpg?t=1557101065",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "216130",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/216130/Gemini_Wars/?snr=1_7_7_2300_150_74",
+    "name": "Gemini Wars",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/216130/header.jpg?t=1554822096",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "801160",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/801160/Robo_Encryption_Zup/?snr=1_7_7_2300_150_77",
+    "name": "Robo Encryption Zup",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/801160/header.jpg?t=1520959809",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "917990",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/917990/Starboost_EX/?snr=1_7_7_2300_150_84",
+    "name": "Starboost EX",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/917990/header.jpg?t=1547883428",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  },
+  {
+    "id": "661970",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/661970/SPACE_BATTLE_Humanity__casual_strategy_scifi/?snr=1_7_7_2300_150_86",
+    "name": "SPACE BATTLE: Humanity - casual strategy sci-fi",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/661970/header.jpg?t=1536507862",
+    "update_at": "2019-05-09T10:58:08.689Z"
+  }
+]

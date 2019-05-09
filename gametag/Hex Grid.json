@@ -1,9 +1,74 @@
-{
-  "id": "65980",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/?snr=1_7_7_2300_150_22",
-  "name": "Sid Meier's Civilization®: Beyond Earth™",
-  "discount_percent": "75",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/65980/header.jpg?t=1545237799",
-  "update_at": "2019-05-09T07:44:35.891Z"
-}
+[
+  {
+    "id": "289070",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+    "name": "Sid Meier’s Civilization® VI",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/289070/header.jpg?t=1553635190",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "248860",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/248860/NEO_Scavenger/?snr=1_7_7_2300_150_3",
+    "name": "NEO Scavenger",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/248860/header.jpg?t=1530033658",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "833170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/833170/Burned_Land/?snr=1_7_7_2300_150_3",
+    "name": "Burned Land",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833170/header.jpg?t=1557149904",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "358130",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/358130/Curious_Expedition/?snr=1_7_7_2300_150_4",
+    "name": "Curious Expedition",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg?t=1556532957",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "249650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/249650/Blackguards/?snr=1_7_7_2300_150_11",
+    "name": "Blackguards",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/249650/header.jpg?t=1524646862",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "218090",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/218090/Unity_of_Command_Stalingrad_Campaign/?snr=1_7_7_2300_150_12",
+    "name": "Unity of Command: Stalingrad Campaign",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218090/header.jpg?t=1555512908",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "283000",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/283000/Strategic_War_in_Europe/?snr=1_7_7_2300_150_14",
+    "name": "Strategic War in Europe",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/283000/header.jpg?t=1540989143",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  },
+  {
+    "id": "65980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/?snr=1_7_7_2300_150_22",
+    "name": "Sid Meier's Civilization®: Beyond Earth™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/65980/header.jpg?t=1545237799",
+    "update_at": "2019-05-09T10:58:48.209Z"
+  }
+]

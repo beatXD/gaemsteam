@@ -1,9 +1,29 @@
-{
-  "id": "763000",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/763000/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2_Black_GOAT_of_the_Woods_Edition/?snr=1_7_7_2300_150_81",
-  "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition",
-  "discount_percent": "60",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/763000/header.jpg?t=1553634297",
-  "update_at": "2019-05-09T07:44:38.003Z"
-}
+[
+  {
+    "id": "770380",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/770380/Army_of_Tentacles_Not_A_Cthulhu_Dating_Sim_Black_GOAT_of_the_Woods_Edition/?snr=1_7_7_2300_150_25",
+    "name": "Army of Tentacles: (Not) A Cthulhu Dating Sim: Black GOAT of the Woods Edition",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/770380/header.jpg?t=1553635076",
+    "update_at": "2019-05-09T10:57:40.228Z"
+  },
+  {
+    "id": "592200",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/592200/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2/?snr=1_7_7_2300_150_46",
+    "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/592200/header.jpg?t=1553634294",
+    "update_at": "2019-05-09T10:57:40.228Z"
+  },
+  {
+    "id": "763000",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/763000/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2_Black_GOAT_of_the_Woods_Edition/?snr=1_7_7_2300_150_81",
+    "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/763000/header.jpg?t=1553634297",
+    "update_at": "2019-05-09T10:57:40.228Z"
+  }
+]

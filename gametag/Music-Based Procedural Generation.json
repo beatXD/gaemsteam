@@ -1,9 +1,11 @@
-{
-  "id": "351990",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/351990/Riff_Racer__Race_Your_Music/?snr=1_7_7_2300_150_3",
-  "name": "Riff Racer - Race Your Music!",
-  "discount_percent": "90",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/351990/header.jpg?t=1498659616",
-  "update_at": "2019-05-09T07:44:34.511Z"
-}
+[
+  {
+    "id": "351990",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/351990/Riff_Racer__Race_Your_Music/?snr=1_7_7_2300_150_3",
+    "name": "Riff Racer - Race Your Music!",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/351990/header.jpg?t=1498659616",
+    "update_at": "2019-05-09T10:57:53.556Z"
+  }
+]

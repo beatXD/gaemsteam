@@ -1,9 +1,155 @@
-{
-  "id": "660280",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/660280/Keep_It_Safe_2/?snr=1_7_7_2300_150_88",
-  "name": "Keep It Safe 2",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/660280/header.jpg?t=1500004464",
-  "update_at": "2019-05-09T07:44:38.228Z"
-}
+[
+  {
+    "id": "622650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/?snr=1_7_7_2300_150_1",
+    "name": "Bendy and the Ink Machine™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/622650/header.jpg?t=1540569713",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "666140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/666140/My_Time_At_Portia/?snr=1_7_7_2300_150_1",
+    "name": "My Time At Portia",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/666140/header.jpg?t=1551448689",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "434740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/434740/Lichtspeer/?snr=1_7_7_2300_150_7",
+    "name": "Lichtspeer",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/434740/header.jpg?t=1498286522",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "451570",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/451570/Demetrios__The_BIG_Cynical_Adventure/?snr=1_7_7_2300_150_13",
+    "name": "Demetrios - The BIG Cynical Adventure",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/451570/header.jpg?t=1550570665",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "366810",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/366810/Dungeon_Hero/?snr=1_7_7_2300_150_24",
+    "name": "Dungeon Hero",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366810/header.jpg?t=1526859900",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "879740",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_26",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "879740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_27",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "813540",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/813540/Scheming_Through_The_Zombie_Apocalypse_The_Beginning/?snr=1_7_7_2300_150_29",
+    "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/813540/header.jpg?t=1549555601",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "823390",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/823390/The_Big_Three/?snr=1_7_7_2300_150_35",
+    "name": "The Big Three",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823390/header.jpg?t=1550912728",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "1009150",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/1009150/Choconoa/?snr=1_7_7_2300_150_35",
+    "name": "Choconoa",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1009150/header.jpg?t=1550309023",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "550990",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_46",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "550990",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_47",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "530320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/530320/Wandersong/?snr=1_7_7_2300_150_48",
+    "name": "Wandersong",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/530320/header.jpg?t=1546983507",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "701730",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/701730/Yi_and_the_Thousand_Moons/?snr=1_7_7_2300_150_51",
+    "name": "Yi and the Thousand Moons",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/701730/header.jpg?t=1545474444",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "415890",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/415890/Crystal_Picnic/?snr=1_7_7_2300_150_58",
+    "name": "Crystal Picnic",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415890/header.jpg?t=1551120516",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "489780",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/489780/Demetrios__Artbook/?snr=1_7_7_2300_150_78",
+    "name": "Demetrios - Artbook",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/489780/header.jpg?t=1478027838",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  },
+  {
+    "id": "660280",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/660280/Keep_It_Safe_2/?snr=1_7_7_2300_150_88",
+    "name": "Keep It Safe 2",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/660280/header.jpg?t=1500004464",
+    "update_at": "2019-05-09T10:58:50.639Z"
+  }
+]

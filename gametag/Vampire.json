@@ -1,9 +1,38 @@
-{
-  "id": "318570",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/318570/Hunters_Of_The_Dead/?snr=1_7_7_2300_150_22",
-  "name": "Hunters Of The Dead",
-  "discount_percent": "75",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/318570/header.jpg?t=1447363184",
-  "update_at": "2019-05-09T07:44:35.902Z"
-}
+[
+  {
+    "id": "362130",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/362130/Ashes_of_Immortality/?snr=1_7_7_2300_150_11",
+    "name": "Ashes of Immortality",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/362130/header.jpg?t=1535991492",
+    "update_at": "2019-05-09T10:58:03.618Z"
+  },
+  {
+    "id": "414660",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/414660/Vampire_Legends_The_True_Story_of_Kisilova/?snr=1_7_7_2300_150_16",
+    "name": "Vampire Legends: The True Story of Kisilova",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414660/header.jpg?t=1530539039",
+    "update_at": "2019-05-09T10:58:03.618Z"
+  },
+  {
+    "id": "501860",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/501860/Slayer_Shock/?snr=1_7_7_2300_150_18",
+    "name": "Slayer Shock",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/501860/header.jpg?t=1555631498",
+    "update_at": "2019-05-09T10:58:03.618Z"
+  },
+  {
+    "id": "318570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/318570/Hunters_Of_The_Dead/?snr=1_7_7_2300_150_22",
+    "name": "Hunters Of The Dead",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/318570/header.jpg?t=1447363184",
+    "update_at": "2019-05-09T10:58:03.618Z"
+  }
+]

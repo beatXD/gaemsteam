@@ -1,9 +1,20 @@
-{
-  "id": "642090",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/642090/Coming_Out_on_Top/?snr=1_7_7_2300_150_4",
-  "name": "Coming Out on Top",
-  "discount_percent": "34",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/642090/header.jpg?t=1529596458",
-  "update_at": "2019-05-09T07:44:34.667Z"
-}
+[
+  {
+    "id": "611790",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/611790/House_Party/?snr=1_7_7_2300_150_1",
+    "name": "House Party",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/611790/header.jpg?t=1554851477",
+    "update_at": "2019-05-09T10:58:52.127Z"
+  },
+  {
+    "id": "642090",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/642090/Coming_Out_on_Top/?snr=1_7_7_2300_150_4",
+    "name": "Coming Out on Top",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/642090/header.jpg?t=1529596458",
+    "update_at": "2019-05-09T10:58:52.127Z"
+  }
+]

@@ -1,9 +1,272 @@
-{
-  "id": "1029890",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
-  "name": "Layers of Fear 2",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
-  "update_at": "2019-05-09T07:44:38.396Z"
-}
+[
+  {
+    "id": "611790",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/611790/House_Party/?snr=1_7_7_2300_150_1",
+    "name": "House Party",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/611790/header.jpg?t=1554851477",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "208580",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/208580/header.jpg?t=1545238520",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "32370",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - Knights of the Old Republic™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32370/header.jpg?t=1545238521",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "635390",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/635390/Thief_of_Thieves_Season_One/?snr=1_7_7_2300_150_2",
+    "name": "Thief of Thieves: Season One",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/635390/header.jpg?t=1542046794",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "243950",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/?snr=1_7_7_2300_150_3",
+    "name": "Divinity: Dragon Commander",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/243950/header.jpg?t=1447357292",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "503560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/503560/911_Operator/?snr=1_7_7_2300_150_3",
+    "name": "911 Operator",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/503560/header.jpg?t=1550078854",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "642090",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/642090/Coming_Out_on_Top/?snr=1_7_7_2300_150_4",
+    "name": "Coming Out on Top",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/642090/header.jpg?t=1529596458",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "533950",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/533950/Dont_open_the_doors/?snr=1_7_7_2300_150_4",
+    "name": "Don't open the doors!",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/533950/header.jpg?t=1527778992",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "858810",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/858810/Dawn_of_Man/?snr=1_7_7_2300_150_6",
+    "name": "Dawn of Man",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "332400",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/332400/Girlfriend_Rescue/?snr=1_7_7_2300_150_9",
+    "name": "Girlfriend Rescue",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332400/header.jpg?t=1487172283",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "461350",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/461350/The_Kings_Heroes/?snr=1_7_7_2300_150_14",
+    "name": "The King's Heroes",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461350/header.jpg?t=1506119772",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "937020",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/937020/Super_gamebear_with_its_three_girlfriendsGBC/?snr=1_7_7_2300_150_23",
+    "name": "Super gamebear with its three girlfriends你想知道关于超级喜欢游戏的一头黑色矮小的游戏熊是如何与它的“三个后宫团女朋友”购买到GBC游戏机的吗？",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937020/header.jpg?t=1548752239",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "460960",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/460960/The_Deed_Dynasty/?snr=1_7_7_2300_150_24",
+    "name": "The Deed: Dynasty",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/460960/header.jpg?t=1554742862",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "752330",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/752330/Shape_of_America_Episode_One/?snr=1_7_7_2300_150_26",
+    "name": "Shape of America: Episode One",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/752330/header.jpg?t=1530611236",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "711010",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/711010/Corrupt__Political_Simulator/?snr=1_7_7_2300_150_28",
+    "name": "Corrupt - Political Simulator",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/711010/header.jpg?t=1557142513",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "691690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/?snr=1_7_7_2300_150_28",
+    "name": "Ash of Gods: Redemption",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/691690/header.jpg?t=1553772874",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "785640",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/785640/Luminescence/?snr=1_7_7_2300_150_43",
+    "name": "Luminescence",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/785640/header.jpg?t=1536814465",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "591000",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/591000/Deep_Sixed/?snr=1_7_7_2300_150_50",
+    "name": "Deep Sixed",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/591000/header.jpg?t=1553818115",
+    "update_at": "2019-05-09T10:58:52.772Z"
+  },
+  {
+    "id": "907820",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/907820/Aeon_of_Sands__The_Trail/?snr=1_7_7_2300_150_51",
+    "name": "Aeon of Sands - The Trail",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907820/header.jpg?t=1556292972",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "611760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/611760/Dont_Escape_4_Days_to_Survive/?snr=1_7_7_2300_150_62",
+    "name": "Don't Escape: 4 Days to Survive",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/611760/header.jpg?t=1556559780",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "907380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
+    "name": "The Ballad Singer",
+    "discount_percent": "17",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "617970",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/617970/Love_Bites/?snr=1_7_7_2300_150_64",
+    "name": "Love Bites",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/617970/header.jpg?t=1542441344",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "833890",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/833890/NeoSticks/?snr=1_7_7_2300_150_65",
+    "name": "NeoSticks",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833890/header.jpg?t=1524208713",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "989560",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/989560/NeoGeometry/?snr=1_7_7_2300_150_67",
+    "name": "NeoGeometry",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/989560/header.jpg?t=1549276662",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "718220",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/718220/NeoBoom2/?snr=1_7_7_2300_150_70",
+    "name": "NeoBoom2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/718220/header.jpg?t=1509470204",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "771610",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/771610/NeoBalls/?snr=1_7_7_2300_150_70",
+    "name": "NeoBalls",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/771610/header.jpg?t=1514985370",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "786560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/786560/NeoBalls2/?snr=1_7_7_2300_150_88",
+    "name": "NeoBalls2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/786560/header.jpg?t=1518679600",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "876910",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/876910/Aquarium_Simulator/?snr=1_7_7_2300_150_90",
+    "name": "Aquarium Simulator",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876910/header.jpg?t=1529645112",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "696400",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/696400/NeoBoom/?snr=1_7_7_2300_150_90",
+    "name": "NeoBoom",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/696400/header.jpg?t=1509441181",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  },
+  {
+    "id": "1029890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
+    "name": "Layers of Fear 2",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
+    "update_at": "2019-05-09T10:58:52.773Z"
+  }
+]

@@ -1,9 +1,74 @@
-{
-  "id": "966660",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/966660/Invisible_Fist/?snr=1_7_7_2300_150_68",
-  "name": "Invisible Fist",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/966660/header.jpg?t=1557152499",
-  "update_at": "2019-05-09T07:44:37.699Z"
-}
+[
+  {
+    "id": "520850",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/520850/Lost_in_Secular_Love/?snr=1_7_7_2300_150_3",
+    "name": "Lost in Secular Love",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/520850/header.jpg?t=1543150285",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "603850",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/603850/Age_of_Civilizations_II/?snr=1_7_7_2300_150_5",
+    "name": "Age of Civilizations II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603850/header.jpg?t=1551222352",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "383670",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_43",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "383670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_44",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "758250",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/758250/Taste_of_Power/?snr=1_7_7_2300_150_61",
+    "name": "Taste of Power",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/758250/header.jpg?t=1556610305",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "951670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_64",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "951670",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_65",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  },
+  {
+    "id": "966660",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/966660/Invisible_Fist/?snr=1_7_7_2300_150_68",
+    "name": "Invisible Fist",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/966660/header.jpg?t=1557152499",
+    "update_at": "2019-05-09T10:57:56.165Z"
+  }
+]

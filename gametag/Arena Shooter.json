@@ -1,9 +1,47 @@
-{
-  "id": "987490",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/987490/DOKA_2_GUTS_OUT_NINJA/?snr=1_7_7_2300_150_79",
-  "name": "DOKA 2 GUTS OUT NINJA",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/987490/header.jpg?t=1546019522",
-  "update_at": "2019-05-09T07:44:37.950Z"
-}
+[
+  {
+    "id": "493060",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/493060/Ballistic_Tanks/?snr=1_7_7_2300_150_13",
+    "name": "Ballistic Tanks",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/493060/header.jpg?t=1522196169",
+    "update_at": "2019-05-09T10:58:07.455Z"
+  },
+  {
+    "id": "969480",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/969480/Warp_Glider/?snr=1_7_7_2300_150_35",
+    "name": "Warp Glider",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/969480/header.jpg?t=1549651598",
+    "update_at": "2019-05-09T10:58:07.455Z"
+  },
+  {
+    "id": "314290",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/314290/Obludia/?snr=1_7_7_2300_150_74",
+    "name": "Obludia",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/314290/header.jpg?t=1547451661",
+    "update_at": "2019-05-09T10:58:07.455Z"
+  },
+  {
+    "id": "798710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/798710/Voltage/?snr=1_7_7_2300_150_78",
+    "name": "Voltage",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/798710/header.jpg?t=1556709430",
+    "update_at": "2019-05-09T10:58:07.455Z"
+  },
+  {
+    "id": "987490",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/987490/DOKA_2_GUTS_OUT_NINJA/?snr=1_7_7_2300_150_79",
+    "name": "DOKA 2 GUTS OUT NINJA",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/987490/header.jpg?t=1546019522",
+    "update_at": "2019-05-09T10:58:07.455Z"
+  }
+]

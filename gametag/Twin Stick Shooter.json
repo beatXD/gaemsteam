@@ -1,9 +1,92 @@
-{
-  "id": "997170",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/997170/Zombie_Scrapper/?snr=1_7_7_2300_150_93",
-  "name": "Zombie Scrapper",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/997170/header.jpg?t=1556638055",
-  "update_at": "2019-05-09T07:44:38.406Z"
-}
+[
+  {
+    "id": "603100",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/603100/ATOMINE/?snr=1_7_7_2300_150_9",
+    "name": "ATOMINE",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603100/header.jpg?t=1551978434",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "493060",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/493060/Ballistic_Tanks/?snr=1_7_7_2300_150_13",
+    "name": "Ballistic Tanks",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/493060/header.jpg?t=1522196169",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "385860",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/385860/Tachyon_Project/?snr=1_7_7_2300_150_18",
+    "name": "Tachyon Project",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/385860/header.jpg?t=1447377010",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "576130",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/576130/State_of_Anarchy_Master_of_Mayhem/?snr=1_7_7_2300_150_24",
+    "name": "State of Anarchy: Master of Mayhem",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/576130/header.jpg?t=1557050528",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "823390",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/823390/The_Big_Three/?snr=1_7_7_2300_150_35",
+    "name": "The Big Three",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/823390/header.jpg?t=1550912728",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "225280",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/225280/Full_Mojo_Rampage/?snr=1_7_7_2300_150_55",
+    "name": "Full Mojo Rampage",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/225280/header.jpg?t=1478540673",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "684680",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/684680/Polygoneer/?snr=1_7_7_2300_150_55",
+    "name": "Polygoneer",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/684680/header.jpg?t=1549300309",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "838110",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/838110/HyperParasite/?snr=1_7_7_2300_150_57",
+    "name": "HyperParasite",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/838110/header.jpg?t=1556557340",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "620130",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/620130/Chaos_Town/?snr=1_7_7_2300_150_90",
+    "name": "Chaos Town",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/620130/header.jpg?t=1551658877",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  },
+  {
+    "id": "997170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/997170/Zombie_Scrapper/?snr=1_7_7_2300_150_93",
+    "name": "Zombie Scrapper",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/997170/header.jpg?t=1556638055",
+    "update_at": "2019-05-09T10:58:07.454Z"
+  }
+]

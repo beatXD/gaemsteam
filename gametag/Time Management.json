@@ -1,9 +1,65 @@
-{
-  "id": "970810",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/970810/Julies_Sweets/?snr=1_7_7_2300_150_65",
-  "name": "Julie's Sweets",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/970810/header.jpg?t=1555333169",
-  "update_at": "2019-05-09T07:44:37.643Z"
-}
+[
+  {
+    "id": "686520",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/686520/Gnomes_Garden_New_home/?snr=1_7_7_2300_150_8",
+    "name": "Gnomes Garden New home",
+    "discount_percent": "88",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/686520/header.jpg?t=1513242406",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  },
+  {
+    "id": "546200",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/546200/Gnomes_Garden_3_The_thief_of_castles/?snr=1_7_7_2300_150_8",
+    "name": "Gnomes Garden 3: The thief of castles",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/546200/header.jpg?t=1502702158",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  },
+  {
+    "id": "352140",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/352140/Finders/?snr=1_7_7_2300_150_15",
+    "name": "Finders",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/352140/header.jpg?t=1518534048",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  },
+  {
+    "id": "606971",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/606971/911_Operator__Search__Rescue/?snr=1_7_7_2300_150_35",
+    "name": "911 Operator - Search & Rescue",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/606971/header.jpg?t=1532622241",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  },
+  {
+    "id": "947970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/947970/Roads_of_Rome_New_Generation_2/?snr=1_7_7_2300_150_39",
+    "name": "Roads of Rome: New Generation 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/947970/header.jpg?t=1542976270",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  },
+  {
+    "id": "947970",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/947970/Roads_of_Rome_New_Generation_2/?snr=1_7_7_2300_150_40",
+    "name": "Roads of Rome: New Generation 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/947970/header.jpg?t=1542976270",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  },
+  {
+    "id": "970810",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/970810/Julies_Sweets/?snr=1_7_7_2300_150_65",
+    "name": "Julie's Sweets",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/970810/header.jpg?t=1555333169",
+    "update_at": "2019-05-09T10:58:09.603Z"
+  }
+]

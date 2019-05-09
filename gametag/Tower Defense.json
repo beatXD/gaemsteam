@@ -1,9 +1,218 @@
-{
-  "id": "1000130",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1000130/Cube_Defender/?snr=1_7_7_2300_150_61",
-  "name": "Cube Defender",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1000130/header_alt_assets_1.jpg?t=1557031772",
-  "update_at": "2019-05-09T07:44:37.540Z"
-}
+[
+  {
+    "id": "296490",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/296490/GemCraft__Chasing_Shadows/?snr=1_7_7_2300_150_4",
+    "name": "GemCraft - Chasing Shadows",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/296490/header.jpg?t=1511185831",
+    "update_at": "2019-05-09T10:58:07.237Z"
+  },
+  {
+    "id": "763770",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/763770/Space_Stories_Darth_Star/?snr=1_7_7_2300_150_9",
+    "name": "Space Stories: Darth Star",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/763770/header.jpg?t=1518865796",
+    "update_at": "2019-05-09T10:58:07.237Z"
+  },
+  {
+    "id": "690260",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/690260/Tower_Miners/?snr=1_7_7_2300_150_9",
+    "name": "Tower Miners",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/690260/header.jpg?t=1532934953",
+    "update_at": "2019-05-09T10:58:07.237Z"
+  },
+  {
+    "id": "778410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/778410/Dead_Ground/?snr=1_7_7_2300_150_11",
+    "name": "Dead Ground",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/778410/header.jpg?t=1544369359",
+    "update_at": "2019-05-09T10:58:07.237Z"
+  },
+  {
+    "id": "371460",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/371460/Gnumz_Masters_of_Defense/?snr=1_7_7_2300_150_13",
+    "name": "Gnumz: Masters of Defense",
+    "discount_percent": "88",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/371460/header.jpg?t=1450710820",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "696140",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/696140/No_Heroes_Here/?snr=1_7_7_2300_150_13",
+    "name": "No Heroes Here",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/696140/header.jpg?t=1511271828",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "575360",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/575360/Ultimagus/?snr=1_7_7_2300_150_15",
+    "name": "Ultimagus",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/575360/header.jpg?t=1532689832",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "542400",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/542400/Pixel_Gladiator/?snr=1_7_7_2300_150_15",
+    "name": "Pixel Gladiator",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/542400/header.jpg?t=1541314932",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "575360",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/575360/Ultimagus/?snr=1_7_7_2300_150_16",
+    "name": "Ultimagus",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/575360/header.jpg?t=1532689832",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "538920",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/538920/Fiery_Disaster/?snr=1_7_7_2300_150_21",
+    "name": "Fiery Disaster",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/538920/header.jpg?t=1485687624",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "405550",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/405550/Jet_Set_Knights/?snr=1_7_7_2300_150_21",
+    "name": "Jet Set Knights",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/405550/header.jpg?t=1501922767",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "789930",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/789930/Blind_Boris/?snr=1_7_7_2300_150_22",
+    "name": "Blind Boris",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/789930/header.jpg?t=1553600368",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "318570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/318570/Hunters_Of_The_Dead/?snr=1_7_7_2300_150_22",
+    "name": "Hunters Of The Dead",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/318570/header.jpg?t=1447363184",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "643960",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/643960/Cursed_Treasure_2/?snr=1_7_7_2300_150_29",
+    "name": "Cursed Treasure 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/643960/header.jpg?t=1511185920",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "438480",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/438480/Rock_N_Roll_Defense/?snr=1_7_7_2300_150_29",
+    "name": "Rock 'N' Roll Defense",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/438480/header.jpg?t=1548707364",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "343360",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/343360/Particula/?snr=1_7_7_2300_150_32",
+    "name": "Particula",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/343360/header.jpg?t=1532060339",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "469600",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/469600/Legion_TD_2/?snr=1_7_7_2300_150_39",
+    "name": "Legion TD 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/469600/header.jpg?t=1556812935",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "720270",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/720270/Defense_Task_Force__Sci_Fi_Tower_Defense/?snr=1_7_7_2300_150_42",
+    "name": "Defense Task Force - Sci Fi Tower Defense",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/720270/header.jpg?t=1537524662",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "618610",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/618610/Endless_Horde/?snr=1_7_7_2300_150_43",
+    "name": "Endless Horde",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/618610/header.jpg?t=1527834407",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "618610",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/618610/Endless_Horde/?snr=1_7_7_2300_150_44",
+    "name": "Endless Horde",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/618610/header.jpg?t=1527834407",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "534010",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/534010/Defense_of_Egypt_Cleopatra_Mission/?snr=1_7_7_2300_150_47",
+    "name": "Defense of Egypt: Cleopatra Mission",
+    "discount_percent": "49",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/534010/header.jpg?t=1520251340",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "925900",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/925900/Monica_e_a_Guarda_dos_Coelhos/?snr=1_7_7_2300_150_51",
+    "name": "Monica e a Guarda dos Coelhos",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/925900/header.jpg?t=1543965748",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "809540",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/809540/Mechs_V_Kaijus/?snr=1_7_7_2300_150_55",
+    "name": "Mechs V Kaijus",
+    "discount_percent": "23",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/809540/header.jpg?t=1549469902",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  },
+  {
+    "id": "1000130",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1000130/Cube_Defender/?snr=1_7_7_2300_150_61",
+    "name": "Cube Defender",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1000130/header_alt_assets_1.jpg?t=1557031772",
+    "update_at": "2019-05-09T10:58:07.238Z"
+  }
+]

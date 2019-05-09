@@ -1,9 +1,371 @@
-{
-  "id": "997170",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/997170/Zombie_Scrapper/?snr=1_7_7_2300_150_93",
-  "name": "Zombie Scrapper",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/997170/header.jpg?t=1556638055",
-  "update_at": "2019-05-09T07:44:38.406Z"
-}
+[
+  {
+    "id": "213670",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/?snr=1_7_7_2300_150_1",
+    "name": "South Park™: The Stick of Truth™",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/213670/header.jpg?t=1515609037",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "939510",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/939510/Pandemic_Express__Zombie_Escape/?snr=1_7_7_2300_150_1",
+    "name": "Pandemic Express - Zombie Escape",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/939510/header.jpg?t=1557162168",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "351290",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/351290/SURVIVAL/?snr=1_7_7_2300_150_5",
+    "name": "SURVIVAL",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/351290/header.jpg?t=1556612165",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "305500",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/305500/Trapped_Dead_Lockdown/?snr=1_7_7_2300_150_11",
+    "name": "Trapped Dead: Lockdown",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/305500/header.jpg?t=1486397047",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "397500",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/397500/Labyronia_RPG_2/?snr=1_7_7_2300_150_17",
+    "name": "Labyronia RPG 2",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/397500/header.jpg?t=1492976008",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "231330",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/231330/Deadfall_Adventures/?snr=1_7_7_2300_150_19",
+    "name": "Deadfall Adventures",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/231330/header.jpg?t=1493809138",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "382140",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/382140/SKYHILL/?snr=1_7_7_2300_150_19",
+    "name": "SKYHILL",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/382140/header.jpg?t=1556187796",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "285010",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/285010/Pixel_Puzzles_UndeadZ/?snr=1_7_7_2300_150_19",
+    "name": "Pixel Puzzles: UndeadZ",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/285010/header.jpg?t=1544285480",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "916540",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/916540/Fatal_Hour_Petroleum/?snr=1_7_7_2300_150_20",
+    "name": "Fatal Hour: Petroleum",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/916540/header.jpg?t=1549661975",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "318570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/318570/Hunters_Of_The_Dead/?snr=1_7_7_2300_150_22",
+    "name": "Hunters Of The Dead",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/318570/header.jpg?t=1447363184",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "726800",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/726800/The_Rare_Nine/?snr=1_7_7_2300_150_23",
+    "name": "The Rare Nine",
+    "discount_percent": "74",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/726800/header.jpg?t=1547690518",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "281920",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/281920/Splatter__Zombie_Apocalypse/?snr=1_7_7_2300_150_29",
+    "name": "Splatter - Zombie Apocalypse",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/281920/header.jpg?t=1492978054",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "813540",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/813540/Scheming_Through_The_Zombie_Apocalypse_The_Beginning/?snr=1_7_7_2300_150_29",
+    "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/813540/header.jpg?t=1549555601",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "401190",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/401190/Dinosaur_Hunt/?snr=1_7_7_2300_150_32",
+    "name": "Dinosaur Hunt",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/401190/header.jpg?t=1534871093",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "846010",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/846010/Visceral_Cubes/?snr=1_7_7_2300_150_36",
+    "name": "Visceral Cubes",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/846010/header.jpg?t=1529561836",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "846010",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/846010/Visceral_Cubes/?snr=1_7_7_2300_150_37",
+    "name": "Visceral Cubes",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/846010/header.jpg?t=1529561836",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "554280",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/554280/Time_Carnage_VR/?snr=1_7_7_2300_150_39",
+    "name": "Time Carnage VR",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/554280/header.jpg?t=1534767705",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "266310",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/266310/GameGuru/?snr=1_7_7_2300_150_40",
+    "name": "GameGuru",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/266310/header.jpg?t=1556926808",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "798140",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/798140/Blood_Drift/?snr=1_7_7_2300_150_40",
+    "name": "Blood Drift",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/798140/header.jpg?t=1549310630",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "618610",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/618610/Endless_Horde/?snr=1_7_7_2300_150_43",
+    "name": "Endless Horde",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/618610/header.jpg?t=1527834407",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "448070",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/448070/Red_Risk/?snr=1_7_7_2300_150_43",
+    "name": "Red Risk",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/448070/header.jpg?t=1532060325",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "383670",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_43",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "618610",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/618610/Endless_Horde/?snr=1_7_7_2300_150_44",
+    "name": "Endless Horde",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/618610/header.jpg?t=1527834407",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "383670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_44",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "586750",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/586750/Sonny/?snr=1_7_7_2300_150_45",
+    "name": "Sonny",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/586750/header.jpg?t=1511185985",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "453910",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/453910/Love_is_Dead/?snr=1_7_7_2300_150_57",
+    "name": "Love is Dead",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/453910/header.jpg?t=1537895847",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "453910",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/453910/Love_is_Dead/?snr=1_7_7_2300_150_58",
+    "name": "Love is Dead",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/453910/header.jpg?t=1537895847",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "956430",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
+    "name": "Steampunk Graveyard",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "666570",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/666570/Infectonator_3_Apocalypse/?snr=1_7_7_2300_150_61",
+    "name": "Infectonator 3: Apocalypse",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/666570/header.jpg?t=1547487819",
+    "update_at": "2019-05-09T10:58:50.059Z"
+  },
+  {
+    "id": "617970",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/617970/Love_Bites/?snr=1_7_7_2300_150_64",
+    "name": "Love Bites",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/617970/header.jpg?t=1542441344",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "372750",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/372750/Girl_Amazon_Survival/?snr=1_7_7_2300_150_74",
+    "name": "Girl Amazon Survival",
+    "discount_percent": "74",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/372750/header.jpg?t=1534645720",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "46540",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/46540/Trapped_Dead/?snr=1_7_7_2300_150_74",
+    "name": "Trapped Dead",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46540/header.jpg?t=1478537749",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "570690",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/570690/Xmas_Zombie_Rampage/?snr=1_7_7_2300_150_77",
+    "name": "Xmas Zombie Rampage",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/570690/header.jpg?t=1504770531",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "769390",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/769390/Xmas_Zombie_Rampage_2/?snr=1_7_7_2300_150_77",
+    "name": "Xmas Zombie Rampage 2",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/769390/header.jpg?t=1515968746",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "806480",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/806480/Blood_Moon_The_Last_Stand/?snr=1_7_7_2300_150_78",
+    "name": "Blood Moon: The Last Stand",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806480/header.jpg?t=1536209488",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "987490",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/987490/DOKA_2_GUTS_OUT_NINJA/?snr=1_7_7_2300_150_79",
+    "name": "DOKA 2 GUTS OUT NINJA",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/987490/header.jpg?t=1546019522",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "344820",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/344820/Forsaken_Fortress_Strategy/?snr=1_7_7_2300_150_82",
+    "name": "Forsaken Fortress Strategy",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/344820/header.jpg?t=1486095238",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "908830",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/908830/Shadow_Fear_Path_to_Insanity/?snr=1_7_7_2300_150_83",
+    "name": "Shadow Fear™ Path to Insanity",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/908830/header.jpg?t=1545151353",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "801490",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/801490/HellCrunch/?snr=1_7_7_2300_150_86",
+    "name": "HellCrunch",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/801490/header.jpg?t=1521226683",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "1061240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1061240/Quiet_Sleep/?snr=1_7_7_2300_150_88",
+    "name": "Quiet Sleep",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1061240/header.jpg?t=1556913401",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  },
+  {
+    "id": "997170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/997170/Zombie_Scrapper/?snr=1_7_7_2300_150_93",
+    "name": "Zombie Scrapper",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/997170/header.jpg?t=1556638055",
+    "update_at": "2019-05-09T10:58:50.060Z"
+  }
+]

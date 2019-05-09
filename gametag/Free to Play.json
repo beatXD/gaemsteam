@@ -1,9 +1,299 @@
-{
-  "id": "1079690",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1079690/EILF__Six_in_a_Row_Pack/?snr=1_7_7_2300_150_93",
-  "name": "EILF - Six in a Row Pack",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1079690/header.jpg?t=1556779171",
-  "update_at": "2019-05-09T07:44:38.392Z"
-}
+[
+  {
+    "id": "622650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/?snr=1_7_7_2300_150_1",
+    "name": "Bendy and the Ink Machine™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/622650/header.jpg?t=1540569713",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "535720",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/535720/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Reptile/?snr=1_7_7_2300_150_24",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Reptile",
+    "discount_percent": "62",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/535720/header.jpg?t=1556749596",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "310400",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/310400/World_of_GunsWorld_War_II_Pack/?snr=1_7_7_2300_150_26",
+    "name": "World of Guns:World War II Pack",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/310400/header.jpg?t=1447362432",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "591496",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/591496/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Trains/?snr=1_7_7_2300_150_27",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Trains",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/591496/header.jpg?t=1556747984",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "480590",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/480590/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Owls/?snr=1_7_7_2300_150_27",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Owls",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/480590/header.jpg?t=1556749937",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "256370",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/?snr=1_7_7_2300_150_28",
+    "name": "MXGP - The Official Motocross Videogame",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/256370/header.jpg?t=1478853324",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "314000",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/314000/Pool_Nation_FX_Lite/?snr=1_7_7_2300_150_32",
+    "name": "Pool Nation FX Lite",
+    "discount_percent": "Na",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/314000/header.jpg?t=1461780747",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "384170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/384170/The_Soundtrack_of_Tremendous_Corporation/?snr=1_7_7_2300_150_33",
+    "name": "The Soundtrack of Tremendous Corporation",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384170/header.jpg?t=1530026164",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "937792",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/937792/Professional_Fishing_Catfish_Kit/?snr=1_7_7_2300_150_33",
+    "name": "Professional Fishing: Catfish Kit",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937792/header.jpg?t=1554116764",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "937791",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/937791/Professional_Fishing_Sakura_Ryokan_Spinning/?snr=1_7_7_2300_150_33",
+    "name": "Professional Fishing: Sakura© Ryokan Spinning",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937791/header.jpg?t=1554116800",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "937790",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/937790/Professional_Fishing_Starter_Kit_Basic/?snr=1_7_7_2300_150_33",
+    "name": "Professional Fishing: Starter Kit Basic",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937790/header.jpg?t=1554116847",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "908224",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/908224/Pinball_Arcade_Stern_Pack_1/?snr=1_7_7_2300_150_34",
+    "name": "Pinball Arcade: Stern Pack 1",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/908224/header.jpg?t=1532983854",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "384171",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/384171/The_Secret_of_Tremendous_Corporation_DLC/?snr=1_7_7_2300_150_34",
+    "name": "The Secret of Tremendous Corporation: DLC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384171/header.jpg?t=1530026150",
+    "update_at": "2019-05-09T10:58:50.659Z"
+  },
+  {
+    "id": "988750",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/988750/Professional_Fishing_Starter_Kit_Pro/?snr=1_7_7_2300_150_39",
+    "name": "Professional Fishing: Starter Kit Pro",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/988750/header.jpg?t=1554116729",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "662230",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/662230/Trendpoker_3D_Texas_Holdem_Poker/?snr=1_7_7_2300_150_60",
+    "name": "Trendpoker 3D: Texas Hold'em Poker",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/662230/header.jpg?t=1551310258",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "936710",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/936710/Recruit_Pack/?snr=1_7_7_2300_150_80",
+    "name": "Recruit Pack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/936710/header.jpg?t=1556900391",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "553070",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/553070/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_England/?snr=1_7_7_2300_150_81",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: England",
+    "discount_percent": "62",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/553070/header.jpg?t=1556749586",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "591490",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/591490/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Wild_West/?snr=1_7_7_2300_150_81",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Wild West",
+    "discount_percent": "62",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/591490/header.jpg?t=1556748746",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "653570",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/653570/World_of_GunsWorld_War_II_Pack_2/?snr=1_7_7_2300_150_81",
+    "name": "World of Guns:World War II Pack #2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/653570/header.jpg?t=1497389250",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "561531",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/561531/Sheriff_Lonestar__Awesomenauts_Character/?snr=1_7_7_2300_150_81",
+    "name": "Sheriff Lonestar - Awesomenauts Character",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/561531/header.jpg?t=1512587873",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "1036410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1036410/Tactical_Control__Custom_Games/?snr=1_7_7_2300_150_81",
+    "name": "Tactical Control - Custom Games",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1036410/header.jpg?t=1554827111",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "591494",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/591494/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Coral_Reef/?snr=1_7_7_2300_150_81",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Coral Reef",
+    "discount_percent": "61",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/591494/header.jpg?t=1556748222",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "734863",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/734863/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Surreal/?snr=1_7_7_2300_150_82",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Surreal",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/734863/header.jpg?t=1556753662",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "589650",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/589650/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Australia/?snr=1_7_7_2300_150_82",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Australia",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/589650/header.jpg?t=1556748741",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "825710",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/825710/Armored_Warfare__Marder_2/?snr=1_7_7_2300_150_83",
+    "name": "Armored Warfare - Marder 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/825710/header.jpg?t=1541171299",
+    "update_at": "2019-05-09T10:58:50.660Z"
+  },
+  {
+    "id": "957910",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/957910/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Ukiyoe_2/?snr=1_7_7_2300_150_87",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 2",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/957910/header.jpg?t=1556751072",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "734869",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/734869/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Variety_Pack_5/?snr=1_7_7_2300_150_88",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 5",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/734869/header.jpg?t=1556751204",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "1075150",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/1075150/Tactical_Control__Commanders_Drinks_Cabinet/?snr=1_7_7_2300_150_89",
+    "name": "Tactical Control - Commander's Drinks Cabinet",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1075150/header.jpg?t=1556879571",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "1066350",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/1066350/Tactical_Control__Impossible_Missions/?snr=1_7_7_2300_150_89",
+    "name": "Tactical Control - Impossible Missions",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1066350/header.jpg?t=1556879632",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "696880",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/696880/2D_Paintball/?snr=1_7_7_2300_150_91",
+    "name": "2D Paintball",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/696880/header.jpg?t=1556723124",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "957903",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/957903/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Variety_Pack_7/?snr=1_7_7_2300_150_91",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 7",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/957903/header.jpg?t=1556754015",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "957914",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/957914/Jigsaw_Puzzle_Pack__Pixel_Puzzles_Ultimate_Space_2/?snr=1_7_7_2300_150_92",
+    "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Space 2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/957914/header.jpg?t=1556751103",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  },
+  {
+    "id": "1079690",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1079690/EILF__Six_in_a_Row_Pack/?snr=1_7_7_2300_150_93",
+    "name": "EILF - Six in a Row Pack",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1079690/header.jpg?t=1556779171",
+    "update_at": "2019-05-09T10:58:50.663Z"
+  }
+]

@@ -1,9 +1,47 @@
-{
-  "id": "395250",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/395250/The_Adventures_of_Fatman/?snr=1_7_7_2300_150_67",
-  "name": "The Adventures of Fatman",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/395250/header.jpg?t=1540795643",
-  "update_at": "2019-05-09T07:44:37.688Z"
-}
+[
+  {
+    "id": "231740",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/?snr=1_7_7_2300_150_2",
+    "name": "Knights of Pen and Paper +1 Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/231740/header.jpg?t=1545356131",
+    "update_at": "2019-05-09T10:57:51.837Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:57:51.837Z"
+  },
+  {
+    "id": "46570",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46570/Grotesque_Tactics_2__Dungeons_and_Donuts/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics 2 – Dungeons and Donuts",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46570/header.jpg?t=1542379662",
+    "update_at": "2019-05-09T10:57:51.837Z"
+  },
+  {
+    "id": "392280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/392280/The_Franz_Kafka_Videogame/?snr=1_7_7_2300_150_24",
+    "name": "The Franz Kafka Videogame",
+    "discount_percent": "72",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/392280/header.jpg?t=1540971640",
+    "update_at": "2019-05-09T10:57:51.837Z"
+  },
+  {
+    "id": "395250",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/395250/The_Adventures_of_Fatman/?snr=1_7_7_2300_150_67",
+    "name": "The Adventures of Fatman",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/395250/header.jpg?t=1540795643",
+    "update_at": "2019-05-09T10:57:51.837Z"
+  }
+]

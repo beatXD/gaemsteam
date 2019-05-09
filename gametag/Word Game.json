@@ -1,9 +1,20 @@
-{
-  "id": "677790",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/677790/SOULS/?snr=1_7_7_2300_150_23",
-  "name": "SOULS",
-  "discount_percent": "60",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/677790/header.jpg?t=1550059868",
-  "update_at": "2019-05-09T07:44:35.929Z"
-}
+[
+  {
+    "id": "336240",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/336240/Typoman/?snr=1_7_7_2300_150_16",
+    "name": "Typoman",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/336240/header.jpg?t=1545166296",
+    "update_at": "2019-05-09T10:57:37.686Z"
+  },
+  {
+    "id": "677790",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/677790/SOULS/?snr=1_7_7_2300_150_23",
+    "name": "SOULS",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/677790/header.jpg?t=1550059868",
+    "update_at": "2019-05-09T10:57:37.686Z"
+  }
+]

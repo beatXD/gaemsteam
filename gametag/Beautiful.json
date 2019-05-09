@@ -1,9 +1,182 @@
-{
-  "id": "1029890",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
-  "name": "Layers of Fear 2",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
-  "update_at": "2019-05-09T07:44:38.396Z"
-}
+[
+  {
+    "id": "225080",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/?snr=1_7_7_2300_150_1",
+    "name": "Brothers - A Tale of Two Sons",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/225080/header.jpg?t=1461248665",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "879610",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879610/Girl_Mod__GIRLS_VR_create__pose_in_VR/?snr=1_7_7_2300_150_6",
+    "name": "Girl Mod | GIRLS VR (create + pose in VR)",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879610/header.jpg?t=1539976216",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "46510",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/46510/Syberia_II/?snr=1_7_7_2300_150_9",
+    "name": "Syberia II",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46510/header.jpg?t=1554900911",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "46500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/46500/Syberia/?snr=1_7_7_2300_150_9",
+    "name": "Syberia",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46500/header.jpg?t=1554900806",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "788320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/788320/Balls_and_Magnets/?snr=1_7_7_2300_150_18",
+    "name": "Balls and Magnets",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/788320/header.jpg?t=1556882787",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "788320",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/788320/Balls_and_Magnets/?snr=1_7_7_2300_150_19",
+    "name": "Balls and Magnets",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/788320/header.jpg?t=1556882787",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "339580",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/339580/Ember/?snr=1_7_7_2300_150_19",
+    "name": "Ember",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/339580/header.jpg?t=1551290259",
+    "update_at": "2019-05-09T10:58:53.325Z"
+  },
+  {
+    "id": "757860",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/757860/Elbub/?snr=1_7_7_2300_150_21",
+    "name": "Elbub",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/757860/header.jpg?t=1556882852",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "596870",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/596870/Drop_Hunt__Adventure_Puzzle/?snr=1_7_7_2300_150_28",
+    "name": "Drop Hunt - Adventure Puzzle",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/596870/header.jpg?t=1550169075",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "842130",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/842130/Sunny_Smiles/?snr=1_7_7_2300_150_47",
+    "name": "Sunny Smiles",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/842130/header.jpg?t=1524692628",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "1031640",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031640/Super_Orb_Collector/?snr=1_7_7_2300_150_52",
+    "name": "Super Orb Collector",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/header.jpg?t=1551084269",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "816490",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/816490/Hidden_Paws/?snr=1_7_7_2300_150_58",
+    "name": "Hidden Paws",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/816490/header.jpg?t=1549637285",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "772290",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_61",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "772290",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_62",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "907380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
+    "name": "The Ballad Singer",
+    "discount_percent": "17",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "937850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/937850/Hidden_Paws_Mystery/?snr=1_7_7_2300_150_68",
+    "name": "Hidden Paws Mystery",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937850/header.jpg?t=1551969165",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "851730",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/851730/Sandmade/?snr=1_7_7_2300_150_68",
+    "name": "Sandmade",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/851730/header.jpg?t=1549635639",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "806480",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/806480/Blood_Moon_The_Last_Stand/?snr=1_7_7_2300_150_78",
+    "name": "Blood Moon: The Last Stand",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806480/header.jpg?t=1536209488",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "1037620",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1037620/Epitasis_Original_Soundtrack/?snr=1_7_7_2300_150_92",
+    "name": "Epitasis Original Soundtrack",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1037620/header.jpg?t=1556719265",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  },
+  {
+    "id": "1029890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
+    "name": "Layers of Fear 2",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
+    "update_at": "2019-05-09T10:58:53.326Z"
+  }
+]

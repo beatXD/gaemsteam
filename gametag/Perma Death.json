@@ -1,9 +1,137 @@
-{
-  "id": "1031570",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1031570/Hookshot/?snr=1_7_7_2300_150_82",
-  "name": "Hookshot",
-  "discount_percent": "40",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031570/header.jpg?t=1551084200",
-  "update_at": "2019-05-09T07:44:38.052Z"
-}
+[
+  {
+    "id": "573120",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/573120/Dead_In_Vinland/?snr=1_7_7_2300_150_2",
+    "name": "Dead In Vinland",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/573120/header.jpg?t=1556810072",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "248860",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/248860/NEO_Scavenger/?snr=1_7_7_2300_150_3",
+    "name": "NEO Scavenger",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/248860/header.jpg?t=1530033658",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "603100",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/603100/ATOMINE/?snr=1_7_7_2300_150_9",
+    "name": "ATOMINE",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603100/header.jpg?t=1551978434",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "778410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/778410/Dead_Ground/?snr=1_7_7_2300_150_11",
+    "name": "Dead Ground",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/778410/header.jpg?t=1544369359",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "252630",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/252630/Eldritch_Reanimated/?snr=1_7_7_2300_150_16",
+    "name": "Eldritch Reanimated",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/252630/header.jpg?t=1555631495",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "318570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/318570/Hunters_Of_The_Dead/?snr=1_7_7_2300_150_22",
+    "name": "Hunters Of The Dead",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/318570/header.jpg?t=1447363184",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "384490",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/384490/NECROPOLIS_BRUTAL_EDITION/?snr=1_7_7_2300_150_22",
+    "name": "NECROPOLIS: BRUTAL EDITION",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384490/header.jpg?t=1536069036",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "364300",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/364300/Space_Rogue/?snr=1_7_7_2300_150_25",
+    "name": "Space Rogue",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/364300/header.jpg?t=1522772821",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "803850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/803850/Pixelpunk_XL/?snr=1_7_7_2300_150_28",
+    "name": "Pixelpunk XL",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/803850/header.jpg?t=1524641831",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "515650",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/515650/Straimium_Immortaly/?snr=1_7_7_2300_150_37",
+    "name": "Straimium Immortaly",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/515650/header.jpg?t=1550767663",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "332270",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/332270/Gunmetal_Arcadia/?snr=1_7_7_2300_150_40",
+    "name": "Gunmetal Arcadia",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332270/header.jpg?t=1555631344",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "371220",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/371220/VERLIES_II/?snr=1_7_7_2300_150_45",
+    "name": "VERLIES II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/371220/header.jpg?t=1480844496",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "1031640",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031640/Super_Orb_Collector/?snr=1_7_7_2300_150_52",
+    "name": "Super Orb Collector",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/header.jpg?t=1551084269",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "881060",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/881060/Fortune__Gloria/?snr=1_7_7_2300_150_82",
+    "name": "Fortune & Gloria",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/881060/header.jpg?t=1557062919",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  },
+  {
+    "id": "1031570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031570/Hookshot/?snr=1_7_7_2300_150_82",
+    "name": "Hookshot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031570/header.jpg?t=1551084200",
+    "update_at": "2019-05-09T10:58:03.962Z"
+  }
+]

@@ -1,9 +1,182 @@
-{
-  "id": "765370",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/765370/RTS_Commander_Smash_the_Rebels/?snr=1_7_7_2300_150_77",
-  "name": "RTS Commander: Smash the Rebels",
-  "discount_percent": "75",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/765370/header.jpg?t=1550500267",
-  "update_at": "2019-05-09T07:44:37.897Z"
-}
+[
+  {
+    "id": "4920",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/4920/Natural_Selection_2/?snr=1_7_7_2300_150_2",
+    "name": "Natural Selection 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/4920/header.jpg?t=1556995331",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "32470",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Empire at War - Gold Pack",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32470/header.jpg?t=1542751040",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "32510",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/?snr=1_7_7_2300_150_2",
+    "name": "LEGO® Star Wars™ III - The Clone Wars™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32510/header.jpg?t=1542758524",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "235380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/235380/Blitzkrieg_3/?snr=1_7_7_2300_150_3",
+    "name": "Blitzkrieg 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235380/header.jpg?t=1547539591",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "243950",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/?snr=1_7_7_2300_150_3",
+    "name": "Divinity: Dragon Commander",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/243950/header.jpg?t=1447357292",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "356500",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/356500/STAR_WARS_Galactic_Battlegrounds_Saga/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ Galactic Battlegrounds Saga",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/356500/header.jpg?t=1542763677",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "858810",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/858810/Dawn_of_Man/?snr=1_7_7_2300_150_6",
+    "name": "Dawn of Man",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "313480",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/313480/Blitzkrieg_Anthology/?snr=1_7_7_2300_150_16",
+    "name": "Blitzkrieg Anthology",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/313480/header.jpg?t=1545220634",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "313500",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/313500/Blitzkrieg_2_Anthology/?snr=1_7_7_2300_150_16",
+    "name": "Blitzkrieg 2 Anthology",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/313500/header.jpg?t=1545223960",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "916540",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/916540/Fatal_Hour_Petroleum/?snr=1_7_7_2300_150_20",
+    "name": "Fatal Hour: Petroleum",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/916540/header.jpg?t=1549661975",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "461200",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/461200/Microcosmum_survival_of_cells__Campaign__New_life/?snr=1_7_7_2300_150_20",
+    "name": "Microcosmum: survival of cells - Campaign  \"New life\"",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461200/header.jpg?t=1551366118",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "497850",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/497850/8Bit_Hordes/?snr=1_7_7_2300_150_27",
+    "name": "8-Bit Hordes",
+    "discount_percent": "55",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/497850/header.jpg?t=1521061796",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "643960",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/643960/Cursed_Treasure_2/?snr=1_7_7_2300_150_29",
+    "name": "Cursed Treasure 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/643960/header.jpg?t=1511185920",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "618610",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/618610/Endless_Horde/?snr=1_7_7_2300_150_43",
+    "name": "Endless Horde",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/618610/header.jpg?t=1527834407",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "618610",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/618610/Endless_Horde/?snr=1_7_7_2300_150_44",
+    "name": "Endless Horde",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/618610/header.jpg?t=1527834407",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "366650",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/366650/Blitzkrieg_3__Digital_Deluxe_Edition_Upgrade/?snr=1_7_7_2300_150_45",
+    "name": "Blitzkrieg 3 - Digital Deluxe Edition Upgrade",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366650/header.jpg?t=1545218695",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "437660",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/437660/Microcosmum_survival_of_cells__Colors_for_organisms/?snr=1_7_7_2300_150_58",
+    "name": "Microcosmum: survival of cells - Colors for organisms",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/437660/header.jpg?t=1551366290",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "758250",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/758250/Taste_of_Power/?snr=1_7_7_2300_150_61",
+    "name": "Taste of Power",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/758250/header.jpg?t=1556610305",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "216130",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/216130/Gemini_Wars/?snr=1_7_7_2300_150_74",
+    "name": "Gemini Wars",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/216130/header.jpg?t=1554822096",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  },
+  {
+    "id": "765370",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/765370/RTS_Commander_Smash_the_Rebels/?snr=1_7_7_2300_150_77",
+    "name": "RTS Commander: Smash the Rebels",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/765370/header.jpg?t=1550500267",
+    "update_at": "2019-05-09T10:57:57.633Z"
+  }
+]

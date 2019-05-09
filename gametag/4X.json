@@ -1,9 +1,173 @@
-{
-  "id": "216130",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/216130/Gemini_Wars/?snr=1_7_7_2300_150_74",
-  "name": "Gemini Wars",
-  "discount_percent": "80",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/216130/header.jpg?t=1554822096",
-  "update_at": "2019-05-09T07:44:37.818Z"
-}
+[
+  {
+    "id": "289070",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+    "name": "Sid Meier’s Civilization® VI",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/289070/header.jpg?t=1553635190",
+    "update_at": "2019-05-09T10:58:48.149Z"
+  },
+  {
+    "id": "577230",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/577230/Three_Kingdoms_The_Last_Warlord/?snr=1_7_7_2300_150_2",
+    "name": "Three Kingdoms: The Last Warlord | 三国志:汉末霸业",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/577230/header.jpg?t=1555408124",
+    "update_at": "2019-05-09T10:58:48.149Z"
+  },
+  {
+    "id": "32470",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Empire at War - Gold Pack",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32470/header.jpg?t=1542751040",
+    "update_at": "2019-05-09T10:58:48.149Z"
+  },
+  {
+    "id": "441550",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/441550/STAR_WARS_Rebellion/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ Rebellion",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/441550/header.jpg?t=1542764392",
+    "update_at": "2019-05-09T10:58:48.149Z"
+  },
+  {
+    "id": "833170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/833170/Burned_Land/?snr=1_7_7_2300_150_3",
+    "name": "Burned Land",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833170/header.jpg?t=1557149904",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "16810",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/16810/Sid_Meiers_Civilization_IV_Colonization/?snr=1_7_7_2300_150_3",
+    "name": "Sid Meier's Civilization IV: Colonization",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/16810/header.jpg?t=1534546779",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "8800",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/8800/Civilization_IV_Beyond_the_Sword/?snr=1_7_7_2300_150_10",
+    "name": "Civilization IV: Beyond the Sword",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/8800/header.jpg?t=1534463279",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "235580",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/235580/Sid_Meiers_Civilization_V_Brave_New_World/?snr=1_7_7_2300_150_10",
+    "name": "Sid Meier's Civilization V: Brave New World",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235580/header.jpg?t=1545237044",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "42890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/42890/Sword_of_the_Stars_Complete_Collection/?snr=1_7_7_2300_150_13",
+    "name": "Sword of the Stars: Complete Collection",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/42890/header.jpg?t=1493285878",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "16870",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/16870/Sid_Meiers_Civilization_V_Gods_and_Kings/?snr=1_7_7_2300_150_13",
+    "name": "Sid Meier's Civilization V: Gods and Kings",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/16870/header.jpg?t=1545236911",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "3900",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/3900/Sid_Meiers_Civilization_IV/?snr=1_7_7_2300_150_13",
+    "name": "Sid Meier's Civilization® IV",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/3900/header.jpg?t=1545236003",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "265970",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/265970/Worlds_of_Magic/?snr=1_7_7_2300_150_18",
+    "name": "Worlds of Magic",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/265970/header.jpg?t=1540988768",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "353830",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/353830/Sid_Meiers_Civilization_Beyond_Earth__Rising_Tide/?snr=1_7_7_2300_150_19",
+    "name": "Sid Meier's Civilization: Beyond Earth - Rising Tide",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/353830/header.jpg?t=1545237823",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "42990",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/42990/Sword_of_the_Stars_II_Enhanced_Edition/?snr=1_7_7_2300_150_22",
+    "name": "Sword of the Stars II: Enhanced Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/42990/header.jpg?t=1447354905",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "65980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/?snr=1_7_7_2300_150_22",
+    "name": "Sid Meier's Civilization®: Beyond Earth™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/65980/header.jpg?t=1545237799",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "645402",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/645402/Sid_Meiers_Civilization_VI_Rise_and_Fall/?snr=1_7_7_2300_150_56",
+    "name": "Sid Meier’s Civilization® VI: Rise and Fall",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645402/header.jpg?t=1555974831",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "951670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_64",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "951670",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_65",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  },
+  {
+    "id": "216130",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/216130/Gemini_Wars/?snr=1_7_7_2300_150_74",
+    "name": "Gemini Wars",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/216130/header.jpg?t=1554822096",
+    "update_at": "2019-05-09T10:58:48.150Z"
+  }
+]

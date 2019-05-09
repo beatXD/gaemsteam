@@ -1,9 +1,119 @@
-{
-  "id": "868180",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/868180/Salty_Seabird_Bay/?snr=1_7_7_2300_150_85",
-  "name": "Salty Seabird Bay",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/868180/header.jpg?t=1539274953",
-  "update_at": "2019-05-09T07:44:38.137Z"
-}
+[
+  {
+    "id": "38600",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/38600/Faerie_Solitaire/?snr=1_7_7_2300_150_7",
+    "name": "Faerie Solitaire",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/38600/header.jpg?t=1478044366",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "768290",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/768290/Snow_White_Solitaire_Charmed_Kingdom/?snr=1_7_7_2300_150_37",
+    "name": "Snow White Solitaire. Charmed Kingdom",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/768290/header.jpg?t=1552569749",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "846710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/846710/DeVine_World_of_Shadows/?snr=1_7_7_2300_150_38",
+    "name": "De'Vine: World of Shadows",
+    "discount_percent": "51",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/846710/header.jpg?t=1556216111",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "640850",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/640850/Azorian_Kings/?snr=1_7_7_2300_150_39",
+    "name": "Azorian Kings",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640850/header.jpg?t=1542114775",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "861670",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/861670/Street_Level_Windows_Edition/?snr=1_7_7_2300_150_40",
+    "name": "Street Level: Windows Edition",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/861670/header.jpg?t=1528285306",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "998570",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/998570/DeVine_Card_Battles/?snr=1_7_7_2300_150_45",
+    "name": "De'Vine: Card Battles",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/998570/header.jpg?t=1556029652",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "787710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/787710/Comrades_and_Barons_Solitaire_of_Bloody_1919/?snr=1_7_7_2300_150_47",
+    "name": "Comrades and Barons: Solitaire of Bloody 1919",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/787710/header.jpg?t=1549824474",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "516030",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/516030/Insane_Robots/?snr=1_7_7_2300_150_53",
+    "name": "Insane Robots",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/516030/header.jpg?t=1545433350",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "662230",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/662230/Trendpoker_3D_Texas_Holdem_Poker/?snr=1_7_7_2300_150_60",
+    "name": "Trendpoker 3D: Texas Hold'em Poker",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/662230/header.jpg?t=1551310258",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "1007440",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/1007440/Solitaire_Learn_Chemistry/?snr=1_7_7_2300_150_60",
+    "name": "Solitaire: Learn Chemistry",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1007440/header.jpg?t=1555498184",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "962250",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/962250/Solitaire_Learn_the_Flags/?snr=1_7_7_2300_150_60",
+    "name": "Solitaire: Learn the Flags!",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/962250/header.jpg?t=1550566685",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "841260",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/841260/Final_Match/?snr=1_7_7_2300_150_80",
+    "name": "Final Match",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/841260/header.jpg?t=1546901553",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  },
+  {
+    "id": "868180",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/868180/Salty_Seabird_Bay/?snr=1_7_7_2300_150_85",
+    "name": "Salty Seabird Bay",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/868180/header.jpg?t=1539274953",
+    "update_at": "2019-05-09T10:57:59.039Z"
+  }
+]

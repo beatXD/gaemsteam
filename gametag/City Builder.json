@@ -1,9 +1,56 @@
-{
-  "id": "664120",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/664120/Wildlife_Park_Gold_Reloaded/?snr=1_7_7_2300_150_88",
-  "name": "Wildlife Park Gold Reloaded",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/664120/header.jpg?t=1549969679",
-  "update_at": "2019-05-09T07:44:38.245Z"
-}
+[
+  {
+    "id": "289070",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+    "name": "Sid Meier’s Civilization® VI",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/289070/header.jpg?t=1553635190",
+    "update_at": "2019-05-09T10:58:48.204Z"
+  },
+  {
+    "id": "858810",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/858810/Dawn_of_Man/?snr=1_7_7_2300_150_6",
+    "name": "Dawn of Man",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "update_at": "2019-05-09T10:58:48.204Z"
+  },
+  {
+    "id": "290970",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/290970/1849/?snr=1_7_7_2300_150_25",
+    "name": "1849",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/290970/header.jpg?t=1447361058",
+    "update_at": "2019-05-09T10:58:48.204Z"
+  },
+  {
+    "id": "711010",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/711010/Corrupt__Political_Simulator/?snr=1_7_7_2300_150_28",
+    "name": "Corrupt - Political Simulator",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/711010/header.jpg?t=1557142513",
+    "update_at": "2019-05-09T10:58:48.204Z"
+  },
+  {
+    "id": "606971",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/606971/911_Operator__Search__Rescue/?snr=1_7_7_2300_150_35",
+    "name": "911 Operator - Search & Rescue",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/606971/header.jpg?t=1532622241",
+    "update_at": "2019-05-09T10:58:48.204Z"
+  },
+  {
+    "id": "664120",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/664120/Wildlife_Park_Gold_Reloaded/?snr=1_7_7_2300_150_88",
+    "name": "Wildlife Park Gold Reloaded",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/664120/header.jpg?t=1549969679",
+    "update_at": "2019-05-09T10:58:48.204Z"
+  }
+]

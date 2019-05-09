@@ -1,9 +1,29 @@
-{
-  "id": "677150",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/677150/RPG_World__Forgotten_Lands/?snr=1_7_7_2300_150_61",
-  "name": "RPG World - Forgotten Lands",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/677150/header.jpg?t=1533328018",
-  "update_at": "2019-05-09T07:44:37.552Z"
-}
+[
+  {
+    "id": "822010",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/822010/GameGuru__Melee_Weapons_Pack/?snr=1_7_7_2300_150_33",
+    "name": "GameGuru - Melee Weapons Pack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822010/header.jpg?t=1535479810",
+    "update_at": "2019-05-09T10:53:45.681Z"
+  },
+  {
+    "id": "822010",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/822010/GameGuru__Melee_Weapons_Pack/?snr=1_7_7_2300_150_34",
+    "name": "GameGuru - Melee Weapons Pack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822010/header.jpg?t=1535479810",
+    "update_at": "2019-05-09T10:53:45.681Z"
+  },
+  {
+    "id": "677150",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/677150/RPG_World__Forgotten_Lands/?snr=1_7_7_2300_150_61",
+    "name": "RPG World - Forgotten Lands",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/677150/header.jpg?t=1533328018",
+    "update_at": "2019-05-09T10:53:45.681Z"
+  }
+]

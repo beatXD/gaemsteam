@@ -1,9 +1,227 @@
-{
-  "id": "988760",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/988760/Druid__Wallpapers/?snr=1_7_7_2300_150_92",
-  "name": "Druid - Wallpapers",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/988760/header.jpg?t=1543421739",
-  "update_at": "2019-05-09T07:44:38.369Z"
-}
+[
+  {
+    "id": "434740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/434740/Lichtspeer/?snr=1_7_7_2300_150_7",
+    "name": "Lichtspeer",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/434740/header.jpg?t=1498286522",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "628750",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/628750/aMAZE_2/?snr=1_7_7_2300_150_23",
+    "name": "aMAZE 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/628750/header.jpg?t=1552383587",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "679660",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/679660/aMAZE_ZER0/?snr=1_7_7_2300_150_23",
+    "name": "aMAZE ZER0",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/679660/header.jpg?t=1552372531",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "879740",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_26",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "552390",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/552390/Druid/?snr=1_7_7_2300_150_26",
+    "name": "Druid",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/552390/header.jpg?t=1550262992",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "879740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_27",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "596870",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/596870/Drop_Hunt__Adventure_Puzzle/?snr=1_7_7_2300_150_28",
+    "name": "Drop Hunt - Adventure Puzzle",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/596870/header.jpg?t=1550169075",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "749340",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/749340/Chocolate_makes_you_happy/?snr=1_7_7_2300_150_34",
+    "name": "Chocolate makes you happy",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/749340/header.jpg?t=1553271134",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "986990",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/986990/aMAZE_Christmas/?snr=1_7_7_2300_150_34",
+    "name": "aMAZE Christmas",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/986990/header.jpg?t=1547372838",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "853860",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/853860/aMAZE_Classic/?snr=1_7_7_2300_150_36",
+    "name": "aMAZE Classic",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/853860/header.jpg?t=1552382068",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "806850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/806850/aMAZE_Gears/?snr=1_7_7_2300_150_38",
+    "name": "aMAZE Gears",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806850/header.jpg?t=1552382549",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "764560",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/764560/Chocolate_makes_you_happy_2/?snr=1_7_7_2300_150_42",
+    "name": "Chocolate makes you happy 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/764560/header.jpg?t=1553271234",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "722020",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/722020/Bitcoin_Collector_Spinners_Attack/?snr=1_7_7_2300_150_42",
+    "name": "Bitcoin Collector: Spinners Attack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/722020/header.jpg?t=1551780598",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "978450",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/978450/Data_mining_3/?snr=1_7_7_2300_150_42",
+    "name": "Data mining 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/978450/header.jpg?t=1547376085",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "764560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/764560/Chocolate_makes_you_happy_2/?snr=1_7_7_2300_150_43",
+    "name": "Chocolate makes you happy 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/764560/header.jpg?t=1553271234",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "530320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/530320/Wandersong/?snr=1_7_7_2300_150_48",
+    "name": "Wandersong",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/530320/header.jpg?t=1546983507",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "701730",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/701730/Yi_and_the_Thousand_Moons/?snr=1_7_7_2300_150_51",
+    "name": "Yi and the Thousand Moons",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/701730/header.jpg?t=1545474444",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "536690",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_57",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "536690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_58",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "476880",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/476880/Rescue_Lucy/?snr=1_7_7_2300_150_73",
+    "name": "Rescue Lucy",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/476880/header.jpg?t=1548506104",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "1058500",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/1058500/Muscle_Car_Robot/?snr=1_7_7_2300_150_87",
+    "name": "Muscle Car Robot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1058500/header.jpg?t=1556736449",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "1051630",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1051630/Memorial_Park_of_Hypoxia/?snr=1_7_7_2300_150_88",
+    "name": "Memorial Park of Hypoxia",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1051630/header.jpg?t=1556901172",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "1058500",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1058500/Muscle_Car_Robot/?snr=1_7_7_2300_150_88",
+    "name": "Muscle Car Robot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1058500/header.jpg?t=1556736449",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "946130",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/946130/Druid__Soundtrack/?snr=1_7_7_2300_150_92",
+    "name": "Druid - Soundtrack",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/946130/header.jpg?t=1542988402",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  },
+  {
+    "id": "988760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/988760/Druid__Wallpapers/?snr=1_7_7_2300_150_92",
+    "name": "Druid - Wallpapers",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/988760/header.jpg?t=1543421739",
+    "update_at": "2019-05-09T10:57:58.827Z"
+  }
+]

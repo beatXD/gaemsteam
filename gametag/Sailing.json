@@ -1,9 +1,47 @@
-{
-  "id": "1040100",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1040100/VR_Regatta__Arctic/?snr=1_7_7_2300_150_93",
-  "name": "VR Regatta - Arctic",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/header.jpg?t=1556829072",
-  "update_at": "2019-05-09T07:44:38.410Z"
-}
+[
+  {
+    "id": "958790",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/958790/Big_Breezy_Boat/?snr=1_7_7_2300_150_17",
+    "name": "Big Breezy Boat",
+    "discount_percent": "81",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/958790/header.jpg?t=1548459566",
+    "update_at": "2019-05-09T10:57:30.487Z"
+  },
+  {
+    "id": "628450",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/628450/Magnificent_Ships_Volume_2/?snr=1_7_7_2300_150_53",
+    "name": "Magnificent Ships: Volume 2",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/628450/header.jpg?t=1541715702",
+    "update_at": "2019-05-09T10:57:30.487Z"
+  },
+  {
+    "id": "479020",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/479020/Pirates_of_the_Polygon_Sea/?snr=1_7_7_2300_150_61",
+    "name": "Pirates of the Polygon Sea",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/479020/header.jpg?t=1543612118",
+    "update_at": "2019-05-09T10:57:30.487Z"
+  },
+  {
+    "id": "979340",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/979340/VR_Regatta__Lake_in_Japan/?snr=1_7_7_2300_150_89",
+    "name": "VR Regatta - Lake in Japan",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/979340/header.jpg?t=1544562147",
+    "update_at": "2019-05-09T10:57:30.487Z"
+  },
+  {
+    "id": "1040100",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1040100/VR_Regatta__Arctic/?snr=1_7_7_2300_150_93",
+    "name": "VR Regatta - Arctic",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/header.jpg?t=1556829072",
+    "update_at": "2019-05-09T10:57:30.487Z"
+  }
+]

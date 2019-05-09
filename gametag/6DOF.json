@@ -1,9 +1,11 @@
-{
-  "id": "803850",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/803850/Pixelpunk_XL/?snr=1_7_7_2300_150_28",
-  "name": "Pixelpunk XL",
-  "discount_percent": "60",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/803850/header.jpg?t=1524641831",
-  "update_at": "2019-05-09T07:44:36.205Z"
-}
+[
+  {
+    "id": "803850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/803850/Pixelpunk_XL/?snr=1_7_7_2300_150_28",
+    "name": "Pixelpunk XL",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/803850/header.jpg?t=1524641831",
+    "update_at": "2019-05-09T10:57:43.707Z"
+  }
+]

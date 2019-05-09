@@ -1,9 +1,92 @@
-{
-  "id": "781480",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/781480/Tech_Support_Error_Unknown/?snr=1_7_7_2300_150_64",
-  "name": "Tech Support: Error Unknown",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/781480/header.jpg?t=1551717285",
-  "update_at": "2019-05-09T07:44:37.614Z"
-}
+[
+  {
+    "id": "243950",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/?snr=1_7_7_2300_150_3",
+    "name": "Divinity: Dragon Commander",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/243950/header.jpg?t=1447357292",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "603850",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/603850/Age_of_Civilizations_II/?snr=1_7_7_2300_150_5",
+    "name": "Age of Civilizations II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603850/header.jpg?t=1551222352",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "858810",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/858810/Dawn_of_Man/?snr=1_7_7_2300_150_6",
+    "name": "Dawn of Man",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1553899693",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "752330",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/752330/Shape_of_America_Episode_One/?snr=1_7_7_2300_150_26",
+    "name": "Shape of America: Episode One",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/752330/header.jpg?t=1530611236",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "711010",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/711010/Corrupt__Political_Simulator/?snr=1_7_7_2300_150_28",
+    "name": "Corrupt - Political Simulator",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/711010/header.jpg?t=1557142513",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "496890",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/496890/Replica/?snr=1_7_7_2300_150_30",
+    "name": "Replica",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/496890/header.jpg?t=1531879390",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "550990",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_46",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "550990",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_47",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "787710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/787710/Comrades_and_Barons_Solitaire_of_Bloody_1919/?snr=1_7_7_2300_150_47",
+    "name": "Comrades and Barons: Solitaire of Bloody 1919",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/787710/header.jpg?t=1549824474",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  },
+  {
+    "id": "781480",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/781480/Tech_Support_Error_Unknown/?snr=1_7_7_2300_150_64",
+    "name": "Tech Support: Error Unknown",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/781480/header.jpg?t=1551717285",
+    "update_at": "2019-05-09T10:57:57.635Z"
+  }
+]

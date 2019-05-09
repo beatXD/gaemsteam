@@ -1,9 +1,137 @@
-{
-  "id": "786560",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/786560/NeoBalls2/?snr=1_7_7_2300_150_88",
-  "name": "NeoBalls2",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/786560/header.jpg?t=1518679600",
-  "update_at": "2019-05-09T07:44:38.222Z"
-}
+[
+  {
+    "id": "4920",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/4920/Natural_Selection_2/?snr=1_7_7_2300_150_2",
+    "name": "Natural Selection 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/4920/header.jpg?t=1556995331",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "235380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/235380/Blitzkrieg_3/?snr=1_7_7_2300_150_3",
+    "name": "Blitzkrieg 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/235380/header.jpg?t=1547539591",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "501220",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/501220/Space_Ribbon/?snr=1_7_7_2300_150_11",
+    "name": "Space Ribbon",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/501220/header.jpg?t=1549320412",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "428370",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/428370/Windlands/?snr=1_7_7_2300_150_15",
+    "name": "Windlands",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/428370/header.jpg?t=1522332601",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "362930",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/362930/Garfield_Kart/?snr=1_7_7_2300_150_16",
+    "name": "Garfield Kart",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/362930/header.jpg?t=1478597787",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "414060",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/414060/isoSphere/?snr=1_7_7_2300_150_43",
+    "name": "iso-Sphere",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "414060",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/414060/isoSphere/?snr=1_7_7_2300_150_44",
+    "name": "iso-Sphere",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/414060/header.jpg?t=1550952292",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "366650",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/366650/Blitzkrieg_3__Digital_Deluxe_Edition_Upgrade/?snr=1_7_7_2300_150_45",
+    "name": "Blitzkrieg 3 - Digital Deluxe Edition Upgrade",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366650/header.jpg?t=1545218695",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "922700",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/922700/Hidden_Animals__Photo_Hunt_Seek_and_Find_Game/?snr=1_7_7_2300_150_54",
+    "name": "Hidden Animals : Photo Hunt. Seek and Find Game",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/922700/header.jpg?t=1539923605",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "456160",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/456160/Flag_N_Frag/?snr=1_7_7_2300_150_64",
+    "name": "Flag N Frag",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/456160/header.jpg?t=1538937479",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "833890",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/833890/NeoSticks/?snr=1_7_7_2300_150_65",
+    "name": "NeoSticks",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833890/header.jpg?t=1524208713",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "989560",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/989560/NeoGeometry/?snr=1_7_7_2300_150_67",
+    "name": "NeoGeometry",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/989560/header.jpg?t=1549276662",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "964170",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/964170/PomboTroll/?snr=1_7_7_2300_150_82",
+    "name": "PomboTroll",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/964170/header.jpg?t=1555879822",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "981900",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/981900/Kings_Cross/?snr=1_7_7_2300_150_85",
+    "name": "Kings' Cross",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981900/header.jpg?t=1553701897",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  },
+  {
+    "id": "786560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/786560/NeoBalls2/?snr=1_7_7_2300_150_88",
+    "name": "NeoBalls2",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/786560/header.jpg?t=1518679600",
+    "update_at": "2019-05-09T10:58:04.217Z"
+  }
+]

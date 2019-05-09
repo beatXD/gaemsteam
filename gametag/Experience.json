@@ -1,9 +1,29 @@
-{
-  "id": "536690",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_58",
-  "name": "AENTITY",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
-  "update_at": "2019-05-09T07:44:37.415Z"
-}
+[
+  {
+    "id": "701730",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/701730/Yi_and_the_Thousand_Moons/?snr=1_7_7_2300_150_51",
+    "name": "Yi and the Thousand Moons",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/701730/header.jpg?t=1545474444",
+    "update_at": "2019-05-09T10:53:42.530Z"
+  },
+  {
+    "id": "536690",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_57",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:53:42.530Z"
+  },
+  {
+    "id": "536690",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_58",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:53:42.530Z"
+  }
+]

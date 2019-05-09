@@ -1,9 +1,83 @@
-{
-  "id": "1049560",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1049560/Run_For_Cover/?snr=1_7_7_2300_150_93",
-  "name": "Run For Cover",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1049560/header.jpg?t=1556882703",
-  "update_at": "2019-05-09T07:44:38.404Z"
-}
+[
+  {
+    "id": "435150",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/?snr=1_7_7_2300_150_1",
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/435150/header.jpg?t=1550672369",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "699170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/?snr=1_7_7_2300_150_1",
+    "name": "Fell Seal: Arbiter's Mark",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/699170/header.jpg?t=1556896846",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "577230",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/577230/Three_Kingdoms_The_Last_Warlord/?snr=1_7_7_2300_150_2",
+    "name": "Three Kingdoms: The Last Warlord | 三国志:汉末霸业",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/577230/header.jpg?t=1555408124",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "249650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/249650/Blackguards/?snr=1_7_7_2300_150_11",
+    "name": "Blackguards",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/249650/header.jpg?t=1524646862",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "46570",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46570/Grotesque_Tactics_2__Dungeons_and_Donuts/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics 2 – Dungeons and Donuts",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46570/header.jpg?t=1542379662",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "691690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/?snr=1_7_7_2300_150_28",
+    "name": "Ash of Gods: Redemption",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/691690/header.jpg?t=1553772874",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "981900",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/981900/Kings_Cross/?snr=1_7_7_2300_150_85",
+    "name": "Kings' Cross",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981900/header.jpg?t=1553701897",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  },
+  {
+    "id": "1049560",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1049560/Run_For_Cover/?snr=1_7_7_2300_150_93",
+    "name": "Run For Cover",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1049560/header.jpg?t=1556882703",
+    "update_at": "2019-05-09T10:58:54.063Z"
+  }
+]

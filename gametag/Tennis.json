@@ -1,9 +1,11 @@
-{
-  "id": "840710",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/840710/Trivia_Vault_Tennis_Trivia/?snr=1_7_7_2300_150_8",
-  "name": "Trivia Vault: Tennis Trivia",
-  "discount_percent": "90",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/840710/header.jpg?t=1524160245",
-  "update_at": "2019-05-09T07:44:35.017Z"
-}
+[
+  {
+    "id": "840710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/840710/Trivia_Vault_Tennis_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Tennis Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/840710/header.jpg?t=1524160245",
+    "update_at": "2019-05-09T10:58:00.382Z"
+  }
+]

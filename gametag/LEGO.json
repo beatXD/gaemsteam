@@ -1,9 +1,29 @@
-{
-  "id": "362930",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/362930/Garfield_Kart/?snr=1_7_7_2300_150_16",
-  "name": "Garfield Kart",
-  "discount_percent": "70",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/362930/header.jpg?t=1478597787",
-  "update_at": "2019-05-09T07:44:35.492Z"
-}
+[
+  {
+    "id": "32440",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/?snr=1_7_7_2300_150_2",
+    "name": "LEGO® Star Wars™ - The Complete Saga",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32440/header.jpg?t=1542757968",
+    "update_at": "2019-05-09T10:57:53.049Z"
+  },
+  {
+    "id": "32510",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/?snr=1_7_7_2300_150_2",
+    "name": "LEGO® Star Wars™ III - The Clone Wars™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32510/header.jpg?t=1542758524",
+    "update_at": "2019-05-09T10:57:53.049Z"
+  },
+  {
+    "id": "362930",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/362930/Garfield_Kart/?snr=1_7_7_2300_150_16",
+    "name": "Garfield Kart",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/362930/header.jpg?t=1478597787",
+    "update_at": "2019-05-09T10:57:53.049Z"
+  }
+]

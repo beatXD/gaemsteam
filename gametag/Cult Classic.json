@@ -1,9 +1,92 @@
-{
-  "id": "745220",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/745220/There_Is_A_Genie_In_My_Szechuan_Sauce/?snr=1_7_7_2300_150_63",
-  "name": "There Is A Genie In My Szechuan Sauce",
-  "discount_percent": "23",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/745220/header.jpg?t=1510783378",
-  "update_at": "2019-05-09T07:44:37.582Z"
-}
+[
+  {
+    "id": "6030",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6030/STAR_WARS_Jedi_Knight_II__Jedi_Outcast/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6030/header.jpg?t=1545238437",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "898450",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/898450/UBERMOSHSANTICIDE/?snr=1_7_7_2300_150_7",
+    "name": "UBERMOSH:SANTICIDE",
+    "discount_percent": "88",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/898450/header.jpg?t=1550577503",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "362930",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/362930/Garfield_Kart/?snr=1_7_7_2300_150_16",
+    "name": "Garfield Kart",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/362930/header.jpg?t=1478597787",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "643960",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/643960/Cursed_Treasure_2/?snr=1_7_7_2300_150_29",
+    "name": "Cursed Treasure 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/643960/header.jpg?t=1511185920",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "586350",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/586350/UBERMOSHWRAITH/?snr=1_7_7_2300_150_30",
+    "name": "UBERMOSH:WRAITH",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/586350/header.jpg?t=1519423921",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "444940",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/444940/UBERMOSHBLACK/?snr=1_7_7_2300_150_30",
+    "name": "UBERMOSH:BLACK",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/444940/header.jpg?t=1496617387",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "1029980",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1029980/UBERMOSH_Vol7/?snr=1_7_7_2300_150_41",
+    "name": "UBERMOSH Vol.7",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029980/header.jpg?t=1556649498",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "453910",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/453910/Love_is_Dead/?snr=1_7_7_2300_150_57",
+    "name": "Love is Dead",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/453910/header.jpg?t=1537895847",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "453910",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/453910/Love_is_Dead/?snr=1_7_7_2300_150_58",
+    "name": "Love is Dead",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/453910/header.jpg?t=1537895847",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  },
+  {
+    "id": "745220",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/745220/There_Is_A_Genie_In_My_Szechuan_Sauce/?snr=1_7_7_2300_150_63",
+    "name": "There Is A Genie In My Szechuan Sauce",
+    "discount_percent": "23",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/745220/header.jpg?t=1510783378",
+    "update_at": "2019-05-09T10:57:58.767Z"
+  }
+]

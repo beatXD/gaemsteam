@@ -1,9 +1,227 @@
-{
-  "id": "1064930",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1064930/Divine_DIVA/?snr=1_7_7_2300_150_92",
-  "name": "Divine D.I.V.A.",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1064930/header.jpg?t=1557136118",
-  "update_at": "2019-05-09T07:44:38.356Z"
-}
+[
+  {
+    "id": "822900",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/822900/Trivia_Vault_Golf_Trivia/?snr=1_7_7_2300_150_7",
+    "name": "Trivia Vault: Golf Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822900/header.jpg?t=1522227150",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "806610",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/806610/Trivia_Vault_Basketball_Trivia/?snr=1_7_7_2300_150_7",
+    "name": "Trivia Vault Basketball Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806610/header.jpg?t=1522226955",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "805880",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/805880/Trivia_Vault_Olympics_Trivia/?snr=1_7_7_2300_150_7",
+    "name": "Trivia Vault Olympics Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/805880/header.jpg?t=1522227005",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "804600",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/804600/Trivia_Vault_Football_Trivia/?snr=1_7_7_2300_150_7",
+    "name": "Trivia Vault Football Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/804600/header.jpg?t=1522226974",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "796900",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/796900/Trivia_Vault_Mixed_Trivia_2/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Mixed Trivia 2",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/796900/header.jpg?t=1522227294",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "851710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/851710/Trivia_Vault_Art_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Art Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/851710/header.jpg?t=1525546356",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "878270",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/878270/Trivia_Vault_Music_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Music Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/878270/header.jpg?t=1529732454",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "849620",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/849620/Trivia_Vault_Celebrity_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Celebrity Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/849620/header.jpg?t=1525289946",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "845970",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/845970/Trivia_Vault_Movie_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Movie Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/845970/header.jpg?t=1524853816",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "840710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/840710/Trivia_Vault_Tennis_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Tennis Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/840710/header.jpg?t=1524160245",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "844140",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/844140/Trivia_Vault_Soccer_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Soccer Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/844140/header.jpg?t=1524507412",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "860340",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/860340/Trivia_Vault_Toy_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Toy Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/860340/header.jpg?t=1527293812",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "861740",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/861740/Trivia_Vault_Literature_Trivia/?snr=1_7_7_2300_150_8",
+    "name": "Trivia Vault: Literature Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/861740/header.jpg?t=1527883889",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "710120",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/710120/Trivia_Vault_Mini_Mixed_Trivia_4/?snr=1_7_7_2300_150_9",
+    "name": "Trivia Vault: Mini Mixed Trivia 4",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/710120/header.jpg?t=1522227244",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "851520",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/851520/Trivia_Vault_TV_Trivia/?snr=1_7_7_2300_150_9",
+    "name": "Trivia Vault: TV Trivia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/851520/header.jpg?t=1525373508",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "767030",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/767030/Trivia_Vault_Technology_Trivia_Deluxe/?snr=1_7_7_2300_150_10",
+    "name": "Trivia Vault: Technology Trivia Deluxe",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/767030/header.jpg?t=1522227395",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "706330",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/706330/Trivia_Vault_Mini_Mixed_Trivia_2/?snr=1_7_7_2300_150_10",
+    "name": "Trivia Vault: Mini Mixed Trivia 2",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/706330/header.jpg?t=1522227212",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "818150",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/818150/Retro_Hacker/?snr=1_7_7_2300_150_36",
+    "name": "Retro Hacker",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/818150/header.jpg?t=1534290261",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1032020",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/1032020/Shantalia_and_Coralihulu/?snr=1_7_7_2300_150_57",
+    "name": "Shantalia and Corali'hulu",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1032020/header.jpg?t=1553599128",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1064981",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/1064981/Divine_DIVA_Script/?snr=1_7_7_2300_150_89",
+    "name": "Divine D.I.V.A. (Script)",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1064981/header.jpg?t=1557135951",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1064980",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/1064980/Divine_DIVA_Extra/?snr=1_7_7_2300_150_89",
+    "name": "Divine D.I.V.A. (Extra)",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/header.jpg?t=1557136030",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1032030",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/1032030/Shantalia_and_Coralihulu_Extra/?snr=1_7_7_2300_150_90",
+    "name": "Shantalia and Corali'hulu (Extra)",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/header.jpg?t=1551436833",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1033720",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/1033720/The_Psychiatrist_Major_Depression/?snr=1_7_7_2300_150_90",
+    "name": "The Psychiatrist: Major Depression",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1033720/header.jpg?t=1556884824",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1064930",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1064930/Divine_DIVA/?snr=1_7_7_2300_150_91",
+    "name": "Divine D.I.V.A.",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1064930/header.jpg?t=1557136118",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  },
+  {
+    "id": "1064930",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1064930/Divine_DIVA/?snr=1_7_7_2300_150_92",
+    "name": "Divine D.I.V.A.",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1064930/header.jpg?t=1557136118",
+    "update_at": "2019-05-09T10:58:02.428Z"
+  }
+]

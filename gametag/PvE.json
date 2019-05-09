@@ -1,9 +1,83 @@
-{
-  "id": "1051630",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1051630/Memorial_Park_of_Hypoxia/?snr=1_7_7_2300_150_88",
-  "name": "Memorial Park of Hypoxia",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1051630/header.jpg?t=1556901172",
-  "update_at": "2019-05-09T07:44:38.240Z"
-}
+[
+  {
+    "id": "539700",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/539700/SWEATER_OK/?snr=1_7_7_2300_150_3",
+    "name": "SWEATER? OK!",
+    "discount_percent": "86",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/539700/header.jpg?t=1551157731",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "640850",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/640850/Azorian_Kings/?snr=1_7_7_2300_150_39",
+    "name": "Azorian Kings",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640850/header.jpg?t=1542114775",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "509000",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/509000/QUBIC/?snr=1_7_7_2300_150_43",
+    "name": "QUBIC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/509000/header.jpg?t=1551686819",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "366650",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/366650/Blitzkrieg_3__Digital_Deluxe_Edition_Upgrade/?snr=1_7_7_2300_150_45",
+    "name": "Blitzkrieg 3 - Digital Deluxe Edition Upgrade",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366650/header.jpg?t=1545218695",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "413030",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/413030/Mytheon/?snr=1_7_7_2300_150_48",
+    "name": "Mytheon",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/413030/header.jpg?t=1478033453",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "698140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/698140/SnakEscape_Plus/?snr=1_7_7_2300_150_81",
+    "name": "SnakEscape: Plus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/698140/header.jpg?t=1542281412",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "773080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/773080/MORE_SWEATER_OK_DLC/?snr=1_7_7_2300_150_84",
+    "name": "MORE SWEATER? OK! (DLC)",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/773080/header.jpg?t=1542282347",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "981900",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/981900/Kings_Cross/?snr=1_7_7_2300_150_85",
+    "name": "Kings' Cross",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981900/header.jpg?t=1553701897",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  },
+  {
+    "id": "1051630",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1051630/Memorial_Park_of_Hypoxia/?snr=1_7_7_2300_150_88",
+    "name": "Memorial Park of Hypoxia",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1051630/header.jpg?t=1556901172",
+    "update_at": "2019-05-09T10:57:53.662Z"
+  }
+]

@@ -1,9 +1,137 @@
-{
-  "id": "907380",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
-  "name": "The Ballad Singer",
-  "discount_percent": "17",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
-  "update_at": "2019-05-09T07:44:37.586Z"
-}
+[
+  {
+    "id": "619780",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/619780/The_Swords_of_Ditto_Mormos_Curse/?snr=1_7_7_2300_150_1",
+    "name": "The Swords of Ditto: Mormo's Curse",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/619780/header.jpg?t=1556849891",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "214340",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/214340/Deponia/?snr=1_7_7_2300_150_3",
+    "name": "Deponia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/214340/header.jpg?t=1550763265",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "533950",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/533950/Dont_open_the_doors/?snr=1_7_7_2300_150_4",
+    "name": "Don't open the doors!",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/533950/header.jpg?t=1527778992",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "822720",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/822720/The_Amazing_Bernard/?snr=1_7_7_2300_150_5",
+    "name": "The Amazing Bernard",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822720/header.jpg?t=1544658627",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "597030",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/597030/Aircraft_Evolution/?snr=1_7_7_2300_150_16",
+    "name": "Aircraft Evolution",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597030/header.jpg?t=1553767827",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "420060",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/420060/Candle/?snr=1_7_7_2300_150_17",
+    "name": "Candle",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/420060/header.jpg?t=1523465131",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "706490",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/706490/Little_hidden_city/?snr=1_7_7_2300_150_23",
+    "name": "Little hidden city",
+    "discount_percent": "74",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/706490/header.jpg?t=1530509166",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "392280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/392280/The_Franz_Kafka_Videogame/?snr=1_7_7_2300_150_24",
+    "name": "The Franz Kafka Videogame",
+    "discount_percent": "72",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/392280/header.jpg?t=1540971640",
+    "update_at": "2019-05-09T10:58:48.624Z"
+  },
+  {
+    "id": "384170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/384170/The_Soundtrack_of_Tremendous_Corporation/?snr=1_7_7_2300_150_33",
+    "name": "The Soundtrack of Tremendous Corporation",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384170/header.jpg?t=1530026164",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  },
+  {
+    "id": "384171",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/384171/The_Secret_of_Tremendous_Corporation_DLC/?snr=1_7_7_2300_150_34",
+    "name": "The Secret of Tremendous Corporation: DLC",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384171/header.jpg?t=1530026150",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  },
+  {
+    "id": "550990",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_46",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  },
+  {
+    "id": "550990",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_47",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  },
+  {
+    "id": "787710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/787710/Comrades_and_Barons_Solitaire_of_Bloody_1919/?snr=1_7_7_2300_150_47",
+    "name": "Comrades and Barons: Solitaire of Bloody 1919",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/787710/header.jpg?t=1549824474",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  },
+  {
+    "id": "775960",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/775960/The_Tower_of_Beatrice/?snr=1_7_7_2300_150_47",
+    "name": "The Tower of Beatrice",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/775960/header.jpg?t=1552124165",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  },
+  {
+    "id": "907380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
+    "name": "The Ballad Singer",
+    "discount_percent": "17",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
+    "update_at": "2019-05-09T10:58:48.625Z"
+  }
+]

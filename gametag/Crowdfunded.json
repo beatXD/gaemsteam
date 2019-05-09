@@ -1,9 +1,38 @@
-{
-  "id": "1037620",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1037620/Epitasis_Original_Soundtrack/?snr=1_7_7_2300_150_92",
-  "name": "Epitasis Original Soundtrack",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1037620/header.jpg?t=1556719265",
-  "update_at": "2019-05-09T07:44:38.374Z"
-}
+[
+  {
+    "id": "818210",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/818210/Indie_Pogo/?snr=1_7_7_2300_150_30",
+    "name": "Indie Pogo",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/818210/header.jpg?t=1556832197",
+    "update_at": "2019-05-09T10:54:13.909Z"
+  },
+  {
+    "id": "291650",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/291650/Pillars_of_Eternity/?snr=1_7_7_2300_150_41",
+    "name": "Pillars of Eternity",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/291650/header.jpg?t=1552039638",
+    "update_at": "2019-05-09T10:54:13.909Z"
+  },
+  {
+    "id": "662240",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/662240/Epitasis/?snr=1_7_7_2300_150_68",
+    "name": "Epitasis",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/662240/header.jpg?t=1557101065",
+    "update_at": "2019-05-09T10:54:13.909Z"
+  },
+  {
+    "id": "1037620",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/1037620/Epitasis_Original_Soundtrack/?snr=1_7_7_2300_150_92",
+    "name": "Epitasis Original Soundtrack",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1037620/header.jpg?t=1556719265",
+    "update_at": "2019-05-09T10:54:13.909Z"
+  }
+]

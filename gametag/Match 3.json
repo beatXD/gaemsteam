@@ -1,9 +1,236 @@
-{
-  "id": "850340",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/850340/Deep_Voyage/?snr=1_7_7_2300_150_91",
-  "name": "Deep Voyage",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/850340/header.jpg?t=1525419369",
-  "update_at": "2019-05-09T07:44:38.324Z"
-}
+[
+  {
+    "id": "301150",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/301150/The_Treasures_of_Montezuma_4/?snr=1_7_7_2300_150_9",
+    "name": "The Treasures of Montezuma 4",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/301150/header.jpg?t=1518597843",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "718080",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/718080/Artifact_Quest_2/?snr=1_7_7_2300_150_12",
+    "name": "Artifact Quest 2",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/718080/header.jpg?t=1509749224",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "354310",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/354310/Claws__Feathers/?snr=1_7_7_2300_150_12",
+    "name": "Claws & Feathers",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/354310/header.jpg?t=1518533038",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "429280",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/429280/Gems_of_the_Aztecs/?snr=1_7_7_2300_150_13",
+    "name": "Gems of the Aztecs",
+    "discount_percent": "88",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/429280/header.jpg?t=1474621175",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "352140",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/352140/Finders/?snr=1_7_7_2300_150_15",
+    "name": "Finders",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/352140/header.jpg?t=1518534048",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "320670",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/320670/Season_Match_3__Curse_of_the_Witch_Crow/?snr=1_7_7_2300_150_15",
+    "name": "Season Match 3 - Curse of the Witch Crow",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/320670/header.jpg?t=1518535562",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "320630",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/320630/Season_Match/?snr=1_7_7_2300_150_15",
+    "name": "Season Match",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/320630/header.jpg?t=1518535557",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "320650",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/320650/Season_Match_2/?snr=1_7_7_2300_150_17",
+    "name": "Season Match 2",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/320650/header.jpg?t=1518535559",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "320650",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/320650/Season_Match_2/?snr=1_7_7_2300_150_18",
+    "name": "Season Match 2",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/320650/header.jpg?t=1518535559",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "320690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/320690/The_Treasures_of_Montezuma_3/?snr=1_7_7_2300_150_18",
+    "name": "The Treasures of Montezuma 3",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/320690/header.jpg?t=1518597840",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "443370",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/443370/The_Treasures_of_Montezuma_5/?snr=1_7_7_2300_150_18",
+    "name": "The Treasures of Montezuma 5",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/443370/header.jpg?t=1518597847",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "985640",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/985640/Amandas_Sticker_Book/?snr=1_7_7_2300_150_34",
+    "name": "Amanda's Sticker Book",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/985640/header.jpg?t=1548575835",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "750780",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/750780/Christmas_Puzzle_2/?snr=1_7_7_2300_150_35",
+    "name": "Christmas Puzzle 2",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/750780/header.jpg?t=1514107211",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "737830",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/737830/Christmas_Puzzle/?snr=1_7_7_2300_150_35",
+    "name": "Christmas Puzzle",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/737830/header.jpg?t=1510044223",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "1031590",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/1031590/The_Adventures_of_Perseus/?snr=1_7_7_2300_150_36",
+    "name": "The Adventures of Perseus",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031590/header.jpg?t=1551257348",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "981800",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/981800/Hentai_University_2_Biology_course/?snr=1_7_7_2300_150_38",
+    "name": "Hentai University 2: Biology course",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981800/header.jpg?t=1554799587",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "759650",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/759650/Christmas_Puzzle_3/?snr=1_7_7_2300_150_38",
+    "name": "Christmas Puzzle 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/759650/header.jpg?t=1513330788",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "981800",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/981800/Hentai_University_2_Biology_course/?snr=1_7_7_2300_150_39",
+    "name": "Hentai University 2: Biology course",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/981800/header.jpg?t=1554799587",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "540860",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/540860/Dragon_Kingdom_War/?snr=1_7_7_2300_150_39",
+    "name": "Dragon Kingdom War",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/540860/header.jpg?t=1487355981",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "702310",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/702310/Tricks_and_Treats/?snr=1_7_7_2300_150_60",
+    "name": "Tricks and Treats",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/702310/header.jpg?t=1508330121",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "763300",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/763300/GAME_TUBE/?snr=1_7_7_2300_150_77",
+    "name": "GAME TUBE ♛",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/763300/header.jpg?t=1552240896",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "798610",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/798610/Mermaid_Adventures_The_Frozen_Time/?snr=1_7_7_2300_150_78",
+    "name": "Mermaid Adventures: The Frozen Time",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/798610/header.jpg?t=1520069348",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "985280",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/985280/The_Trials_of_Olympus/?snr=1_7_7_2300_150_80",
+    "name": "The Trials of Olympus",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/985280/header.jpg?t=1551614432",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "1039560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1039560/Amandas_Sticker_Book_2__Amazing_Wildlife/?snr=1_7_7_2300_150_88",
+    "name": "Amanda's Sticker Book 2 - Amazing Wildlife",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/header.jpg?t=1552992652",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "1065680",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1065680/The_Chronicles_of_King_Arthur_Episode_2__Knights_of_the_Round_Table/?snr=1_7_7_2300_150_91",
+    "name": "The Chronicles of King Arthur: Episode 2 - Knights of the Round Table",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1065680/header.jpg?t=1556869684",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  },
+  {
+    "id": "850340",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/850340/Deep_Voyage/?snr=1_7_7_2300_150_91",
+    "name": "Deep Voyage",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/850340/header.jpg?t=1525419369",
+    "update_at": "2019-05-09T10:58:09.602Z"
+  }
+]

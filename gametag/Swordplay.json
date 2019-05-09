@@ -1,9 +1,38 @@
-{
-  "id": "6020",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/?snr=1_7_7_2300_150_2",
-  "name": "STAR WARS™ Jedi Knight - Jedi Academy™",
-  "discount_percent": "65",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/6020/header.jpg?t=1545238466",
-  "update_at": "2019-05-09T07:44:34.476Z"
-}
+[
+  {
+    "id": "597170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/597170/Clone_Drone_in_the_Danger_Zone/?snr=1_7_7_2300_150_1",
+    "name": "Clone Drone in the Danger Zone",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597170/header.jpg?t=1556907763",
+    "update_at": "2019-05-09T10:58:49.220Z"
+  },
+  {
+    "id": "966430",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/966430/Neverinth/?snr=1_7_7_2300_150_2",
+    "name": "Neverinth",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/966430/header.jpg?t=1556643622",
+    "update_at": "2019-05-09T10:58:49.220Z"
+  },
+  {
+    "id": "6030",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6030/STAR_WARS_Jedi_Knight_II__Jedi_Outcast/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6030/header.jpg?t=1545238437",
+    "update_at": "2019-05-09T10:58:49.221Z"
+  },
+  {
+    "id": "6020",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Jedi Knight - Jedi Academy™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/6020/header.jpg?t=1545238466",
+    "update_at": "2019-05-09T10:58:49.221Z"
+  }
+]

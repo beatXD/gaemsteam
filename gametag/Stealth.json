@@ -1,9 +1,155 @@
-{
-  "id": "969190",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/969190/Cult_of_the_Glitch_King/?snr=1_7_7_2300_150_84",
-  "name": "Cult of the Glitch King",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/969190/header.jpg?t=1543106330",
-  "update_at": "2019-05-09T07:44:38.094Z"
-}
+[
+  {
+    "id": "635390",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/635390/Thief_of_Thieves_Season_One/?snr=1_7_7_2300_150_2",
+    "name": "Thief of Thieves: Season One",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/635390/header.jpg?t=1542046794",
+    "update_at": "2019-05-09T10:58:08.078Z"
+  },
+  {
+    "id": "218640",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/218640/Lucius/?snr=1_7_7_2300_150_3",
+    "name": "Lucius",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218640/header.jpg?t=1535010582",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "481870",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/481870/Mini_Thief/?snr=1_7_7_2300_150_5",
+    "name": "Mini Thief",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/481870/header.jpg?t=1549559204",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "310740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/310740/NEON_STRUCT/?snr=1_7_7_2300_150_7",
+    "name": "NEON STRUCT",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/310740/header.jpg?t=1555631497",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "242880",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/?snr=1_7_7_2300_150_13",
+    "name": "Sir, You Are Being Hunted",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/242880/header.jpg?t=1447358095",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "347510",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/347510/Rats__Time_is_running_out/?snr=1_7_7_2300_150_13",
+    "name": "Rats - Time is running out!",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/347510/header.jpg?t=1450711534",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "252630",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/252630/Eldritch_Reanimated/?snr=1_7_7_2300_150_16",
+    "name": "Eldritch Reanimated",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/252630/header.jpg?t=1555631495",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "501860",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/501860/Slayer_Shock/?snr=1_7_7_2300_150_18",
+    "name": "Slayer Shock",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/501860/header.jpg?t=1555631498",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "46560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46560/Robin_Hood_The_Legend_of_Sherwood/?snr=1_7_7_2300_150_18",
+    "name": "Robin Hood: The Legend of Sherwood",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46560/header.jpg?t=1478599556",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "457760",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/457760/The_Signal_From_Tlva/?snr=1_7_7_2300_150_19",
+    "name": "The Signal From Tölva",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/457760/header.jpg?t=1522430832",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "611860",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/611860/Aborigenus/?snr=1_7_7_2300_150_26",
+    "name": "Aborigenus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/611860/header.jpg?t=1555404788",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "881690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/881690/The_Slater/?snr=1_7_7_2300_150_28",
+    "name": "The Slater",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/881690/header.jpg?t=1552924298",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "953050",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/953050/Dread_of_Laughter/?snr=1_7_7_2300_150_32",
+    "name": "Dread of Laughter",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/953050/header.jpg?t=1541753830",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "754120",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/754120/Ninja_Stealth_3/?snr=1_7_7_2300_150_43",
+    "name": "Ninja Stealth 3",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/754120/header.jpg?t=1552380483",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "853240",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/853240/The_Light_Keeps_Us_Safe/?snr=1_7_7_2300_150_57",
+    "name": "The Light Keeps Us Safe",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/853240/header.jpg?t=1556638738",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "1013410",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/1013410/REDVIIL/?snr=1_7_7_2300_150_70",
+    "name": "REDVIIL",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1013410/header.jpg?t=1554539176",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  },
+  {
+    "id": "969190",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/969190/Cult_of_the_Glitch_King/?snr=1_7_7_2300_150_84",
+    "name": "Cult of the Glitch King",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/969190/header.jpg?t=1543106330",
+    "update_at": "2019-05-09T10:58:08.079Z"
+  }
+]

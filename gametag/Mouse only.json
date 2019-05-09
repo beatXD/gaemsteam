@@ -1,9 +1,146 @@
-{
-  "id": "851730",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/851730/Sandmade/?snr=1_7_7_2300_150_68",
-  "name": "Sandmade",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/851730/header.jpg?t=1549635639",
-  "update_at": "2019-05-09T07:44:37.721Z"
-}
+[
+  {
+    "id": "38600",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/38600/Faerie_Solitaire/?snr=1_7_7_2300_150_7",
+    "name": "Faerie Solitaire",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/38600/header.jpg?t=1478044366",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "491240",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/491240/Lil_Big_Invasion/?snr=1_7_7_2300_150_12",
+    "name": "Lil Big Invasion",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/491240/header.jpg?t=1543752488",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "597030",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/597030/Aircraft_Evolution/?snr=1_7_7_2300_150_16",
+    "name": "Aircraft Evolution",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597030/header.jpg?t=1553767827",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "788320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/788320/Balls_and_Magnets/?snr=1_7_7_2300_150_18",
+    "name": "Balls and Magnets",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/788320/header.jpg?t=1556882787",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "788320",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/788320/Balls_and_Magnets/?snr=1_7_7_2300_150_19",
+    "name": "Balls and Magnets",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/788320/header.jpg?t=1556882787",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "731940",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/731940/Bars_and_Balance/?snr=1_7_7_2300_150_19",
+    "name": "Bars and Balance",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/731940/header.jpg?t=1538894235",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "757860",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/757860/Elbub/?snr=1_7_7_2300_150_21",
+    "name": "Elbub",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/757860/header.jpg?t=1556882852",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "985640",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/985640/Amandas_Sticker_Book/?snr=1_7_7_2300_150_34",
+    "name": "Amanda's Sticker Book",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/985640/header.jpg?t=1548575835",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "876840",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/876840/999/?snr=1_7_7_2300_150_36",
+    "name": "999",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876840/header.jpg?t=1534478978",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "876840",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/876840/999/?snr=1_7_7_2300_150_37",
+    "name": "999",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876840/header.jpg?t=1534478978",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "780100",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/780100/ClearMem__Free_Up_Your_RAM/?snr=1_7_7_2300_150_42",
+    "name": "ClearMem :: Free Up Your RAM",
+    "discount_percent": "51",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/780100/header.jpg?t=1544810027",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "998570",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/998570/DeVine_Card_Battles/?snr=1_7_7_2300_150_45",
+    "name": "De'Vine: Card Battles",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/998570/header.jpg?t=1556029652",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "480480",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/480480/Slash_or_Die/?snr=1_7_7_2300_150_48",
+    "name": "Slash or Die",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/480480/header.jpg?t=1531414090",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "1031640",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031640/Super_Orb_Collector/?snr=1_7_7_2300_150_52",
+    "name": "Super Orb Collector",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/header.jpg?t=1551084269",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "781480",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/781480/Tech_Support_Error_Unknown/?snr=1_7_7_2300_150_64",
+    "name": "Tech Support: Error Unknown",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/781480/header.jpg?t=1551717285",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "851730",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/851730/Sandmade/?snr=1_7_7_2300_150_68",
+    "name": "Sandmade",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/851730/header.jpg?t=1549635639",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  }
+]

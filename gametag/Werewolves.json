@@ -1,9 +1,65 @@
-{
-  "id": "592200",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/592200/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2/?snr=1_7_7_2300_150_46",
-  "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2",
-  "discount_percent": "40",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/592200/header.jpg?t=1553634294",
-  "update_at": "2019-05-09T07:44:37.064Z"
-}
+[
+  {
+    "id": "362130",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/362130/Ashes_of_Immortality/?snr=1_7_7_2300_150_11",
+    "name": "Ashes of Immortality",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/362130/header.jpg?t=1535991492",
+    "update_at": "2019-05-09T10:58:07.150Z"
+  },
+  {
+    "id": "681980",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/681980/Lycah/?snr=1_7_7_2300_150_13",
+    "name": "Lycah",
+    "discount_percent": "88",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/681980/header.jpg?t=1535991836",
+    "update_at": "2019-05-09T10:58:07.150Z"
+  },
+  {
+    "id": "427930",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/427930/Army_of_Tentacles_Not_A_Cthulhu_Dating_Sim/?snr=1_7_7_2300_150_25",
+    "name": "Army of Tentacles: (Not) A Cthulhu Dating Sim",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/427930/header.jpg?t=1553635650",
+    "update_at": "2019-05-09T10:58:07.151Z"
+  },
+  {
+    "id": "293180",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/293180/Overcast__Walden_and_the_Werewolf/?snr=1_7_7_2300_150_32",
+    "name": "Overcast - Walden and the Werewolf",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/293180/header.jpg?t=1532060341",
+    "update_at": "2019-05-09T10:58:07.151Z"
+  },
+  {
+    "id": "383670",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_43",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:58:07.151Z"
+  },
+  {
+    "id": "383670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_44",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:58:07.151Z"
+  },
+  {
+    "id": "592200",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/592200/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2/?snr=1_7_7_2300_150_46",
+    "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/592200/header.jpg?t=1553634294",
+    "update_at": "2019-05-09T10:58:07.151Z"
+  }
+]

@@ -1,9 +1,47 @@
-{
-  "id": "666330",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/666330/Inertia/?snr=1_7_7_2300_150_40",
-  "name": "Inertia",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/666330/header.jpg?t=1512386784",
-  "update_at": "2019-05-09T07:44:36.801Z"
-}
+[
+  {
+    "id": "252550",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/252550/Qbeh1_The_Atlas_Cube/?snr=1_7_7_2300_150_7",
+    "name": "Qbeh-1: The Atlas Cube",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/252550/header.jpg?t=1447358682",
+    "update_at": "2019-05-09T10:57:59.144Z"
+  },
+  {
+    "id": "428370",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/428370/Windlands/?snr=1_7_7_2300_150_15",
+    "name": "Windlands",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/428370/header.jpg?t=1522332601",
+    "update_at": "2019-05-09T10:57:59.144Z"
+  },
+  {
+    "id": "734920",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/734920/MEANDERS/?snr=1_7_7_2300_150_16",
+    "name": "MEANDERS",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/734920/header.jpg?t=1556006435",
+    "update_at": "2019-05-09T10:57:59.144Z"
+  },
+  {
+    "id": "666330",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/666330/Inertia/?snr=1_7_7_2300_150_39",
+    "name": "Inertia",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/666330/header.jpg?t=1512386784",
+    "update_at": "2019-05-09T10:57:59.144Z"
+  },
+  {
+    "id": "666330",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/666330/Inertia/?snr=1_7_7_2300_150_40",
+    "name": "Inertia",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/666330/header.jpg?t=1512386784",
+    "update_at": "2019-05-09T10:57:59.144Z"
+  }
+]

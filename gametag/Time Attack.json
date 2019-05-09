@@ -1,9 +1,56 @@
-{
-  "id": "798140",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/798140/Blood_Drift/?snr=1_7_7_2300_150_40",
-  "name": "Blood Drift",
-  "discount_percent": "45",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/798140/header.jpg?t=1549310630",
-  "update_at": "2019-05-09T07:44:36.785Z"
-}
+[
+  {
+    "id": "539700",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/539700/SWEATER_OK/?snr=1_7_7_2300_150_3",
+    "name": "SWEATER? OK!",
+    "discount_percent": "86",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/539700/header.jpg?t=1551157731",
+    "update_at": "2019-05-09T10:58:06.627Z"
+  },
+  {
+    "id": "717940",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/717940/WIL/?snr=1_7_7_2300_150_12",
+    "name": "WIL",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/717940/header.jpg?t=1527758745",
+    "update_at": "2019-05-09T10:58:06.627Z"
+  },
+  {
+    "id": "742460",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/742460/Marble_Skies/?snr=1_7_7_2300_150_29",
+    "name": "Marble Skies",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/742460/header.jpg?t=1556283419",
+    "update_at": "2019-05-09T10:58:06.627Z"
+  },
+  {
+    "id": "271670",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/271670/10_Second_Ninja/?snr=1_7_7_2300_150_29",
+    "name": "10 Second Ninja",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/271670/header.jpg?t=1450151988",
+    "update_at": "2019-05-09T10:58:06.627Z"
+  },
+  {
+    "id": "271670",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/271670/10_Second_Ninja/?snr=1_7_7_2300_150_30",
+    "name": "10 Second Ninja",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/271670/header.jpg?t=1450151988",
+    "update_at": "2019-05-09T10:58:06.627Z"
+  },
+  {
+    "id": "798140",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/798140/Blood_Drift/?snr=1_7_7_2300_150_40",
+    "name": "Blood Drift",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/798140/header.jpg?t=1549310630",
+    "update_at": "2019-05-09T10:58:06.627Z"
+  }
+]

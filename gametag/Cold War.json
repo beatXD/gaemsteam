@@ -1,9 +1,38 @@
-{
-  "id": "951670",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_65",
-  "name": "Precipice",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
-  "update_at": "2019-05-09T07:44:37.636Z"
-}
+[
+  {
+    "id": "411330",
+    "host": "11330",
+    "url": "https://store.steampowered.com/app/411330/Men_of_Valor/?snr=1_7_7_2300_150_22",
+    "name": "Men of Valor",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/411330/header.jpg?t=1490873367",
+    "update_at": "2019-05-09T10:57:36.266Z"
+  },
+  {
+    "id": "745220",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/745220/There_Is_A_Genie_In_My_Szechuan_Sauce/?snr=1_7_7_2300_150_63",
+    "name": "There Is A Genie In My Szechuan Sauce",
+    "discount_percent": "23",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/745220/header.jpg?t=1510783378",
+    "update_at": "2019-05-09T10:57:36.266Z"
+  },
+  {
+    "id": "951670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_64",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:57:36.266Z"
+  },
+  {
+    "id": "951670",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/951670/Precipice/?snr=1_7_7_2300_150_65",
+    "name": "Precipice",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/951670/header.jpg?t=1556777506",
+    "update_at": "2019-05-09T10:57:36.266Z"
+  }
+]

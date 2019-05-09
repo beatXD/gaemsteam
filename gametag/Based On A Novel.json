@@ -1,9 +1,11 @@
-{
-  "id": "907380",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
-  "name": "The Ballad Singer",
-  "discount_percent": "17",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
-  "update_at": "2019-05-09T07:44:37.586Z"
-}
+[
+  {
+    "id": "907380",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
+    "name": "The Ballad Singer",
+    "discount_percent": "17",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
+    "update_at": "2019-05-09T10:53:46.593Z"
+  }
+]

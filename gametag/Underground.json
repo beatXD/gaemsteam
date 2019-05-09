@@ -1,9 +1,11 @@
-{
-  "id": "956430",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
-  "name": "Steampunk Graveyard",
-  "discount_percent": "33",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
-  "update_at": "2019-05-09T07:44:37.451Z"
-}
+[
+  {
+    "id": "956430",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
+    "name": "Steampunk Graveyard",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
+    "update_at": "2019-05-09T10:53:43.310Z"
+  }
+]

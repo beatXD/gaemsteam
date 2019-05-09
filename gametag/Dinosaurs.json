@@ -1,9 +1,65 @@
-{
-  "id": "688350",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/688350/Wrath_of_the_Goliaths_Dinosaurs/?snr=1_7_7_2300_150_90",
-  "name": "Wrath of the Goliaths: Dinosaurs",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/688350/header.jpg?t=1556689257",
-  "update_at": "2019-05-09T07:44:38.306Z"
-}
+[
+  {
+    "id": "358130",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/358130/Curious_Expedition/?snr=1_7_7_2300_150_4",
+    "name": "Curious Expedition",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/358130/header.jpg?t=1556532957",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  },
+  {
+    "id": "401190",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/401190/Dinosaur_Hunt/?snr=1_7_7_2300_150_32",
+    "name": "Dinosaur Hunt",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/401190/header.jpg?t=1534871093",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  },
+  {
+    "id": "554280",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/554280/Time_Carnage_VR/?snr=1_7_7_2300_150_39",
+    "name": "Time Carnage VR",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/554280/header.jpg?t=1534767705",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  },
+  {
+    "id": "890970",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/890970/Oakwood/?snr=1_7_7_2300_150_55",
+    "name": "Oakwood",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/890970/header.jpg?t=1544152620",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  },
+  {
+    "id": "798710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/798710/Voltage/?snr=1_7_7_2300_150_78",
+    "name": "Voltage",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/798710/header.jpg?t=1556709430",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  },
+  {
+    "id": "664120",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/664120/Wildlife_Park_Gold_Reloaded/?snr=1_7_7_2300_150_88",
+    "name": "Wildlife Park Gold Reloaded",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/664120/header.jpg?t=1549969679",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  },
+  {
+    "id": "688350",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/688350/Wrath_of_the_Goliaths_Dinosaurs/?snr=1_7_7_2300_150_90",
+    "name": "Wrath of the Goliaths: Dinosaurs",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/688350/header.jpg?t=1556689257",
+    "update_at": "2019-05-09T10:57:55.633Z"
+  }
+]

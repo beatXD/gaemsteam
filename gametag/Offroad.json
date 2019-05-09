@@ -1,9 +1,29 @@
-{
-  "id": "256370",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/?snr=1_7_7_2300_150_28",
-  "name": "MXGP - The Official Motocross Videogame",
-  "discount_percent": "60",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/256370/header.jpg?t=1478853324",
-  "update_at": "2019-05-09T07:44:36.214Z"
-}
+[
+  {
+    "id": "355060",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/355060/Sbastien_Loeb_Rally_EVO/?snr=1_7_7_2300_150_22",
+    "name": "Sébastien Loeb Rally EVO",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/355060/header.jpg?t=1486474167",
+    "update_at": "2019-05-09T10:57:43.795Z"
+  },
+  {
+    "id": "876300",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/876300/ROAD_HOMEWARD/?snr=1_7_7_2300_150_25",
+    "name": "ROAD HOMEWARD",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/876300/header.jpg?t=1555491860",
+    "update_at": "2019-05-09T10:57:43.795Z"
+  },
+  {
+    "id": "256370",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/?snr=1_7_7_2300_150_28",
+    "name": "MXGP - The Official Motocross Videogame",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/256370/header.jpg?t=1478853324",
+    "update_at": "2019-05-09T10:57:43.795Z"
+  }
+]

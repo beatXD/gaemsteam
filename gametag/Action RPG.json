@@ -1,9 +1,182 @@
-{
-  "id": "806530",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/806530/Unending_Dusk/?snr=1_7_7_2300_150_61",
-  "name": "Unending Dusk",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/806530/header.jpg?t=1555130345",
-  "update_at": "2019-05-09T07:44:37.513Z"
-}
+[
+  {
+    "id": "966430",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/966430/Neverinth/?snr=1_7_7_2300_150_2",
+    "name": "Neverinth",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/966430/header.jpg?t=1556643622",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "214170",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/214170/Divine_Divinity/?snr=1_7_7_2300_150_4",
+    "name": "Divine Divinity",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/214170/header.jpg?t=1447355993",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "533950",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/533950/Dont_open_the_doors/?snr=1_7_7_2300_150_4",
+    "name": "Don't open the doors!",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/533950/header.jpg?t=1527778992",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "805940",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/805940/RUSSIA_BATTLEGROUNDS/?snr=1_7_7_2300_150_6",
+    "name": "RUSSIA BATTLEGROUNDS",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/805940/header.jpg?t=1556342141",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "461360",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/461360/Thorne__Son_of_Slaves_Ep2/?snr=1_7_7_2300_150_10",
+    "name": "Thorne - Son of Slaves (Ep.2)",
+    "discount_percent": "86",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461360/header.jpg?t=1535992343",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "451920",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/451920/Thorne__Death_Merchants/?snr=1_7_7_2300_150_10",
+    "name": "Thorne - Death Merchants",
+    "discount_percent": "86",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/451920/header.jpg?t=1535992340",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "380020",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/380020/Three_Heroes/?snr=1_7_7_2300_150_11",
+    "name": "Three Heroes",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/380020/header.jpg?t=1492979176",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "575360",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/575360/Ultimagus/?snr=1_7_7_2300_150_15",
+    "name": "Ultimagus",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/575360/header.jpg?t=1532689832",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "575360",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/575360/Ultimagus/?snr=1_7_7_2300_150_16",
+    "name": "Ultimagus",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/575360/header.jpg?t=1532689832",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "339580",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/339580/Ember/?snr=1_7_7_2300_150_19",
+    "name": "Ember",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/339580/header.jpg?t=1551290259",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "219760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/219760/Beyond_Divinity/?snr=1_7_7_2300_150_22",
+    "name": "Beyond Divinity",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/219760/header.jpg?t=1447356548",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "542930",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/542930/Painted_Memories/?snr=1_7_7_2300_150_26",
+    "name": "Painted Memories",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/542930/header.jpg?t=1551658880",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "283080",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/283080/Super_Chibi_Knight/?snr=1_7_7_2300_150_30",
+    "name": "Super Chibi Knight",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/283080/header.jpg?t=1511395689",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "503210",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/503210/Sentry_Knight_Tactics/?snr=1_7_7_2300_150_39",
+    "name": "Sentry Knight Tactics",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/503210/header.jpg?t=1511395695",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "555610",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/555610/Gunmetal_Arcadia_Zero/?snr=1_7_7_2300_150_40",
+    "name": "Gunmetal Arcadia Zero",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/555610/header.jpg?t=1555631342",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "976830",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/976830/Diaper_Quest_2055/?snr=1_7_7_2300_150_46",
+    "name": "Diaper Quest 2055",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/976830/header.jpg?t=1543268235",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "907820",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/907820/Aeon_of_Sands__The_Trail/?snr=1_7_7_2300_150_51",
+    "name": "Aeon of Sands - The Trail",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907820/header.jpg?t=1556292972",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "611160",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/611160/Karnage_Chronicles/?snr=1_7_7_2300_150_55",
+    "name": "Karnage Chronicles",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/611160/header.jpg?t=1546958501",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "415890",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/415890/Crystal_Picnic/?snr=1_7_7_2300_150_58",
+    "name": "Crystal Picnic",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415890/header.jpg?t=1551120516",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  },
+  {
+    "id": "806530",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/806530/Unending_Dusk/?snr=1_7_7_2300_150_61",
+    "name": "Unending Dusk",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806530/header.jpg?t=1555130345",
+    "update_at": "2019-05-09T10:58:03.415Z"
+  }
+]

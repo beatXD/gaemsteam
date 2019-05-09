@@ -1,9 +1,254 @@
-{
-  "id": "921660",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/921660/Quirky_Crystal_RPG/?snr=1_7_7_2300_150_86",
-  "name": "Quirky Crystal RPG",
-  "discount_percent": "40",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/921660/header.jpg?t=1550664095",
-  "update_at": "2019-05-09T07:44:38.152Z"
-}
+[
+  {
+    "id": "645730",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/645730/RESONANCE_OF_FATEEND_OF_ETERNITY_4KHD_EDITION/?snr=1_7_7_2300_150_2",
+    "name": "RESONANCE OF FATE™/END OF ETERNITY™ 4K/HD EDITION",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645730/header.jpg?t=1542081188",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "836760",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/836760/Sorcery_Saga_Curse_of_the_Great_Curry_God/?snr=1_7_7_2300_150_5",
+    "name": "Sorcery Saga: Curse of the Great Curry God",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/836760/header.jpg?t=1528121086",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "332390",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/332390/Undefeated/?snr=1_7_7_2300_150_7",
+    "name": "Undefeated",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332390/header.jpg?t=1535992345",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "750770",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/750770/Labyronia_Elements/?snr=1_7_7_2300_150_8",
+    "name": "Labyronia Elements",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/750770/header.jpg?t=1537708050",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "370660",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/370660/Opaline/?snr=1_7_7_2300_150_9",
+    "name": "Opaline",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/370660/header.jpg?t=1494150284",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "332410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/332410/Moonchild/?snr=1_7_7_2300_150_11",
+    "name": "Moonchild",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332410/header.jpg?t=1487172290",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "370620",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/370620/Onyx/?snr=1_7_7_2300_150_11",
+    "name": "Onyx",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/370620/header.jpg?t=1544184828",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "392940",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/392940/Epic_Quest_of_the_4_Crystals/?snr=1_7_7_2300_150_11",
+    "name": "Epic Quest of the 4 Crystals",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/392940/header.jpg?t=1460663399",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "277470",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/277470/The_Book_of_Legends/?snr=1_7_7_2300_150_11",
+    "name": "The Book of Legends",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/277470/header.jpg?t=1487172294",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "714730",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/714730/Luvocious/?snr=1_7_7_2300_150_12",
+    "name": "Luvocious",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/714730/header.jpg?t=1547100485",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "421810",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/421810/OH_RPG/?snr=1_7_7_2300_150_14",
+    "name": "OH! RPG!",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/421810/header.jpg?t=1461774366",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "461350",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/461350/The_Kings_Heroes/?snr=1_7_7_2300_150_14",
+    "name": "The King's Heroes",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461350/header.jpg?t=1506119772",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "463350",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/463350/Storm_Of_Spears_RPG/?snr=1_7_7_2300_150_17",
+    "name": "Storm Of Spears RPG",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/463350/header.jpg?t=1519556247",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "688380",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/688380/Restoration/?snr=1_7_7_2300_150_20",
+    "name": "Restoration",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/688380/header.jpg?t=1550423126",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "407230",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/?snr=1_7_7_2300_150_21",
+    "name": "Legend of Mysteria RPG",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/407230/header.jpg?t=1492976179",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "431710",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/431710/Space_Pilgrim_Episode_II_Epsilon_Indi/?snr=1_7_7_2300_150_24",
+    "name": "Space Pilgrim Episode II: Epsilon Indi",
+    "discount_percent": "57",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/431710/header.jpg?t=1554170489",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "461640",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/461640/Sins_Of_The_Demon_RPG/?snr=1_7_7_2300_150_24",
+    "name": "Sins Of The Demon RPG",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461640/header.jpg?t=1492977881",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "718200",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/718200/Forever_Home/?snr=1_7_7_2300_150_30",
+    "name": "Forever Home",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/718200/header.jpg?t=1512956070",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "761030",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/761030/EARTHLOCK/?snr=1_7_7_2300_150_31",
+    "name": "EARTHLOCK",
+    "discount_percent": "56",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/761030/header.jpg?t=1549638899",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "341780",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/341780/Chronicles_of_a_Dark_Lord_Episode_II_War_of_The_Abyss/?snr=1_7_7_2300_150_34",
+    "name": "Chronicles of a Dark Lord: Episode II War of The Abyss",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/341780/header.jpg?t=1499955251",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "603080",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/603080/Chronicles_of_a_Dark_Lord_Tides_of_Fate_Remastered/?snr=1_7_7_2300_150_43",
+    "name": "Chronicles of a Dark Lord: Tides of Fate Remastered",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603080/header.jpg?t=1536779713",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "603080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/603080/Chronicles_of_a_Dark_Lord_Tides_of_Fate_Remastered/?snr=1_7_7_2300_150_44",
+    "name": "Chronicles of a Dark Lord: Tides of Fate Remastered",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603080/header.jpg?t=1536779713",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "998570",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/998570/DeVine_Card_Battles/?snr=1_7_7_2300_150_45",
+    "name": "De'Vine: Card Battles",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/998570/header.jpg?t=1556029652",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "976830",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/976830/Diaper_Quest_2055/?snr=1_7_7_2300_150_46",
+    "name": "Diaper Quest 2055",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/976830/header.jpg?t=1543268235",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "336280",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/336280/Chronicles_of_a_Dark_Lord_Episode_1_Tides_of_Fate_Complete/?snr=1_7_7_2300_150_60",
+    "name": "Chronicles of a Dark Lord: Episode 1 Tides of Fate Complete",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/336280/header.jpg?t=1447365653",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "680140",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/680140/Tetsoidea_Eternal/?snr=1_7_7_2300_150_82",
+    "name": "Tetsoidea Eternal",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/680140/header.jpg?t=1544077323",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  },
+  {
+    "id": "921660",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/921660/Quirky_Crystal_RPG/?snr=1_7_7_2300_150_86",
+    "name": "Quirky Crystal RPG",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/921660/header.jpg?t=1550664095",
+    "update_at": "2019-05-09T10:58:08.989Z"
+  }
+]

@@ -1,9 +1,65 @@
-{
-  "id": "831550",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/831550/The_Amazing_Bernard_Original_Soundtrack/?snr=1_7_7_2300_150_85",
-  "name": "The Amazing Bernard: Original Soundtrack",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/831550/header.jpg?t=1523466894",
-  "update_at": "2019-05-09T07:44:38.143Z"
-}
+[
+  {
+    "id": "822720",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/822720/The_Amazing_Bernard/?snr=1_7_7_2300_150_5",
+    "name": "The Amazing Bernard",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/822720/header.jpg?t=1544658627",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  },
+  {
+    "id": "562260",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/562260/WAVESHAPER/?snr=1_7_7_2300_150_20",
+    "name": "WAVESHAPER",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/562260/header.jpg?t=1504628014",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  },
+  {
+    "id": "879740",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_26",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  },
+  {
+    "id": "879740",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/879740/Epic_Skater_2/?snr=1_7_7_2300_150_27",
+    "name": "Epic Skater 2",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/879740/header.jpg?t=1542754841",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  },
+  {
+    "id": "645780",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/645780/Robot_Pirates/?snr=1_7_7_2300_150_33",
+    "name": "Robot Pirates",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645780/header.jpg?t=1516508421",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  },
+  {
+    "id": "667130",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/667130/Clumsy_Fred/?snr=1_7_7_2300_150_67",
+    "name": "Clumsy Fred",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/667130/header.jpg?t=1520484117",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  },
+  {
+    "id": "831550",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/831550/The_Amazing_Bernard_Original_Soundtrack/?snr=1_7_7_2300_150_85",
+    "name": "The Amazing Bernard: Original Soundtrack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/831550/header.jpg?t=1523466894",
+    "update_at": "2019-05-09T10:57:56.589Z"
+  }
+]

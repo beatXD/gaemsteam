@@ -1,9 +1,128 @@
-{
-  "id": "620130",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/620130/Chaos_Town/?snr=1_7_7_2300_150_90",
-  "name": "Chaos Town",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/620130/header.jpg?t=1551658877",
-  "update_at": "2019-05-09T07:44:38.286Z"
-}
+[
+  {
+    "id": "966430",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/966430/Neverinth/?snr=1_7_7_2300_150_2",
+    "name": "Neverinth",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/966430/header.jpg?t=1556643622",
+    "update_at": "2019-05-09T10:58:01.354Z"
+  },
+  {
+    "id": "603100",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/603100/ATOMINE/?snr=1_7_7_2300_150_9",
+    "name": "ATOMINE",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603100/header.jpg?t=1551978434",
+    "update_at": "2019-05-09T10:58:01.354Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:58:01.354Z"
+  },
+  {
+    "id": "46570",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46570/Grotesque_Tactics_2__Dungeons_and_Donuts/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics 2 – Dungeons and Donuts",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46570/header.jpg?t=1542379662",
+    "update_at": "2019-05-09T10:58:01.354Z"
+  },
+  {
+    "id": "384490",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/384490/NECROPOLIS_BRUTAL_EDITION/?snr=1_7_7_2300_150_22",
+    "name": "NECROPOLIS: BRUTAL EDITION",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/384490/header.jpg?t=1536069036",
+    "update_at": "2019-05-09T10:58:01.354Z"
+  },
+  {
+    "id": "366810",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/366810/Dungeon_Hero/?snr=1_7_7_2300_150_24",
+    "name": "Dungeon Hero",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/366810/header.jpg?t=1526859900",
+    "update_at": "2019-05-09T10:58:01.354Z"
+  },
+  {
+    "id": "515650",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/515650/Straimium_Immortaly/?snr=1_7_7_2300_150_37",
+    "name": "Straimium Immortaly",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/515650/header.jpg?t=1550767663",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "492500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/492500/Heroes_of_the_Monkey_Tavern/?snr=1_7_7_2300_150_39",
+    "name": "Heroes of the Monkey Tavern",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/492500/header.jpg?t=1530525121",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "332270",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/332270/Gunmetal_Arcadia/?snr=1_7_7_2300_150_40",
+    "name": "Gunmetal Arcadia",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332270/header.jpg?t=1555631344",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "371220",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/371220/VERLIES_II/?snr=1_7_7_2300_150_45",
+    "name": "VERLIES II",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/371220/header.jpg?t=1480844496",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "832710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/832710/The_7th_Circle/?snr=1_7_7_2300_150_47",
+    "name": "The 7th Circle",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/832710/header.jpg?t=1539592203",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "907820",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/907820/Aeon_of_Sands__The_Trail/?snr=1_7_7_2300_150_51",
+    "name": "Aeon of Sands - The Trail",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907820/header.jpg?t=1556292972",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "759160",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/759160/Dungeons__Vampires/?snr=1_7_7_2300_150_70",
+    "name": "Dungeons & Vampires",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/759160/header.jpg?t=1551792516",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  },
+  {
+    "id": "620130",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/620130/Chaos_Town/?snr=1_7_7_2300_150_90",
+    "name": "Chaos Town",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/620130/header.jpg?t=1551658877",
+    "update_at": "2019-05-09T10:58:01.355Z"
+  }
+]

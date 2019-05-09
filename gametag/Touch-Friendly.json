@@ -1,9 +1,56 @@
-{
-  "id": "861670",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/861670/Street_Level_Windows_Edition/?snr=1_7_7_2300_150_40",
-  "name": "Street Level: Windows Edition",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/861670/header.jpg?t=1528285306",
-  "update_at": "2019-05-09T07:44:36.804Z"
-}
+[
+  {
+    "id": "231740",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/?snr=1_7_7_2300_150_2",
+    "name": "Knights of Pen and Paper +1 Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/231740/header.jpg?t=1545356131",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "360380",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/360380/Tiny_Bridge_Ratventure/?snr=1_7_7_2300_150_4",
+    "name": "Tiny Bridge: Ratventure",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/360380/header.jpg?t=1492979250",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "38600",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/38600/Faerie_Solitaire/?snr=1_7_7_2300_150_7",
+    "name": "Faerie Solitaire",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/38600/header.jpg?t=1478044366",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "409440",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/?snr=1_7_7_2300_150_9",
+    "name": "SnakEscape [REMASTERED]",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/409440/header.jpg?t=1556543735",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "491240",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/491240/Lil_Big_Invasion/?snr=1_7_7_2300_150_12",
+    "name": "Lil Big Invasion",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/491240/header.jpg?t=1543752488",
+    "update_at": "2019-05-09T10:58:06.691Z"
+  },
+  {
+    "id": "861670",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/861670/Street_Level_Windows_Edition/?snr=1_7_7_2300_150_40",
+    "name": "Street Level: Windows Edition",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/861670/header.jpg?t=1528285306",
+    "update_at": "2019-05-09T10:58:06.692Z"
+  }
+]

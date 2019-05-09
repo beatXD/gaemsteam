@@ -1,9 +1,110 @@
-{
-  "id": "806480",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/806480/Blood_Moon_The_Last_Stand/?snr=1_7_7_2300_150_78",
-  "name": "Blood Moon: The Last Stand",
-  "discount_percent": "75",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/806480/header.jpg?t=1536209488",
-  "update_at": "2019-05-09T07:44:37.919Z"
-}
+[
+  {
+    "id": "833170",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/833170/Burned_Land/?snr=1_7_7_2300_150_3",
+    "name": "Burned Land",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/833170/header.jpg?t=1557149904",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "246760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/246760/Legends_of_Eisenwald/?snr=1_7_7_2300_150_12",
+    "name": "Legends of Eisenwald",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/246760/header.jpg?t=1470845147",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "46560",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46560/Robin_Hood_The_Legend_of_Sherwood/?snr=1_7_7_2300_150_18",
+    "name": "Robin Hood: The Legend of Sherwood",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46560/header.jpg?t=1478599556",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "405550",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/405550/Jet_Set_Knights/?snr=1_7_7_2300_150_21",
+    "name": "Jet Set Knights",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/405550/header.jpg?t=1501922767",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "712530",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/712530/Chamber_of_Darkness/?snr=1_7_7_2300_150_21",
+    "name": "Chamber of Darkness",
+    "discount_percent": "76",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/712530/header.jpg?t=1549556308",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "344760",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/344760/Reign_Of_Kings/?snr=1_7_7_2300_150_22",
+    "name": "Reign Of Kings",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/344760/header.jpg?t=1478208824",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "528820",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/528820/Eisenwald_Blood_of_November/?snr=1_7_7_2300_150_22",
+    "name": "Eisenwald: Blood of November",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/528820/header.jpg?t=1502377997",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "555610",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/555610/Gunmetal_Arcadia_Zero/?snr=1_7_7_2300_150_40",
+    "name": "Gunmetal Arcadia Zero",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/555610/header.jpg?t=1555631342",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "704360",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/704360/SACRALITH__The_Archers_Tale/?snr=1_7_7_2300_150_41",
+    "name": "SACRALITH : The Archer`s Tale",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/704360/header.jpg?t=1532813213",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "677450",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/677450/Medieval_Shopkeeper_Simulator/?snr=1_7_7_2300_150_61",
+    "name": "Medieval Shopkeeper Simulator",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/677450/header.jpg?t=1556383416",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "758250",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/758250/Taste_of_Power/?snr=1_7_7_2300_150_61",
+    "name": "Taste of Power",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/758250/header.jpg?t=1556610305",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  },
+  {
+    "id": "806480",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/806480/Blood_Moon_The_Last_Stand/?snr=1_7_7_2300_150_78",
+    "name": "Blood Moon: The Last Stand",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/806480/header.jpg?t=1536209488",
+    "update_at": "2019-05-09T10:58:05.135Z"
+  }
+]

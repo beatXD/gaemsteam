@@ -1,9 +1,380 @@
-{
-  "id": "1029890",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
-  "name": "Layers of Fear 2",
-  "discount_percent": "10",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
-  "update_at": "2019-05-09T07:44:38.396Z"
-}
+[
+  {
+    "id": "689790",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/689790/VEGAS_Pro_15_Edit_Steam_Edition/?snr=1_7_7_2300_150_1",
+    "name": "VEGAS Pro 15 Edit Steam Edition",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/689790/header.jpg?t=1536219781",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "622650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/?snr=1_7_7_2300_150_1",
+    "name": "Bendy and the Ink Machine™",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/622650/header.jpg?t=1540569713",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "721010",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/721010/Newton_and_the_Apple_Tree/?snr=1_7_7_2300_150_2",
+    "name": "Newton and the Apple Tree",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/721010/header.jpg?t=1542824253",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "368370",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/368370/Her_Story/?snr=1_7_7_2300_150_3",
+    "name": "Her Story",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/368370/header.jpg?t=1479954872",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "218640",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/218640/Lucius/?snr=1_7_7_2300_150_3",
+    "name": "Lucius",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/218640/header.jpg?t=1535010582",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "642090",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/642090/Coming_Out_on_Top/?snr=1_7_7_2300_150_4",
+    "name": "Coming Out on Top",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/642090/header.jpg?t=1529596458",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "946380",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/946380/TheMemory/?snr=1_7_7_2300_150_6",
+    "name": "TheMemory",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/946380/header.jpg?t=1557064698",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "444590",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/444590/Skautfold_Shrouded_in_Sanity/?snr=1_7_7_2300_150_10",
+    "name": "Skautfold: Shrouded in Sanity",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/444590/header.jpg?t=1552334324",
+    "update_at": "2019-05-09T10:58:50.904Z"
+  },
+  {
+    "id": "890220",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/890220/Math_Fun/?snr=1_7_7_2300_150_12",
+    "name": "Math Fun",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/890220/header.jpg?t=1533404522",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "349220",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/349220/The_Black_Watchmen/?snr=1_7_7_2300_150_13",
+    "name": "The Black Watchmen",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/349220/header.jpg?t=1545576797",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "1023980",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/1023980/VLADiK/?snr=1_7_7_2300_150_18",
+    "name": "V.L.A.D.i.K",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1023980/header.jpg?t=1551629902",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "561770",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/561770/Just_Ignore_Them/?snr=1_7_7_2300_150_19",
+    "name": "Just Ignore Them",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/561770/header.jpg?t=1549558400",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "789930",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/789930/Blind_Boris/?snr=1_7_7_2300_150_22",
+    "name": "Blind Boris",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/789930/header.jpg?t=1553600368",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "1003360",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/1003360/___ITS_WINTER/?snr=1_7_7_2300_150_25",
+    "name": "ШХД: ЗИМА / IT'S WINTER",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1003360/header.jpg?t=1552076812",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "496890",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/496890/Replica/?snr=1_7_7_2300_150_30",
+    "name": "Replica",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/496890/header.jpg?t=1531879390",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "354240",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/?snr=1_7_7_2300_150_30",
+    "name": "Please, Don’t Touch Anything",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/354240/header.jpg?t=1498065674",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "953050",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/953050/Dread_of_Laughter/?snr=1_7_7_2300_150_32",
+    "name": "Dread of Laughter",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/953050/header.jpg?t=1541753830",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "481110",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/481110/The_Bunker/?snr=1_7_7_2300_150_39",
+    "name": "The Bunker",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/481110/header.jpg?t=1542880583",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "727340",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/727340/Stitched/?snr=1_7_7_2300_150_39",
+    "name": "Stitched",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/727340/header.jpg?t=1553400179",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "961220",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/961220/Sanatorium_Purgatorium/?snr=1_7_7_2300_150_41",
+    "name": "Sanatorium Purgatorium",
+    "discount_percent": "44",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/961220/header.jpg?t=1541036146",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "305780",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/305780/Echo_of_the_Wilds/?snr=1_7_7_2300_150_45",
+    "name": "Echo of the Wilds",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/305780/header.jpg?t=1547113633",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "888260",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/888260/Dabman_When_the_Haters_Dab_Back/?snr=1_7_7_2300_150_48",
+    "name": "Dabman: When the Haters Dab Back",
+    "discount_percent": "32",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/888260/header.jpg?t=1531884179",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "535150",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/535150/BUSTED/?snr=1_7_7_2300_150_53",
+    "name": "BUSTED!",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/535150/header.jpg?t=1494428763",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "906590",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/906590/Dabwoman_When_The_Dab_Isnt_Sexist/?snr=1_7_7_2300_150_53",
+    "name": "Dabwoman: When The Dab Isn’t Sexist",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/906590/header.jpg?t=1533590351",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "839280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/839280/Cartonfall/?snr=1_7_7_2300_150_54",
+    "name": "Cartonfall",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/839280/header.jpg?t=1553940275",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "657900",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/657900/Kimulator_2_The_Bottle_Flip_Master/?snr=1_7_7_2300_150_55",
+    "name": "Kimulator 2: The Bottle Flip Master",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/657900/header.jpg?t=1531884223",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "513290",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/513290/Lucius_III/?snr=1_7_7_2300_150_56",
+    "name": "Lucius III",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/513290/header.jpg?t=1548063782",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "853240",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/853240/The_Light_Keeps_Us_Safe/?snr=1_7_7_2300_150_57",
+    "name": "The Light Keeps Us Safe",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/853240/header.jpg?t=1556638738",
+    "update_at": "2019-05-09T10:58:50.905Z"
+  },
+  {
+    "id": "759010",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/759010/Escape/?snr=1_7_7_2300_150_60",
+    "name": "Escape",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/759010/header.jpg?t=1556162828",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "772290",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_61",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "772290",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/772290/Rainswept/?snr=1_7_7_2300_150_62",
+    "name": "Rainswept",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/772290/header.jpg?t=1556902325",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "1011550",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1011550/Light_The_Way/?snr=1_7_7_2300_150_62",
+    "name": "Light The Way",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1011550/header.jpg?t=1551658721",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "745220",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/745220/There_Is_A_Genie_In_My_Szechuan_Sauce/?snr=1_7_7_2300_150_63",
+    "name": "There Is A Genie In My Szechuan Sauce",
+    "discount_percent": "23",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/745220/header.jpg?t=1510783378",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "736110",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/736110/Deep_Sorrow/?snr=1_7_7_2300_150_64",
+    "name": "Deep Sorrow",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/736110/header.jpg?t=1551658867",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "937950",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/937950/Not_in_Heaven/?snr=1_7_7_2300_150_64",
+    "name": "Not in Heaven",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937950/header.jpg?t=1548951462",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "921780",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/921780/The_Dark_Occult/?snr=1_7_7_2300_150_67",
+    "name": "The Dark Occult",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/921780/header.jpg?t=1548934940",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "476880",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/476880/Rescue_Lucy/?snr=1_7_7_2300_150_73",
+    "name": "Rescue Lucy",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/476880/header.jpg?t=1548506104",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "880890",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/880890/Dark_Visit/?snr=1_7_7_2300_150_81",
+    "name": "Dark Visit",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/880890/header.jpg?t=1530215602",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "1031130",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031130/Bat_Hotel/?snr=1_7_7_2300_150_82",
+    "name": "Bat Hotel",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/header.jpg?t=1556632166",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "367040",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/367040/InsanZ__Retro_Survival_Horror/?snr=1_7_7_2300_150_86",
+    "name": "InsanZ - Retro Survival Horror",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/367040/header.jpg?t=1447373511",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "1033720",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/1033720/The_Psychiatrist_Major_Depression/?snr=1_7_7_2300_150_90",
+    "name": "The Psychiatrist: Major Depression",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1033720/header.jpg?t=1556884824",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  },
+  {
+    "id": "1029890",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/1029890/Layers_of_Fear_2/?snr=1_7_7_2300_150_93",
+    "name": "Layers of Fear 2",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1029890/header.jpg?t=1557174707",
+    "update_at": "2019-05-09T10:58:50.906Z"
+  }
+]

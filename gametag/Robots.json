@@ -1,9 +1,146 @@
-{
-  "id": "956430",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
-  "name": "Steampunk Graveyard",
-  "discount_percent": "33",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
-  "update_at": "2019-05-09T07:44:37.451Z"
-}
+[
+  {
+    "id": "597170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/597170/Clone_Drone_in_the_Danger_Zone/?snr=1_7_7_2300_150_1",
+    "name": "Clone Drone in the Danger Zone",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597170/header.jpg?t=1556907763",
+    "update_at": "2019-05-09T10:58:49.218Z"
+  },
+  {
+    "id": "242880",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/?snr=1_7_7_2300_150_13",
+    "name": "Sir, You Are Being Hunted",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/242880/header.jpg?t=1447358095",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "597730",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/597730/Dark_Grim_Mariupolis/?snr=1_7_7_2300_150_16",
+    "name": "Dark Grim Mariupolis",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597730/header.jpg?t=1555356440",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "219200",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/219200/Droid_Assault/?snr=1_7_7_2300_150_17",
+    "name": "Droid Assault",
+    "discount_percent": "67",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/219200/header.jpg?t=1525215589",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "457760",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/457760/The_Signal_From_Tlva/?snr=1_7_7_2300_150_19",
+    "name": "The Signal From Tölva",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/457760/header.jpg?t=1522430832",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "434310",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/434310/imprintX/?snr=1_7_7_2300_150_21",
+    "name": "imprint-X",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/434310/header.jpg?t=1503585385",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "580820",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/580820/Robot_Soccer_Challenge/?snr=1_7_7_2300_150_24",
+    "name": "Robot Soccer Challenge",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/580820/header.jpg?t=1550491130",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "430960",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/430960/Lucy_The_Eternity_She_Wished_For/?snr=1_7_7_2300_150_24",
+    "name": "Lucy -The Eternity She Wished For-",
+    "discount_percent": "55",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/430960/header.jpg?t=1539564278",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "645780",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/645780/Robot_Pirates/?snr=1_7_7_2300_150_33",
+    "name": "Robot Pirates",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645780/header.jpg?t=1516508421",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "516590",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/516590/CyberThreat/?snr=1_7_7_2300_150_39",
+    "name": "CyberThreat",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/516590/header.jpg?t=1510938643",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "554280",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/554280/Time_Carnage_VR/?snr=1_7_7_2300_150_39",
+    "name": "Time Carnage VR",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/554280/header.jpg?t=1534767705",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "819560",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/819560/TurbOT_Racing/?snr=1_7_7_2300_150_42",
+    "name": "TurbOT Racing",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/819560/header.jpg?t=1536940765",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "809540",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/809540/Mechs_V_Kaijus/?snr=1_7_7_2300_150_55",
+    "name": "Mechs V Kaijus",
+    "discount_percent": "23",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/809540/header.jpg?t=1549469902",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "853240",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/853240/The_Light_Keeps_Us_Safe/?snr=1_7_7_2300_150_57",
+    "name": "The Light Keeps Us Safe",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/853240/header.jpg?t=1556638738",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "642240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/642240/Lucy_The_Eternity_She_Wished_For_Ending_Theme_OST/?snr=1_7_7_2300_150_58",
+    "name": "Lucy -The Eternity She Wished For- Ending Theme OST",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/642240/header.jpg?t=1539564808",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  },
+  {
+    "id": "956430",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
+    "name": "Steampunk Graveyard",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
+    "update_at": "2019-05-09T10:58:49.219Z"
+  }
+]

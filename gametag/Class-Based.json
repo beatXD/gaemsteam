@@ -1,9 +1,11 @@
-{
-  "id": "699170",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/?snr=1_7_7_2300_150_1",
-  "name": "Fell Seal: Arbiter's Mark",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/699170/header.jpg?t=1556896846",
-  "update_at": "2019-05-09T07:44:34.349Z"
-}
+[
+  {
+    "id": "699170",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/?snr=1_7_7_2300_150_1",
+    "name": "Fell Seal: Arbiter's Mark",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/699170/header.jpg?t=1556896846",
+    "update_at": "2019-05-09T10:58:54.238Z"
+  }
+]

@@ -1,9 +1,47 @@
-{
-  "id": "868180",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/868180/Salty_Seabird_Bay/?snr=1_7_7_2300_150_85",
-  "name": "Salty Seabird Bay",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/868180/header.jpg?t=1539274953",
-  "update_at": "2019-05-09T07:44:38.137Z"
-}
+[
+  {
+    "id": "645780",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/645780/Robot_Pirates/?snr=1_7_7_2300_150_33",
+    "name": "Robot Pirates",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645780/header.jpg?t=1516508421",
+    "update_at": "2019-05-09T10:54:06.333Z"
+  },
+  {
+    "id": "530320",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/530320/Wandersong/?snr=1_7_7_2300_150_48",
+    "name": "Wandersong",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/530320/header.jpg?t=1546983507",
+    "update_at": "2019-05-09T10:54:06.333Z"
+  },
+  {
+    "id": "928940",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/928940/Pirate_Island_Rescue/?snr=1_7_7_2300_150_53",
+    "name": "Pirate Island Rescue",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/928940/header.jpg?t=1542631595",
+    "update_at": "2019-05-09T10:54:06.333Z"
+  },
+  {
+    "id": "479020",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/479020/Pirates_of_the_Polygon_Sea/?snr=1_7_7_2300_150_61",
+    "name": "Pirates of the Polygon Sea",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/479020/header.jpg?t=1543612118",
+    "update_at": "2019-05-09T10:54:06.333Z"
+  },
+  {
+    "id": "868180",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/868180/Salty_Seabird_Bay/?snr=1_7_7_2300_150_85",
+    "name": "Salty Seabird Bay",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/868180/header.jpg?t=1539274953",
+    "update_at": "2019-05-09T10:54:06.333Z"
+  }
+]

@@ -1,9 +1,11 @@
-{
-  "id": "992740",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/992740/_Inorikaze/?snr=1_7_7_2300_150_62",
-  "name": "祈風 Inorikaze",
-  "discount_percent": "15",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/992740/header.jpg?t=1550109731",
-  "update_at": "2019-05-09T07:44:37.574Z"
-}
+[
+  {
+    "id": "992740",
+    "host": "steam",
+    "url": "https://store.steampowered.com/app/992740/_Inorikaze/?snr=1_7_7_2300_150_62",
+    "name": "祈風 Inorikaze",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/992740/header.jpg?t=1550109731",
+    "update_at": "2019-05-09T10:53:46.261Z"
+  }
+]

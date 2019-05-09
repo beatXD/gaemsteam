@@ -1,9 +1,65 @@
-{
-  "id": "712980",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/712980/Rainyday/?snr=1_7_7_2300_150_52",
-  "name": "Rainyday",
-  "discount_percent": "40",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/712980/header.jpg?t=1546781962",
-  "update_at": "2019-05-09T07:44:37.225Z"
-}
+[
+  {
+    "id": "597730",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/597730/Dark_Grim_Mariupolis/?snr=1_7_7_2300_150_16",
+    "name": "Dark Grim Mariupolis",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/597730/header.jpg?t=1555356440",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  },
+  {
+    "id": "319970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/319970/The_Detail/?snr=1_7_7_2300_150_19",
+    "name": "The Detail",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/319970/header.jpg?t=1529997401",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  },
+  {
+    "id": "392280",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/392280/The_Franz_Kafka_Videogame/?snr=1_7_7_2300_150_24",
+    "name": "The Franz Kafka Videogame",
+    "discount_percent": "72",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/392280/header.jpg?t=1540971640",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  },
+  {
+    "id": "281920",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/281920/Splatter__Zombie_Apocalypse/?snr=1_7_7_2300_150_29",
+    "name": "Splatter - Zombie Apocalypse",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/281920/header.jpg?t=1492978054",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  },
+  {
+    "id": "383670",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_43",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  },
+  {
+    "id": "383670",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/383670/Deadlands_Noir__That_Old_Time_Religion/?snr=1_7_7_2300_150_44",
+    "name": "Deadlands Noir - That Old Time Religion",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/383670/header.jpg?t=1447376872",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  },
+  {
+    "id": "712980",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/712980/Rainyday/?snr=1_7_7_2300_150_52",
+    "name": "Rainyday",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/712980/header.jpg?t=1546781962",
+    "update_at": "2019-05-09T10:57:44.923Z"
+  }
+]

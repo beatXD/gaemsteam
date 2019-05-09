@@ -1,9 +1,128 @@
-{
-  "id": "956430",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
-  "name": "Steampunk Graveyard",
-  "discount_percent": "33",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
-  "update_at": "2019-05-09T07:44:37.451Z"
-}
+[
+  {
+    "id": "645730",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/645730/RESONANCE_OF_FATEEND_OF_ETERNITY_4KHD_EDITION/?snr=1_7_7_2300_150_2",
+    "name": "RESONANCE OF FATE™/END OF ETERNITY™ 4K/HD EDITION",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/645730/header.jpg?t=1542081188",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "214340",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/214340/Deponia/?snr=1_7_7_2300_150_3",
+    "name": "Deponia",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/214340/header.jpg?t=1550763265",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "243950",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/?snr=1_7_7_2300_150_3",
+    "name": "Divinity: Dragon Commander",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/243950/header.jpg?t=1447357292",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "46510",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/46510/Syberia_II/?snr=1_7_7_2300_150_9",
+    "name": "Syberia II",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46510/header.jpg?t=1554900911",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "46500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/46500/Syberia/?snr=1_7_7_2300_150_9",
+    "name": "Syberia",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46500/header.jpg?t=1554900806",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "708950",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/708950/Steam_Tactics/?snr=1_7_7_2300_150_12",
+    "name": "Steam Tactics",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/708950/header.jpg?t=1510687773",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "242880",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/?snr=1_7_7_2300_150_13",
+    "name": "Sir, You Are Being Hunted",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/242880/header.jpg?t=1447358095",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "318570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/318570/Hunters_Of_The_Dead/?snr=1_7_7_2300_150_22",
+    "name": "Hunters Of The Dead",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/318570/header.jpg?t=1447363184",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "464340",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/464340/Syberia_3/?snr=1_7_7_2300_150_25",
+    "name": "Syberia 3",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/464340/header.jpg?t=1554900634",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "711010",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/711010/Corrupt__Political_Simulator/?snr=1_7_7_2300_150_28",
+    "name": "Corrupt - Political Simulator",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/711010/header.jpg?t=1557142513",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "332270",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/332270/Gunmetal_Arcadia/?snr=1_7_7_2300_150_40",
+    "name": "Gunmetal Arcadia",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332270/header.jpg?t=1555631344",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "550990",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_46",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "550990",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/550990/Viktor_a_Steampunk_Adventure/?snr=1_7_7_2300_150_47",
+    "name": "Viktor, a Steampunk Adventure",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/550990/header.jpg?t=1489831615",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  },
+  {
+    "id": "956430",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/956430/Steampunk_Graveyard/?snr=1_7_7_2300_150_59",
+    "name": "Steampunk Graveyard",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/956430/header.jpg?t=1545063702",
+    "update_at": "2019-05-09T10:58:07.818Z"
+  }
+]

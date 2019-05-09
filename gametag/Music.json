@@ -1,9 +1,200 @@
-{
-  "id": "1027800",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1027800/Fly_Flew_Flown/?snr=1_7_7_2300_150_86",
-  "name": "Fly Flew Flown",
-  "discount_percent": "33",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1027800/header.jpg?t=1552314240",
-  "update_at": "2019-05-09T07:44:38.168Z"
-}
+[
+  {
+    "id": "351990",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/351990/Riff_Racer__Race_Your_Music/?snr=1_7_7_2300_150_3",
+    "name": "Riff Racer - Race Your Music!",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/351990/header.jpg?t=1498659616",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "286660",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/286660/Avoid__Sensory_Overload/?snr=1_7_7_2300_150_10",
+    "name": "Avoid - Sensory Overload",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/286660/header.jpg?t=1447360819",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "451570",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/451570/Demetrios__The_BIG_Cynical_Adventure/?snr=1_7_7_2300_150_13",
+    "name": "Demetrios - The BIG Cynical Adventure",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/451570/header.jpg?t=1550570665",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "481490",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/481490/Demetrios__Original_Soundtrack/?snr=1_7_7_2300_150_15",
+    "name": "Demetrios - Original Soundtrack",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/481490/header.jpg?t=1464710938",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "937020",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/937020/Super_gamebear_with_its_three_girlfriendsGBC/?snr=1_7_7_2300_150_23",
+    "name": "Super gamebear with its three girlfriends你想知道关于超级喜欢游戏的一头黑色矮小的游戏熊是如何与它的“三个后宫团女朋友”购买到GBC游戏机的吗？",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/937020/header.jpg?t=1548752239",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "441870",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/441870/OutDrive/?snr=1_7_7_2300_150_28",
+    "name": "OutDrive",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/441870/header.jpg?t=1549983011",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "691690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/?snr=1_7_7_2300_150_28",
+    "name": "Ash of Gods: Redemption",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/691690/header.jpg?t=1553772874",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "406940",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/406940/Dub_Dash/?snr=1_7_7_2300_150_39",
+    "name": "Dub Dash",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/406940/header.jpg?t=1478536940",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "406940",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/406940/Dub_Dash/?snr=1_7_7_2300_150_40",
+    "name": "Dub Dash",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/406940/header.jpg?t=1478536940",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "877040",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/877040/Samurai_Wish/?snr=1_7_7_2300_150_44",
+    "name": "Samurai Wish",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877040/header.jpg?t=1551256648",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "877040",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/877040/Samurai_Wish/?snr=1_7_7_2300_150_45",
+    "name": "Samurai Wish",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877040/header.jpg?t=1551256648",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "530320",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/530320/Wandersong/?snr=1_7_7_2300_150_48",
+    "name": "Wandersong",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/530320/header.jpg?t=1546983507",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "701730",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/701730/Yi_and_the_Thousand_Moons/?snr=1_7_7_2300_150_51",
+    "name": "Yi and the Thousand Moons",
+    "discount_percent": "34",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/701730/header.jpg?t=1545474444",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "418310",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/418310/Chronicles_of_a_Dark_Lord_Rhapsody_Clash/?snr=1_7_7_2300_150_55",
+    "name": "Chronicles of a Dark Lord: Rhapsody Clash",
+    "discount_percent": "37",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/418310/header.jpg?t=1448025124",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "907380",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/907380/The_Ballad_Singer/?snr=1_7_7_2300_150_63",
+    "name": "The Ballad Singer",
+    "discount_percent": "17",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907380/header.jpg?t=1551263808",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "877850",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/877850/TribeXR_DJ_School/?snr=1_7_7_2300_150_68",
+    "name": "TribeXR DJ School",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/877850/header.jpg?t=1556066993",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "340960",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/340960/Pulsen/?snr=1_7_7_2300_150_70",
+    "name": "Pulsen",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/340960/header.jpg?t=1472711833",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "698140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/698140/SnakEscape_Plus/?snr=1_7_7_2300_150_81",
+    "name": "SnakEscape: Plus",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/698140/header.jpg?t=1542281412",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "1031570",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/1031570/Hookshot/?snr=1_7_7_2300_150_82",
+    "name": "Hookshot",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031570/header.jpg?t=1551084200",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "700350",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/700350/QUBIC_Soundtrack/?snr=1_7_7_2300_150_84",
+    "name": "QUBIC: Soundtrack",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/700350/header.jpg?t=1522438095",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "773080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/773080/MORE_SWEATER_OK_DLC/?snr=1_7_7_2300_150_84",
+    "name": "MORE SWEATER? OK! (DLC)",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/773080/header.jpg?t=1542282347",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  },
+  {
+    "id": "1027800",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/1027800/Fly_Flew_Flown/?snr=1_7_7_2300_150_86",
+    "name": "Fly Flew Flown",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1027800/header.jpg?t=1552314240",
+    "update_at": "2019-05-09T10:58:09.676Z"
+  }
+]

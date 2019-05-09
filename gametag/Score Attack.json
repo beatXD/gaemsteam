@@ -1,9 +1,65 @@
-{
-  "id": "912980",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/912980/AstroViking__Soundtrack/?snr=1_7_7_2300_150_86",
-  "name": "AstroViking - Soundtrack",
-  "discount_percent": "45",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/912980/header.jpg?t=1533913279",
-  "update_at": "2019-05-09T07:44:38.166Z"
-}
+[
+  {
+    "id": "1067560",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/1067560/AIR_Battlefront/?snr=1_7_7_2300_150_5",
+    "name": "AIR Battlefront",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1067560/header.jpg?t=1557157339",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  },
+  {
+    "id": "562260",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/562260/WAVESHAPER/?snr=1_7_7_2300_150_20",
+    "name": "WAVESHAPER",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/562260/header.jpg?t=1504628014",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  },
+  {
+    "id": "897690",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/897690/Ding_Dong_VR/?snr=1_7_7_2300_150_34",
+    "name": "Ding Dong VR",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/897690/header.jpg?t=1547845415",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  },
+  {
+    "id": "969480",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/969480/Warp_Glider/?snr=1_7_7_2300_150_35",
+    "name": "Warp Glider",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/969480/header.jpg?t=1549651598",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  },
+  {
+    "id": "640970",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/640970/In_Game_Adventure_Legend_of_Monsters/?snr=1_7_7_2300_150_38",
+    "name": "In Game Adventure: Legend of Monsters",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640970/header.jpg?t=1540004034",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  },
+  {
+    "id": "640970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/640970/In_Game_Adventure_Legend_of_Monsters/?snr=1_7_7_2300_150_39",
+    "name": "In Game Adventure: Legend of Monsters",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/640970/header.jpg?t=1540004034",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  },
+  {
+    "id": "912980",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/912980/AstroViking__Soundtrack/?snr=1_7_7_2300_150_86",
+    "name": "AstroViking - Soundtrack",
+    "discount_percent": "45",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/912980/header.jpg?t=1533913279",
+    "update_at": "2019-05-09T10:57:56.305Z"
+  }
+]

@@ -1,9 +1,20 @@
-{
-  "id": "628450",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/628450/Magnificent_Ships_Volume_2/?snr=1_7_7_2300_150_53",
-  "name": "Magnificent Ships: Volume 2",
-  "discount_percent": "30",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/628450/header.jpg?t=1541715702",
-  "update_at": "2019-05-09T07:44:37.258Z"
-}
+[
+  {
+    "id": "494840",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/494840/UBOAT/?snr=1_7_7_2300_150_1",
+    "name": "UBOAT",
+    "discount_percent": "15",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/494840/header.jpg?t=1556636661",
+    "update_at": "2019-05-09T10:58:50.389Z"
+  },
+  {
+    "id": "628450",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/628450/Magnificent_Ships_Volume_2/?snr=1_7_7_2300_150_53",
+    "name": "Magnificent Ships: Volume 2",
+    "discount_percent": "30",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/628450/header.jpg?t=1541715702",
+    "update_at": "2019-05-09T10:58:50.389Z"
+  }
+]

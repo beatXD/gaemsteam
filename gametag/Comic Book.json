@@ -1,9 +1,38 @@
-{
-  "id": "925900",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/925900/Monica_e_a_Guarda_dos_Coelhos/?snr=1_7_7_2300_150_51",
-  "name": "Monica e a Guarda dos Coelhos",
-  "discount_percent": "33",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/925900/header.jpg?t=1543965748",
-  "update_at": "2019-05-09T07:44:37.196Z"
-}
+[
+  {
+    "id": "635390",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/635390/Thief_of_Thieves_Season_One/?snr=1_7_7_2300_150_2",
+    "name": "Thief of Thieves: Season One",
+    "discount_percent": "66",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/635390/header.jpg?t=1542046794",
+    "update_at": "2019-05-09T10:57:52.641Z"
+  },
+  {
+    "id": "319970",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/319970/The_Detail/?snr=1_7_7_2300_150_19",
+    "name": "The Detail",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/319970/header.jpg?t=1529997401",
+    "update_at": "2019-05-09T10:57:52.641Z"
+  },
+  {
+    "id": "336730",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/336730/Supreme_League_of_Patriots__Episode_3_Ice_Cold_in_Ellis/?snr=1_7_7_2300_150_43",
+    "name": "Supreme League of Patriots - Episode 3: Ice Cold in Ellis",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/336730/header.jpg?t=1478025856",
+    "update_at": "2019-05-09T10:57:52.641Z"
+  },
+  {
+    "id": "925900",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/925900/Monica_e_a_Guarda_dos_Coelhos/?snr=1_7_7_2300_150_51",
+    "name": "Monica e a Guarda dos Coelhos",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/925900/header.jpg?t=1543965748",
+    "update_at": "2019-05-09T10:57:52.641Z"
+  }
+]

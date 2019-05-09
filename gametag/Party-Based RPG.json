@@ -1,9 +1,191 @@
-{
-  "id": "1031410",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
-  "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
-  "discount_percent": "20",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
-  "update_at": "2019-05-09T07:44:38.347Z"
-}
+[
+  {
+    "id": "435150",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/?snr=1_7_7_2300_150_1",
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/435150/header.jpg?t=1550672369",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "373420",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/?snr=1_7_7_2300_150_1",
+    "name": "Divinity: Original Sin - Enhanced Edition",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/373420/header.jpg?t=1512992769",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "208580",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/208580/header.jpg?t=1545238520",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "32370",
+    "host": "2",
+    "url": "https://store.steampowered.com/app/32370/STAR_WARS__Knights_of_the_Old_Republic/?snr=1_7_7_2300_150_2",
+    "name": "STAR WARS™ - Knights of the Old Republic™",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32370/header.jpg?t=1545238521",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "332400",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/332400/Girlfriend_Rescue/?snr=1_7_7_2300_150_9",
+    "name": "Girlfriend Rescue",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/332400/header.jpg?t=1487172283",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "370660",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/370660/Opaline/?snr=1_7_7_2300_150_9",
+    "name": "Opaline",
+    "discount_percent": "90",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/370660/header.jpg?t=1494150284",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "461350",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/461350/The_Kings_Heroes/?snr=1_7_7_2300_150_14",
+    "name": "The King's Heroes",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461350/header.jpg?t=1506119772",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "46450",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46450/Grotesque_Tactics_Evil_Heroes/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics: Evil Heroes",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46450/header.jpg?t=1542361592",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "46570",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/46570/Grotesque_Tactics_2__Dungeons_and_Donuts/?snr=1_7_7_2300_150_18",
+    "name": "Grotesque Tactics 2 – Dungeons and Donuts",
+    "discount_percent": "80",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/46570/header.jpg?t=1542379662",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "206060",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/206060/Avernum_6/?snr=1_7_7_2300_150_20",
+    "name": "Avernum 6",
+    "discount_percent": "70",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/206060/header.jpg?t=1447355313",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "761030",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/761030/EARTHLOCK/?snr=1_7_7_2300_150_31",
+    "name": "EARTHLOCK",
+    "discount_percent": "56",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/761030/header.jpg?t=1549638899",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "341780",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/341780/Chronicles_of_a_Dark_Lord_Episode_II_War_of_The_Abyss/?snr=1_7_7_2300_150_34",
+    "name": "Chronicles of a Dark Lord: Episode II War of The Abyss",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/341780/header.jpg?t=1499955251",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "492500",
+    "host": "9",
+    "url": "https://store.steampowered.com/app/492500/Heroes_of_the_Monkey_Tavern/?snr=1_7_7_2300_150_39",
+    "name": "Heroes of the Monkey Tavern",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/492500/header.jpg?t=1530525121",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "291650",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/291650/Pillars_of_Eternity/?snr=1_7_7_2300_150_41",
+    "name": "Pillars of Eternity",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/291650/header.jpg?t=1552039638",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "603080",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/603080/Chronicles_of_a_Dark_Lord_Tides_of_Fate_Remastered/?snr=1_7_7_2300_150_43",
+    "name": "Chronicles of a Dark Lord: Tides of Fate Remastered",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603080/header.jpg?t=1536779713",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "603080",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/603080/Chronicles_of_a_Dark_Lord_Tides_of_Fate_Remastered/?snr=1_7_7_2300_150_44",
+    "name": "Chronicles of a Dark Lord: Tides of Fate Remastered",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/603080/header.jpg?t=1536779713",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "907820",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/907820/Aeon_of_Sands__The_Trail/?snr=1_7_7_2300_150_51",
+    "name": "Aeon of Sands - The Trail",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/907820/header.jpg?t=1556292972",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "336280",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/336280/Chronicles_of_a_Dark_Lord_Episode_1_Tides_of_Fate_Complete/?snr=1_7_7_2300_150_60",
+    "name": "Chronicles of a Dark Lord: Episode 1 Tides of Fate Complete",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/336280/header.jpg?t=1447365653",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "415570",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/415570/Fantasy_Grounds__DD_Sword_Coast_Adventurers_Guide/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - D&D Sword Coast Adventurer's Guide",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/415570/header.jpg?t=1505076273",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "299140",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/299140/Fantasy_Grounds__PFRPG_Basic_Paths_Fangs_from_the_Past/?snr=1_7_7_2300_150_61",
+    "name": "Fantasy Grounds - PFRPG Basic Paths: Fangs from the Past",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/299140/header.jpg?t=1447361719",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  },
+  {
+    "id": "1031410",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/1031410/Fantasy_Grounds__Dungeons__Dragons_Tactical_Maps_Reincarnated/?snr=1_7_7_2300_150_91",
+    "name": "Fantasy Grounds - Dungeons & Dragons Tactical Maps Reincarnated",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1031410/header.jpg?t=1556712374",
+    "update_at": "2019-05-09T10:58:51.154Z"
+  }
+]

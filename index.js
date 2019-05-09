@@ -9,6 +9,7 @@ const getid = (game) => {
 const gethost = (game) => {
   const hostsearch = game.link.search('steam');
   const host = game.link.substr(hostsearch, 5);
+  console.log(host, hostsearch);
   return host;
 };
 
@@ -27,7 +28,7 @@ const getname = game => game.name;
 const getimage = game => game.image;
 
 
-const creatobj = (game) => {
+const createobj = (game) => {
   const gameobj = {
     id: getid(game),
     host: gethost(game),
@@ -40,14 +41,16 @@ const creatobj = (game) => {
   return gameobj;
 };
 
-
 gameJSON.forEach((game) => {
-  const gamelist = creatobj(game);
-
   game.tags.forEach((tags) => {
-    const data = JSON.stringify(gamelist, null, 2);
+    const filter = gameJSON.filter(Games => Games.tags.includes(tags));
+    const filtermap = filter.map((games) => {
+      const mapobj = createobj(games);
+      return mapobj;
+    });
 
-    fs.writeFileSync(`gametag/${tags}.json`, data, (err) => {
+    const data = JSON.stringify(filtermap, null, 2);
+    fs.writeFileSync(`gametag/${tags}.json`, (data), (err) => {
       if (err) throw err;
     });
   });

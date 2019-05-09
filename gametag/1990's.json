@@ -1,9 +1,92 @@
-{
-  "id": "799510",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/799510/Squidlit/?snr=1_7_7_2300_150_55",
-  "name": "Squidlit",
-  "discount_percent": "25",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/799510/header.jpg?t=1554878955",
-  "update_at": "2019-05-09T07:44:37.342Z"
-}
+[
+  {
+    "id": "441550",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/441550/STAR_WARS_Rebellion/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ Rebellion",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/441550/header.jpg?t=1542764392",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "32400",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/32400/STAR_WARS__Dark_Forces/?snr=1_7_7_2300_150_3",
+    "name": "STAR WARS™ - Dark Forces",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/32400/header.jpg?t=1542757668",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "456540",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/456540/STAR_WARS_Rebel_Assault_I__II/?snr=1_7_7_2300_150_4",
+    "name": "STAR WARS™: Rebel Assault I + II",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/456540/header.jpg?t=1542764655",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "493310",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/493310/Requiem_Avenging_Angel/?snr=1_7_7_2300_150_16",
+    "name": "Requiem: Avenging Angel",
+    "discount_percent": "75",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/493310/header.jpg?t=1467910043",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "752330",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/752330/Shape_of_America_Episode_One/?snr=1_7_7_2300_150_26",
+    "name": "Shape of America: Episode One",
+    "discount_percent": "60",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/752330/header.jpg?t=1530611236",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "502750",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/502750/Quest_for_Glory_15/?snr=1_7_7_2300_150_47",
+    "name": "Quest for Glory 1-5",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/502750/header.jpg?t=1472524232",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "832710",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/832710/The_7th_Circle/?snr=1_7_7_2300_150_47",
+    "name": "The 7th Circle",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/832710/header.jpg?t=1539592203",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "502750",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/502750/Quest_for_Glory_15/?snr=1_7_7_2300_150_48",
+    "name": "Quest for Glory 1-5",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/502750/header.jpg?t=1472524232",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "559640",
+    "host": "0",
+    "url": "https://store.steampowered.com/app/559640/Betrayal_Collection/?snr=1_7_7_2300_150_50",
+    "name": "Betrayal Collection",
+    "discount_percent": "35",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/559640/header.jpg?t=1481822365",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  },
+  {
+    "id": "799510",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/799510/Squidlit/?snr=1_7_7_2300_150_55",
+    "name": "Squidlit",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/799510/header.jpg?t=1554878955",
+    "update_at": "2019-05-09T10:57:54.759Z"
+  }
+]

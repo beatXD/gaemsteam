@@ -1,9 +1,65 @@
-{
-  "id": "952140",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/952140/Surrogate/?snr=1_7_7_2300_150_85",
-  "name": "Surrogate",
-  "discount_percent": "50",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/952140/header.jpg?t=1540295339",
-  "update_at": "2019-05-09T07:44:38.130Z"
-}
+[
+  {
+    "id": "461350",
+    "host": "4",
+    "url": "https://store.steampowered.com/app/461350/The_Kings_Heroes/?snr=1_7_7_2300_150_14",
+    "name": "The King's Heroes",
+    "discount_percent": "85",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/461350/header.jpg?t=1506119772",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  },
+  {
+    "id": "592200",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/592200/Super_Army_of_Tentacles_3_The_Search_for_Army_of_Tentacles_2/?snr=1_7_7_2300_150_46",
+    "name": "Super Army of Tentacles 3: The Search for Army of Tentacles 2",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/592200/header.jpg?t=1553634294",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  },
+  {
+    "id": "536690",
+    "host": "7",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_57",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  },
+  {
+    "id": "536690",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/536690/AENTITY/?snr=1_7_7_2300_150_58",
+    "name": "AENTITY",
+    "discount_percent": "25",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/536690/header.jpg?t=1554976601",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  },
+  {
+    "id": "705120",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/705120/Death_Coming/?snr=1_7_7_2300_150_58",
+    "name": "Death Coming",
+    "discount_percent": "20",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/705120/header.jpg?t=1556098783",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  },
+  {
+    "id": "662240",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/662240/Epitasis/?snr=1_7_7_2300_150_68",
+    "name": "Epitasis",
+    "discount_percent": "10",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/662240/header.jpg?t=1557101065",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  },
+  {
+    "id": "952140",
+    "host": "5",
+    "url": "https://store.steampowered.com/app/952140/Surrogate/?snr=1_7_7_2300_150_85",
+    "name": "Surrogate",
+    "discount_percent": "50",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/952140/header.jpg?t=1540295339",
+    "update_at": "2019-05-09T10:58:08.992Z"
+  }
+]

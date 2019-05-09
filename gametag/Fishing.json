@@ -1,9 +1,38 @@
-{
-  "id": "846710",
-  "host": "steam",
-  "url": "https://store.steampowered.com/app/846710/DeVine_World_of_Shadows/?snr=1_7_7_2300_150_38",
-  "name": "De'Vine: World of Shadows",
-  "discount_percent": "51",
-  "image": "https://steamcdn-a.akamaihd.net/steam/apps/846710/header.jpg?t=1556216111",
-  "update_at": "2019-05-09T07:44:36.694Z"
-}
+[
+  {
+    "id": "580200",
+    "host": "1",
+    "url": "https://store.steampowered.com/app/580200/Yonder_The_Cloud_Catcher_Chronicles/?snr=1_7_7_2300_150_1",
+    "name": "Yonder: The Cloud Catcher Chronicles",
+    "discount_percent": "40",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/580200/header.jpg?t=1524883651",
+    "update_at": "2019-05-09T10:58:49.067Z"
+  },
+  {
+    "id": "248530",
+    "host": "3",
+    "url": "https://store.steampowered.com/app/248530/Depth_Hunter_2_Deep_Dive/?snr=1_7_7_2300_150_3",
+    "name": "Depth Hunter 2: Deep Dive",
+    "discount_percent": "65",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/248530/header.jpg?t=1478065127",
+    "update_at": "2019-05-09T10:58:49.067Z"
+  },
+  {
+    "id": "715050",
+    "host": "6",
+    "url": "https://store.steampowered.com/app/715050/The_Islander/?snr=1_7_7_2300_150_6",
+    "name": "The Islander",
+    "discount_percent": "33",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/715050/header.jpg?t=1537084021",
+    "update_at": "2019-05-09T10:58:49.067Z"
+  },
+  {
+    "id": "846710",
+    "host": "8",
+    "url": "https://store.steampowered.com/app/846710/DeVine_World_of_Shadows/?snr=1_7_7_2300_150_38",
+    "name": "De'Vine: World of Shadows",
+    "discount_percent": "51",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/846710/header.jpg?t=1556216111",
+    "update_at": "2019-05-09T10:58:49.068Z"
+  }
+]
